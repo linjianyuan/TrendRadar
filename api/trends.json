@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T02:38:44.033716+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-04T03:36:43.597721+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -69,9 +69,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
+          "url": "https://wallstreetcn.com/livenews/3062981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "特朗普：可容忍油价短期内上涨 优先消除伊朗威胁",
@@ -80,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -108,23 +119,35 @@
           "time_info": "[01时38分 ~ 02时38分]"
         },
         {
+          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
+          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时36分]"
+        },
+        {
+          "title": "报道：特朗普今日将评估控制能源价格的方案",
+          "url": "https://wallstreetcn.com/livenews/3062950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时36分]"
+        },
+        {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
           "url": "https://wallstreetcn.com/livenews/3062929",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时38分]"
-        },
-        {
-          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
-          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -160,18 +183,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "报道：特朗普今日将评估控制能源价格的方案",
-          "url": "https://wallstreetcn.com/livenews/3062950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -215,7 +227,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -226,9 +238,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
+          "url": "https://wallstreetcn.com/livenews/3062968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "美国总统特朗普：我们正在进行各种关税研究。",
@@ -275,6 +298,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "特朗普否认被以色列“拖入战争”",
+          "url": "https://wallstreetcn.com/livenews/3062965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
           "title": "美国总统特朗普：我们还有5个月的时间，关税仍将维持在15%。",
           "url": "https://flash.jin10.com/detail/20260304011852586800",
           "source": "金十数据",
@@ -319,6 +353,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "西班牙：有办法遏制美国总统特朗普威胁的切断贸易往来的影响。 特朗普在贸易问题上必须尊重国际法。",
+          "url": "https://wallstreetcn.com/livenews/3062959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
           "title": "美国总统特朗普：我有权叫停与西班牙有关的一切事宜。",
           "url": "https://flash.jin10.com/detail/20260304011055344800",
           "source": "金十数据",
@@ -341,6 +386,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "特朗普称伊朗军事能力遭重创 否认被以色列“拖入战争”",
+          "url": "https://flash.jin10.com/detail/20260304025627144800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
           "title": "美国总统特朗普：一旦战争结束，油价可能会跌到比之前更低的水平。",
           "url": "https://flash.jin10.com/detail/20260304011000296800",
           "source": "金十数据",
@@ -358,7 +414,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -410,7 +466,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -420,8 +476,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
+        },
+        {
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "黄金白银跌不停",
@@ -441,7 +508,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         }
@@ -460,8 +527,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         },
         {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -470,7 +537,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -481,7 +548,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         }
@@ -498,11 +565,12 @@
           "ranks": [
             26,
             25,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         },
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -510,11 +578,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         }
       ]
     },
@@ -531,8 +600,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         }
       ]
     },
@@ -548,8 +617,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时36分]"
         }
       ]
     },
