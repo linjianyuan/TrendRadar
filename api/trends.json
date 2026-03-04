@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T12:02:44.586651+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-03-04T13:38:56.556464+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 12时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 13时38分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -35,11 +35,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 12时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 13时38分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -153,6 +154,18 @@
           "time_info": "[03时36分 ~ 04时26分]"
         },
         {
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 13时38分]"
+        },
+        {
           "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
           "url": "https://flash.jin10.com/detail/20260304054539761800",
           "source": "金十数据",
@@ -177,17 +190,6 @@
           "time_info": "[01时38分 ~ 02时38分]"
         },
         {
-          "title": "西班牙回应特朗普称将切断贸易往来",
-          "url": "https://www.toutiao.com/trending/7612678791206387775/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时02分]"
-        },
-        {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
           "url": "https://www.cls.cn/detail/2301855",
           "source": "财联社热门",
@@ -196,8 +198,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 13时38分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时38分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -327,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
@@ -648,6 +651,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "报道：特朗普周二与Coinbase首席执行官举行了私人会晤",
+          "url": "https://wallstreetcn.com/livenews/3063317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国总统特朗普：关税让美国变得非常富裕。",
           "url": "https://flash.jin10.com/detail/20260304010909859800",
           "source": "金十数据",
@@ -774,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时38分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -866,7 +880,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -953,8 +967,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时36分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[03时36分 ~ 13时38分]"
         },
         {
           "title": "金十图示：2026年03月04日（周三）白银ETF持仓报告",
@@ -963,7 +977,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1030,7 +1044,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1060,7 +1074,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -1105,11 +1119,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时38分]"
+        },
+        {
+          "title": "A股农业股午后再度拉升，神农种业、秋乐种业涨超15%，农发种业、亚盛集团此前涨停，康农种业、登海种业、荃银高科、隆平高科涨逾7%。",
+          "url": "https://wallstreetcn.com/livenews/3063335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "13时38分"
         },
         {
           "title": "A股三大指数均跌超1%，油气、煤炭、航运、贵金属等方向跌幅居前，沪深京三市下跌个股超4100只。",
@@ -1118,7 +1144,46 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证50指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3063338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "上证指数早盘收报4063.57点，跌1.43%。 深证成指早盘收报13884.37点，跌0.98%。 创业板指早盘收报3156.95点，跌1.64%。 沪深300早盘收报4581.06点，跌1.61%。 科创50早盘收报1378.96点，跌0.68%。 中证500早盘收报8236.07点，跌0.55%。 中证1000早盘收报8085.54点，跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3063263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "上证50股指期货（IH）主力合约日内下跌2.00%，现报2951.8点。",
+          "url": "https://flash.jin10.com/detail/20260304112829672800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -1147,8 +1212,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 13时38分]"
         },
         {
           "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
@@ -1160,34 +1225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4063.57点，跌1.43%。 深证成指早盘收报13884.37点，跌0.98%。 创业板指早盘收报3156.95点，跌1.64%。 沪深300早盘收报4581.06点，跌1.61%。 科创50早盘收报1378.96点，跌0.68%。 中证500早盘收报8236.07点，跌0.55%。 中证1000早盘收报8085.54点，跌0.70%。",
-          "url": "https://wallstreetcn.com/livenews/3063263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "上证50股指期货（IH）主力合约日内下跌2.00%，现报2951.8点。",
-          "url": "https://flash.jin10.com/detail/20260304112829672800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         }
       ]
     },
