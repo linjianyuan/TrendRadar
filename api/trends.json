@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T19:25:26.244976+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2026-03-04T20:38:52.069414+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时02分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时02分 ~ 20时38分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -54,11 +54,12 @@
             21,
             24,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 19时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 20时38分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -79,8 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时37分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时37分 ~ 20时38分]"
         },
         {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
@@ -190,6 +191,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "特朗普要求亚马逊、谷歌等签署能源承诺 防止数据中心“吸血”居民账单",
+          "url": "https://flash.jin10.com/detail/20260304201805383800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
           "url": "https://wallstreetcn.com/livenews/3063034",
           "source": "华尔街见闻-快讯",
@@ -266,8 +278,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 20时38分]"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时25分]"
+          "time_info": "[18时29分 ~ 20时38分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -376,18 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时26分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -740,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美国财长贝森特：（谈伊朗问题表示）美国总统特朗普对此有清晰的设想，各方都应退让一步。",
+          "url": "https://flash.jin10.com/detail/20260304200948614800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "特朗普：将切断美国和西班牙之间的贸易往来",
@@ -1126,8 +1149,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时38分]"
         },
         {
           "title": "金十图示：2026年03月04日（周三）白银ETF持仓报告",
@@ -1174,6 +1197,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时38分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月4日（周三）早盘盘初下跌3.09%报1149.72元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）早盘盘初下跌4.69%报21220.0元/千克。",
@@ -1229,17 +1264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        },
-        {
-          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月4日（周三）收盘下跌2.83%报1152.8元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）收盘下跌3.26%报21538.0元/千克。",
@@ -1302,8 +1326,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时02分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时02分 ~ 20时38分]"
         },
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -1344,6 +1368,19 @@
           "time_info": "09时18分"
         },
         {
+          "title": "中国石油A股市值重回第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时38分]"
+        },
+        {
           "title": "中石油时隔七年重夺A股市值冠军",
           "url": "https://www.toutiao.com/trending/7612223959422337066/",
           "source": "今日头条",
@@ -1354,18 +1391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时33分 ~ 18时29分]"
-        },
-        {
-          "title": "中国石油A股市值重回第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
         },
         {
           "title": "A股油气股拉升回暖，通源石油涨超15%，潜能恒信、贝肯能源、科力股份、中曼石油、中海油服等纷纷冲高。",
@@ -1459,8 +1484,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 20时38分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1491,7 +1516,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
