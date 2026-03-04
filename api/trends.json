@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T09:18:02.188670+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-03-04T12:02:44.586651+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 12时02分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -34,11 +34,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 09时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 12时02分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -183,8 +184,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时02分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -259,17 +272,6 @@
           "time_info": "[04时26分 ~ 05时28分]"
         },
         {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
           "url": "https://wallstreetcn.com/livenews/3062968",
           "source": "华尔街见闻-快讯",
@@ -325,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
@@ -421,7 +434,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -487,7 +500,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -737,7 +750,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -749,8 +762,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 12时02分]"
+        },
+        {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时02分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -762,18 +787,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
-          "url": "https://www.cls.cn/detail/2301893",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 09时18分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -847,6 +860,17 @@
           "time_info": "[05时28分 ~ 06时22分]"
         },
         {
+          "title": "亚太股市颓势依旧，日经指数跌3%，韩国股市暴跌触发熔断，三星电子跌超7%，欧美股指期货企稳",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260304020824934800",
           "source": "金十数据",
@@ -905,7 +929,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -929,8 +953,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时36分 ~ 09时18分]"
+          "appearance_count": 11,
+          "time_info": "[03时36分 ~ 12时02分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260304115154262800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "黄金盘中跌超 3%，一度跌破 5100 美元，现货白银暴跌 12%，一度跌破 80 美元，发生了什么？",
@@ -973,7 +1008,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -984,9 +1019,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "黄金白银再直线拉升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "黄金白银跌不停",
@@ -1014,7 +1060,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -1050,9 +1096,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，油气、煤炭、航运、贵金属等方向跌幅居前，沪深京三市下跌个股超4100只。",
+          "url": "https://wallstreetcn.com/livenews/3063259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
@@ -1079,8 +1147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时02分]"
         },
         {
           "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
@@ -1092,6 +1160,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4063.57点，跌1.43%。 深证成指早盘收报13884.37点，跌0.98%。 创业板指早盘收报3156.95点，跌1.64%。 沪深300早盘收报4581.06点，跌1.61%。 科创50早盘收报1378.96点，跌0.68%。 中证500早盘收报8236.07点，跌0.55%。 中证1000早盘收报8085.54点，跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3063263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "上证50股指期货（IH）主力合约日内下跌2.00%，现报2951.8点。",
+          "url": "https://flash.jin10.com/detail/20260304112829672800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
