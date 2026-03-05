@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:29:11.934334+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-03-05T20:41:22.761971+08:00",
+  "total_titles_processed": 1847,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 20时41分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -112,6 +112,17 @@
           "time_info": "[09时19分 ~ 14时41分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时41分]"
+        },
+        {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
           "url": "https://wallstreetcn.com/articles/3766690",
           "source": "华尔街见闻",
@@ -149,17 +160,6 @@
           "time_info": "[00时35分 ~ 06时24分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时29分]"
-        },
-        {
           "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -179,8 +179,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时41分]"
         },
         {
           "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
@@ -189,7 +189,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -287,7 +287,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -441,7 +441,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -756,7 +756,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -808,7 +808,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，纳指期货涨0.16%，油价再度跳水，白银跌3%",
@@ -818,8 +818,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时41分]"
         },
         {
           "title": "风险偏好重燃，日韩股市大幅反弹， 三星电子大涨13%，现货白银短线跳水，油价维持涨势",
@@ -886,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘盘初上涨0.77%报21350.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260305200536019800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "国投白银LOF：3月6日开市起至当日10:30停牌",
@@ -1014,8 +1025,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时41分]"
         },
         {
           "title": "A股化工板块震荡反弹，恒逸石化触及涨停，恒力石化、荣盛石化、华谊集团、桐昆股份、海利得跟涨。",
@@ -1149,8 +1160,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时23分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[07时23分 ~ 20时41分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
