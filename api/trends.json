@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-06T07:47:15.510193+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-03-06T09:24:16.960405+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 07时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时56分 ~ 09时24分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -52,6 +53,28 @@
           "time_info": "[01时56分 ~ 06时25分]"
         },
         {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
           "url": "https://flash.jin10.com/detail/20260306015308180800",
           "source": "金十数据",
@@ -80,7 +103,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -191,6 +214,18 @@
           "time_info": "[06时25分 ~ 07时47分]"
         },
         {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 09时24分]"
+        },
+        {
           "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
           "url": "https://wallstreetcn.com/livenews/3064652",
           "source": "华尔街见闻-快讯",
@@ -216,15 +251,26 @@
           "time_info": "[03时13分 ~ 04时31分]"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
+          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
+          "url": "https://www.cls.cn/detail/2304524",
           "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
@@ -366,9 +412,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "据AXIOS网站：Anthropic首席执行官就泄露的批评特朗普的备忘录致歉。",
+          "url": "https://flash.jin10.com/detail/20260306083924046800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei为一份泄露的批评特朗普政府的备忘录道歉。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3064729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "美国总统特朗普：美国拥有海量军火，国防工业正加大生产。无需启动《国防生产法》。",
@@ -443,7 +511,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -454,7 +522,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -462,7 +530,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -484,19 +552,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 07时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时56分 ~ 09时24分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
           "url": "https://www.cls.cn/detail/2304478",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 09时24分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -625,12 +694,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "日韩股指跌幅快速收窄，日经225指数现跌0.14%，韩国首尔综合指数跌0.26%。 美股期货小幅走高，标普500指数期货现涨0.2%，纳斯达克100指数期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3064716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "芝加哥商品交易所（CME）：将其COMEX 100黄金期货的初始保证金由9%下调至7%。COMEX 5000白银期货的初始保证金由18%下调至14%。",
@@ -654,6 +734,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月6日（周五）早盘盘初下跌1.35%报1133.29元/克；<br/>上海黄金交易所白银T+D 3月6日（周五）早盘盘初下跌1.37%报20896.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260306090124234800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘收盘下跌1.37%报1133.0元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘收盘下跌0.89%报20999.0元/千克。",
@@ -691,8 +782,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 09时24分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
@@ -750,6 +841,35 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
+          "url": "https://finance.ifeng.com/loc/cbslt2026",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时56分 ~ 09时24分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-03-06）",
+          "url": "https://flash.jin10.com/detail/20260306090355137800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "eth",
       "match_count": 1,
       "titles": [
@@ -760,26 +880,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
-          "url": "https://finance.ifeng.com/loc/cbslt2026",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 07时47分]"
         }
       ]
     }
