@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:24:36.920620+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-03-07T16:22:13.835342+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 13时36分]"
+        },
+        {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 16时22分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 15时24分]"
         },
         {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
@@ -149,6 +149,18 @@
           "time_info": "[13时36分 ~ 14时31分]"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 16时22分]"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
           "url": "https://flash.jin10.com/detail/20260307032000001800",
           "source": "金十数据",
@@ -217,18 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：我们与国防制造公司进行了一次非常好的会谈。 英国宇航系统（BAE Systems）、波音、霍尼韦尔Honeywell Aerospace、雷神等企业的高管们出席了会议。 他们同意，将部分武器的产量提高三倍。",
@@ -394,8 +394,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 15时24分]"
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 16时22分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
