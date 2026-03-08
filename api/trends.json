@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T18:18:42.915565+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-08T19:15:43.719788+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时20分 ~ 19时15分]"
         },
         {
           "title": "王毅回应特朗普访华",
@@ -89,8 +89,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时20分 ~ 19时15分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -187,6 +187,18 @@
           "time_info": "[02时23分 ~ 03时17分]"
         },
         {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时15分]"
+        },
+        {
           "title": "伊朗外交部长：如果特朗普想升级局势，他将如愿以偿。",
           "url": "https://flash.jin10.com/detail/20260308015219595800",
           "source": "金十数据",
@@ -222,6 +234,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时15分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
@@ -275,26 +299,17 @@
           "time_info": "[00时19分 ~ 03时17分]"
         },
         {
-          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
-          "url": "https://wallstreetcn.com/articles/3766963",
-          "source": "华尔街见闻",
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            19,
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
-          "url": "https://wallstreetcn.com/articles/3766970",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时15分]"
         },
         {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
@@ -308,18 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时05分 ~ 14时34分]"
-        },
-        {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时18分]"
         },
         {
           "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
@@ -380,6 +383,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-08）",
+          "url": "https://flash.jin10.com/detail/20260308183208221800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "特朗普暗讽英国航母“姗姗来迟”：不需要在我们已经获胜后才加入战争的人",
           "url": "https://flash.jin10.com/detail/20260308080925846800",
           "source": "金十数据",
@@ -389,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "美国宣布有条件放松对委内瑞拉黄金交易相关制裁！委代总统：将以“特朗普式速度”加快美获取委矿产进程，包括黄金、稀土等",
+          "url": "https://wallstreetcn.com/articles/3766957",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -503,11 +528,12 @@
           "ranks": [
             5,
             8,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "沙特阿美股价早盘上涨3.3%。",
@@ -549,8 +575,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 18时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 19时15分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -562,8 +588,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 19时15分]"
         },
         {
           "title": "下周A股如何选择方向",
@@ -588,11 +614,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时15分]"
         },
         {
           "title": "国投白银LOF：3月9日开市起至当日10:30停牌",
@@ -600,11 +627,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时15分]"
         }
       ]
     },
