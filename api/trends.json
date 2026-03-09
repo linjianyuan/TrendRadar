@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T18:38:57.419779+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-03-09T19:31:38.301198+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 18时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时20分 ~ 19时31分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -161,6 +161,17 @@
           "time_info": "[17时41分 ~ 17时42分]"
         },
         {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时31分]"
+        },
+        {
           "title": "美媒使用旧视频掩盖特朗普失礼行为",
           "url": "https://www.toutiao.com/trending/7615121103565340681/",
           "source": "今日头条",
@@ -205,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -267,6 +267,18 @@
           "time_info": "[04时18分 ~ 06时16分]"
         },
         {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 19时31分]"
+        },
+        {
           "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
           "url": "https://flash.jin10.com/detail/20260309010309555800",
           "source": "金十数据",
@@ -291,17 +303,6 @@
           "time_info": "[03时19分 ~ 04时18分]"
         },
         {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 18时38分]"
-        },
-        {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
           "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
           "source": "凤凰网",
@@ -309,8 +310,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 19时31分]"
         },
         {
           "title": "伊朗高官：特朗普不懂伊朗",
@@ -448,7 +449,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -514,7 +515,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -547,7 +548,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -558,9 +559,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美国总统特使威特科夫、特朗普女婿库什纳访以行程推迟。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3066456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "特朗普：油价飙升是“预料中的波折”",
@@ -702,8 +714,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时23分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[02时23分 ~ 19时31分]"
         },
         {
           "title": "美股三大股指期货周一全线低开，均跌1%。",
@@ -757,7 +769,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
