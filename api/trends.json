@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:36:16.096773+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-09T17:42:00.204326+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -21,6 +21,35 @@
           "time_info": "[00时19分 ~ 12时10分]"
         },
         {
+          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
+          "url": "https://www.cls.cn/detail/2306588",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 17时42分]"
+        },
+        {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 17时42分]"
+        },
+        {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
           "source": "澎湃新闻",
@@ -31,6 +60,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时19分 ~ 12时10分]"
+        },
+        {
+          "title": "美媒劝特朗普见好就收",
+          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 17时42分]"
         },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -44,34 +84,6 @@
           "time_info": "[01时17分 ~ 05时17分]"
         },
         {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 16时36分]"
-        },
-        {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时10分 ~ 16时36分]"
-        },
-        {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
           "url": "https://wallstreetcn.com/articles/3766963",
           "source": "华尔街见闻",
@@ -83,17 +95,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 07时17分]"
-        },
-        {
-          "title": "美媒劝特朗普见好就收",
-          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 16时36分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -146,6 +147,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时10分 ~ 16时36分]"
+        },
+        {
+          "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "美媒使用旧视频掩盖特朗普失礼行为",
+          "url": "https://www.toutiao.com/trending/7615121103565340681/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 17时42分]"
         },
         {
           "title": "特朗普回应油价暴涨",
@@ -230,18 +255,6 @@
           "time_info": "[04时18分 ~ 06时16分]"
         },
         {
-          "title": "美媒使用旧视频掩盖特朗普失礼行为",
-          "url": "https://www.toutiao.com/trending/7615121103565340681/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 16时36分]"
-        },
-        {
           "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
           "url": "https://flash.jin10.com/detail/20260309010309555800",
           "source": "金十数据",
@@ -287,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 14时53分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
@@ -335,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时18分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "据以色列N12新闻：特朗普总统的顾问和女婿贾里德·库什纳预计将于周二抵达以色列。",
@@ -598,6 +633,81 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
+          "url": "https://wallstreetcn.com/articles/3766978",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时23分 ~ 17时42分]"
+        },
+        {
+          "title": "美股三大股指期货周一全线低开，均跌1%。",
+          "url": "https://flash.jin10.com/detail/20260309060042758800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时17分]"
+        },
+        {
+          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "美股股指期货跌幅扩大至2%",
+          "url": "https://flash.jin10.com/detail/20260309062453185800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
+          "url": "https://wallstreetcn.com/livenews/3066004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 5,
       "titles": [
@@ -661,69 +771,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
-          "url": "https://wallstreetcn.com/articles/3766978",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 07时17分]"
-        },
-        {
-          "title": "美股三大股指期货周一全线低开，均跌1%。",
-          "url": "https://flash.jin10.com/detail/20260309060042758800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时17分]"
-        },
-        {
-          "title": "美股股指期货跌幅扩大至2%",
-          "url": "https://flash.jin10.com/detail/20260309062453185800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
-          "url": "https://wallstreetcn.com/livenews/3066004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -780,7 +827,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
