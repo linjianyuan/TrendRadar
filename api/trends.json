@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:39:55.996706+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-03-11T16:32:53.884008+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -70,11 +70,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 16时32分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -84,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时32分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -97,8 +98,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 16时32分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -123,6 +124,18 @@
           "time_info": "[13时43分 ~ 14时42分]"
         },
         {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时32分]"
+        },
+        {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
           "url": "https://flash.jin10.com/detail/20260311011404351800",
           "source": "金十数据",
@@ -145,8 +158,8 @@
           "time_info": "07时21分"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
           "ranks": [
             8,
@@ -154,7 +167,19 @@
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时39分]"
+          "time_info": "[12时04分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 16时32分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -168,30 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 03时34分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
@@ -272,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "克里姆林宫发言人佩斯科夫：俄罗斯欢迎特朗普为解决乌克兰局势所做的努力，对此表示感谢。",
+          "url": "https://flash.jin10.com/detail/20260311161116549800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
@@ -453,7 +465,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -475,8 +487,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -632,6 +644,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "甲骨文美股盘前涨超11%，公司营收指引超预期。",
+          "url": "https://wallstreetcn.com/livenews/3067922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
           "url": "https://flash.jin10.com/detail/20260311040210694800",
           "source": "金十数据",
@@ -699,7 +722,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -740,7 +763,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-11）",
@@ -765,13 +788,24 @@
           "time_info": "14时42分"
         },
         {
+          "title": "A股全天67只涨停股",
+          "url": "https://www.toutiao.com/trending/7614851798159015942/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-03-11）",
           "url": "https://flash.jin10.com/detail/20260311152623026800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -799,9 +833,37 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月11日（周三）上海金午盘价为1149.92元/克，较国际金价(1146.83元/克)，高3.09元/克",
+          "url": "https://flash.jin10.com/detail/20260311153126480800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "机构：中东冲突前景不明，金价走势承压",
+          "url": "https://flash.jin10.com/detail/20260311160836282800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -831,23 +893,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月11日（周三）上海金午盘价为1149.92元/克，较国际金价(1146.83元/克)，高3.09元/克",
-          "url": "https://flash.jin10.com/detail/20260311153126480800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         }
       ]
     },
