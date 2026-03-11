@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-11T07:21:43.383655+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-03-11T09:15:57.613198+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
           "url": "https://www.cls.cn/detail/2308807",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时15分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -92,7 +93,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -157,13 +158,35 @@
           "time_info": "03时34分"
         },
         {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
           "url": "https://wallstreetcn.com/articles/3767103",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -185,7 +208,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -358,7 +381,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -379,9 +402,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -406,6 +440,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 06时21分]"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时15分]"
         },
         {
           "title": "纽约期金涨超1.9%，一度在美股早盘逼近5250美元",
@@ -467,17 +513,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时24分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -560,8 +595,30 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 3月11日（周三）早盘盘初上涨0.87%报1156.0元/克；<br/>上海黄金交易所白银T+D 3月11日（周三）早盘盘初上涨0.62%报22400.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260311090229539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "现货白银突破89美元/盎司，日内涨0.76%。",
+          "url": "https://flash.jin10.com/detail/20260311084804252800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.34吨，当前持仓量为15654.57吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260311062025416800",
@@ -569,7 +626,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -612,6 +669,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-03-11）",
+          "url": "https://flash.jin10.com/detail/20260311090412007800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
