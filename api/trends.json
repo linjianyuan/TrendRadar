@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:43:51.917692+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-03-13T14:42:33.719928+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -50,11 +50,23 @@
             6,
             29,
             20,
-            27
+            27,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 13时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时43分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -123,8 +124,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 14时42分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时19分 ~ 13时43分]"
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -138,17 +151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 12时06分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时43分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -173,6 +175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时19分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时42分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
@@ -231,17 +244,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
           "url": "https://flash.jin10.com/detail/20260313004045966800",
           "source": "金十数据",
@@ -251,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "日本首相高市早苗：将巩固与特朗普的信任关系。 将在美峰会中阐述日本在中东问题上的立场。 强化基本面能增强日元的信心。",
+          "url": "https://wallstreetcn.com/livenews/3069422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "当地时间3月12日，美国总统特朗普表示，他认为伊朗最高领袖穆杰塔巴·哈梅内伊可能“受伤但仍然活着”。（央视新闻）",
@@ -380,7 +393,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -391,7 +404,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -423,8 +436,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 14时42分]"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -571,7 +584,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-13）",
@@ -589,22 +602,35 @@
           "url": "https://wallstreetcn.com/livenews/3069391",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时42分]"
         },
         {
           "title": "A股有色·钨概念持续走弱，中钨高新、章源钨业逼近跌停，翔鹭钨业、厦门钨业、西部材料跌幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3069387",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时42分]"
+        },
+        {
+          "title": "A股电子气体概念快速拉升，华特气体涨超10%，中船特气、金宏气体、和远气体、凯美特气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3069425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "14时42分"
         },
         {
           "title": "A股电网设备板块局部走低，顺钠股份触及跌停，中电鑫龙跌超8%，明阳电气、汉缆股份、国电南自跟跌。",
@@ -613,7 +639,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -624,9 +650,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3069405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "瑞银：A股对地缘政治事件体现一定下行保护",
@@ -638,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "A股医疗耗材股持续走高，中红医疗、英科医疗逼近20cm涨停，奥美医疗、蓝帆医疗此前涨停，三鑫医疗、采纳股份涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3069400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
@@ -654,7 +702,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -667,6 +715,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 07时21分]"
+        },
+        {
+          "title": "现货白银日内走低1%，现报83.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3069431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月13日（周五）早盘盘初下跌0.6%报1138.4元/克；<br/>上海黄金交易所白银T+D 3月13日（周五）早盘盘初上涨0.36%报21667.0元/千克。",
@@ -690,6 +749,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时19分]"
+        },
+        {
+          "title": "现货白银日内走低1.00%，现报83.04美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313142251740800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "现货白银日内下跌超2美元，现报83.57美元/盎司，跌幅2.49%。",
@@ -717,7 +787,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -727,8 +797,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -751,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "地区冲突担忧笼罩市场 美债恐慌指标升至九个月高位",
+          "url": "https://wallstreetcn.com/livenews/3069435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "两年期美债收益率涨10个基点，突破3.76%",
