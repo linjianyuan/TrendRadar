@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:26:00.049119+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-03-19T09:24:53.268766+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时24分]"
         },
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -64,8 +64,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时24分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19,
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时24分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -75,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时24分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -86,21 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时26分]"
-        },
-        {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时24分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -120,7 +121,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -131,7 +132,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -214,9 +215,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
@@ -233,18 +245,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
           "url": "https://www.cls.cn/detail/2317455",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 09时24分]"
+        },
+        {
+          "title": "美股三大指数全线下挫",
+          "url": "https://www.toutiao.com/trending/7618166160891199529/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
@@ -279,7 +303,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -290,7 +314,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -396,7 +420,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -447,6 +471,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时28分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月19日（周四）早盘盘初下跌2.88%报1079.0元/克；<br/>上海黄金交易所白银T+D 3月19日（周四）早盘盘初下跌3.98%报19077.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260319090040039800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
@@ -483,11 +518,12 @@
           "url": "https://www.cls.cn/detail/2317196",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时52分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[04时52分 ~ 09时24分]"
         }
       ]
     },
