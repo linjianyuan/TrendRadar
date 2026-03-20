@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T01:35:18.485105+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-21T02:37:25.439972+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
@@ -37,8 +37,41 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "向特朗普提问的日本记者，遭疯狂网暴",
+          "url": "https://news.ifeng.com/c/8retvRzJFC1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
+          "time_info": "[01时35分 ~ 02时37分]"
         },
         {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
@@ -51,39 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时35分]"
-        },
-        {
-          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
-        },
-        {
-          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
-        },
-        {
-          "title": "向特朗普提问的日本记者，遭疯狂网暴",
-          "url": "https://news.ifeng.com/c/8retvRzJFC1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
         },
         {
           "title": "特朗普：如果现在停战，伊朗重建将需要10年",
@@ -111,7 +111,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金白银为何暴跌？",
@@ -121,8 +121,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月20日（周五）晚盘收盘下跌2.33%报1015.89元/克；<br/>上海黄金交易所白银T+D 3月20日（周五）晚盘收盘下跌4.21%报17100.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260321023017502800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "黄金白银价格为何双双暴跌",
@@ -138,6 +149,47 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
+          "url": "https://flash.jin10.com/detail/20260321022539496800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -149,8 +201,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -158,40 +210,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
             7,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         }
       ]
     },
@@ -204,11 +228,12 @@
           "url": "https://wallstreetcn.com/livenews/3074271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时37分]"
         }
       ]
     },
@@ -223,9 +248,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
+          "url": "https://wallstreetcn.com/livenews/3074297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     }
