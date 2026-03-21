@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-03-21T16:23:47.054210+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-03-21T17:25:29.584376+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
-        {
-          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2320056",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 16时23分]"
-        },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
           "url": "https://wallstreetcn.com/articles/3767948",
@@ -31,6 +17,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2320056",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 17时25分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -45,8 +46,25 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时21分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[06时21分 ~ 16时23分]"
+          "time_info": "[07时22分 ~ 17时25分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
@@ -71,22 +89,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 16时23分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -133,6 +135,33 @@
           "time_info": "[01时35分 ~ 09时15分]"
         },
         {
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时25分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -142,6 +171,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 17时25分]"
         },
         {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
@@ -154,33 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时15分]"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
-          "url": "https://www.cls.cn/detail/2320222",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时23分]"
         },
         {
           "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
@@ -203,17 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 16时23分]"
         },
         {
           "title": "特朗普：我的支持率达到了前所未有的100%",
@@ -353,6 +356,18 @@
           "time_info": "[05时24分 ~ 06时21分]"
         },
         {
+          "title": "默茨说特朗普对他不太满意",
+          "url": "https://flash.jin10.com/detail/20260321154534112800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
           "url": "https://wallstreetcn.com/livenews/3074255",
           "source": "华尔街见闻-快讯",
@@ -473,14 +488,14 @@
         },
         {
           "title": "默茨说特朗普对他不太满意",
-          "url": "https://flash.jin10.com/detail/20260321154534112800",
-          "source": "金十数据",
+          "url": "https://wallstreetcn.com/livenews/3074426",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "17时25分"
         },
         {
           "title": "美国内政部长伯古姆：特朗普的能源战略正是为此时刻而设。",
@@ -651,7 +666,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -666,8 +681,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 16时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 17时25分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -677,8 +692,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -688,11 +703,12 @@
             6,
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 17时25分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -719,8 +735,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 17时25分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -851,6 +867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -978,7 +1005,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价一周大跌11%",
@@ -1064,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "国际金价创43年最大单周跌幅",
+          "url": "https://www.douyin.com/hot/2438620",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
@@ -1185,11 +1223,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 17时25分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
@@ -1203,6 +1242,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时21分 ~ 09时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "本周A股行情分化 下周走势会如何",
+          "url": "https://www.toutiao.com/trending/7619074426105217065/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时07分]"
+        },
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2320337",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -1221,24 +1289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "本周A股行情分化 下周走势会如何",
-          "url": "https://www.toutiao.com/trending/7619074426105217065/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
         }
       ]
     }
