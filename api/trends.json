@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:31:39.638881+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-03-29T18:25:55.476884+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时25分]"
+        },
+        {
+          "title": "全美超900万人举行抗议反对特朗普",
+          "url": "https://www.toutiao.com/trending/7621824327100940294/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时08分 ~ 18时25分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时25分 ~ 14时09分]"
-        },
-        {
-          "title": "全美超900万人举行抗议反对特朗普",
-          "url": "https://www.toutiao.com/trending/7621824327100940294/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时08分 ~ 17时31分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时22分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[06时22分 ~ 18时25分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -179,11 +179,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
+          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -195,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
-          "url": "https://flash.jin10.com/detail/20260329165022283800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         }
       ]
     },
@@ -300,8 +302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时25分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -313,8 +315,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时08分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时08分 ~ 18时25分]"
         }
       ]
     },
@@ -358,11 +360,12 @@
           "url": "https://flash.jin10.com/detail/20260329170740669800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
         }
       ]
     },
@@ -382,8 +385,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时25分]"
         }
       ]
     }
