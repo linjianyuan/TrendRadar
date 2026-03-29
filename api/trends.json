@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T18:25:55.476884+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-03-29T19:23:21.238195+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时23分]"
         },
         {
           "title": "全美超900万人举行抗议反对特朗普",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时22分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[06时22分 ~ 19时23分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -163,6 +163,20 @@
           "time_info": "12时32分"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
           "url": "https://www.zhihu.com/question/2021274346899943516",
           "source": "知乎",
@@ -174,29 +188,17 @@
           "time_info": "[09时44分 ~ 14时09分]"
         },
         {
-          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时25分]"
-        },
-        {
           "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
           "url": "https://flash.jin10.com/detail/20260329165022283800",
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -208,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
+          "url": "https://flash.jin10.com/detail/20260329182448742800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
@@ -302,8 +315,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时23分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -315,8 +328,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时08分 ~ 18时25分]"
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 19时23分]"
         }
       ]
     },
@@ -361,11 +374,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时23分]"
         }
       ]
     },
@@ -385,8 +399,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时23分]"
         }
       ]
     }
