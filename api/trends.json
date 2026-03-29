@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T14:09:00.358757+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-03-29T15:48:38.620400+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时48分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -77,8 +77,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 14时09分]"
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 15时48分]"
+        },
+        {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 15时48分]"
         },
         {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
@@ -92,30 +105,6 @@
           "time_info": "[00时25分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
-          "url": "https://wallstreetcn.com/articles/3768645",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时09分]"
-        },
-        {
-          "title": "美国全国爆发反对特朗普政府集会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 14时09分]"
-        },
-        {
           "title": "全美超900万人举行抗议反对特朗普",
           "url": "https://www.toutiao.com/trending/7621824327100940294/",
           "source": "今日头条",
@@ -123,8 +112,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时48分]"
         },
         {
           "title": "美媒：美国各地掀起“拒绝君王”集会 反对特朗普",
@@ -148,6 +137,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时23分]"
+        },
+        {
+          "title": "美国全国爆发反对特朗普政府集会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 15时48分]"
         },
         {
           "title": "全美爆发反特朗普政府集会",
@@ -232,7 +234,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         }
@@ -275,19 +277,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时48分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
           "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时48分]"
         }
       ]
     },
@@ -337,8 +340,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时48分]"
         }
       ]
     }
