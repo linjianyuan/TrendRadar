@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:37:31.438331+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-03-29T21:47:44.584676+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 20时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 21时47分]"
         },
         {
           "title": "全美超900万人举行抗议反对特朗普",
@@ -116,6 +116,21 @@
           "time_info": "[00时25分 ~ 07时24分]"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 21时47分]"
+        },
+        {
           "title": "美媒：美国各地掀起“拒绝君王”集会 反对特朗普",
           "url": "https://flash.jin10.com/detail/20260329052513866800",
           "source": "金十数据",
@@ -150,21 +165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时32分 ~ 15时48分]"
-        },
-        {
-          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 20时37分]"
         },
         {
           "title": "全美爆发反特朗普政府集会",
@@ -207,11 +207,23 @@
           "source": "金十数据",
           "ranks": [
             9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时47分]"
+        },
+        {
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
+          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时37分]"
+          "time_info": "[20时37分 ~ 21时47分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -223,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         }
       ]
     },
@@ -342,8 +343,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 20时37分]"
+          "appearance_count": 10,
+          "time_info": "[14时08分 ~ 21时47分]"
         }
       ]
     },
@@ -371,7 +372,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
@@ -424,8 +425,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 20时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 21时47分]"
         }
       ]
     }
