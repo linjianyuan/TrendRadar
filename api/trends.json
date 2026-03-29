@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:24:14.976484+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-03-29T09:45:10.129223+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时45分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时45分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -48,11 +48,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时45分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -108,8 +109,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 07时24分]"
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 09时45分]"
+        },
+        {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
+          "url": "https://www.zhihu.com/question/2021274346899943516",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
@@ -129,6 +152,19 @@
           "time_info": "[00时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时45分]"
+        },
+        {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
@@ -136,20 +172,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时45分]"
         }
       ]
     },
@@ -197,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时45分]"
         },
         {
           "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
@@ -206,11 +230,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[03时25分 ~ 09时45分]"
         }
       ]
     },
@@ -224,11 +249,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时45分]"
         }
       ]
     }
