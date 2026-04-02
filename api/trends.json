@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T22:19:48.661259+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2026-04-02T23:54:22.718694+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 147,
+      "match_count": 150,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时24分 ~ 23时54分]"
         },
         {
           "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
@@ -91,6 +91,20 @@
           "time_info": "[00时03分 ~ 07时31分]"
         },
         {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 23时54分]"
+        },
+        {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
           "url": "https://wallstreetcn.com/articles/3768931",
           "source": "华尔街见闻",
@@ -103,17 +117,30 @@
           "time_info": "[00时03分 ~ 07时31分]"
         },
         {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
           "ranks": [
-            8,
+            5,
+            4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时54分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时54分]"
         },
         {
           "title": "特朗普称将很快撤出伊朗战事",
@@ -142,20 +169,6 @@
           "time_info": "[00时03分 ~ 05时36分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 22时19分]"
-        },
-        {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
           "url": "https://wallstreetcn.com/articles/3769054",
           "source": "华尔街见闻",
@@ -166,19 +179,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 22时19分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时24分 ~ 23时54分]"
         },
         {
           "title": "特朗普：接下来几周将对伊朗进行更强火力打击",
@@ -228,11 +230,12 @@
             12,
             15,
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时24分 ~ 23时54分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -247,6 +250,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时44分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            27,
+            9,
+            16,
+            29,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时01分 ~ 23时54分]"
         },
         {
           "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
@@ -320,21 +339,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时27分 ~ 18时45分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            27,
-            9,
-            16,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时01分 ~ 22时19分]"
         },
         {
           "title": "特朗普称美军将很快撤出伊朗战事",
@@ -438,7 +442,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -943,7 +947,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1234,6 +1238,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "特朗普预算案为中期选举铺路：强化国防开支，削减其他项目",
+          "url": "https://wallstreetcn.com/livenews/3081684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普曾威胁称，除非欧洲加入霍尔木兹海峡联盟，否则将停止向乌克兰提供武器。",
           "url": "https://flash.jin10.com/detail/20260402015048512800",
           "source": "金十数据",
@@ -1339,7 +1354,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1441,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。",
+          "url": "https://wallstreetcn.com/livenews/3081677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "美国总统特朗普：伊朗此前正在储备常规弹道导弹，这些导弹不久后本可以“抵达美国本土、欧洲以及地球上几乎任何其他地方”。",
@@ -1630,6 +1656,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "美国总统特朗普通知司法部长Bondi，她的任期即将结束。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3081669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "特朗普拟重塑钢铝关税：成品统一征25%，取代按金属价值征收的50%关税",
           "url": "https://flash.jin10.com/detail/20260402051233396800",
           "source": "金十数据",
@@ -1710,7 +1747,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -1733,8 +1770,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 23时54分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -1802,7 +1839,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1834,6 +1871,19 @@
           "time_info": "[05时36分 ~ 06时30分]"
         },
         {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时54分]"
+        },
+        {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股行业ETF，能源业ETF跌超3.7%",
           "url": "https://wallstreetcn.com/livenews/3081109",
           "source": "华尔街见闻-快讯",
@@ -1844,18 +1894,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时30分]"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时19分]"
         },
         {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
@@ -1894,13 +1932,25 @@
           "time_info": "[04时37分 ~ 05时36分]"
         },
         {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时54分]"
+        },
+        {
           "title": "美股跌幅扩大，纳指跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3081637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1922,7 +1972,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1933,7 +1983,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1955,20 +2005,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
         {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
+          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
+          "url": "https://www.cls.cn/detail/2333333",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时54分"
         },
         {
           "title": "美国总统特朗普就伊朗战争发表讲话，美股指数期货下跌。标普500指数期货最新下跌0.5%。",
@@ -1988,7 +2038,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2021,7 +2071,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2032,7 +2082,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2065,7 +2115,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2100,6 +2150,17 @@
           "time_info": "[16时01分 ~ 19时41分]"
         },
         {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时54分]"
+        },
+        {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股期货全线下跌，黄金跌破4600、白银日内跌超5%",
           "url": "https://wallstreetcn.com/articles/3769052",
           "source": "华尔街见闻",
@@ -2109,17 +2170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
-        },
-        {
-          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "美股股指期货、WTI原油和现货黄金周四开盘基本持稳，现货白银低开0.3%。",
@@ -2273,11 +2323,12 @@
             12,
             11,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时54分]"
         },
         {
           "title": "A股能否再次V型反转",
@@ -2298,11 +2349,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时54分]"
         },
         {
           "title": "上交所：2026年3月A股新开户460.14万户，同比增长50.10%",
@@ -2477,7 +2529,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2606,11 +2658,12 @@
             17,
             20,
             26,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时24分 ~ 23时54分]"
         },
         {
           "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
