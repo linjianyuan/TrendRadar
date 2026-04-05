@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T16:35:49.093760+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-05T17:32:46.244481+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "time_info": "[00时26分 ~ 07时25分]"
         },
         {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时32分]"
+        },
+        {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
           "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
           "source": "澎湃新闻",
@@ -44,15 +55,32 @@
           "time_info": "[00时26分 ~ 12时32分]"
         },
         {
-          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
-          "url": "https://wallstreetcn.com/articles/3769270",
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            9,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时32分]"
+        },
+        {
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 17时32分]"
         },
         {
           "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
@@ -64,19 +92,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时24分 ~ 09时46分]"
-        },
-        {
-          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
-          "url": "https://wallstreetcn.com/articles/3769276",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时35分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -118,20 +133,6 @@
           "time_info": "[05时25分 ~ 09时46分]"
         },
         {
-          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
-          "url": "https://www.cls.cn/detail/2335441",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 16时35分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
           "url": "https://flash.jin10.com/detail/20260405044003027800",
           "source": "金十数据",
@@ -156,6 +157,32 @@
           "time_info": "14时12分"
         },
         {
+          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时32分]"
+        },
+        {
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时32分]"
+        },
+        {
           "title": "特朗普就其移民政策发表最新讲话",
           "url": "https://flash.jin10.com/detail/20260405030425436800",
           "source": "金十数据",
@@ -169,32 +196,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时22分 ~ 09时46分]"
-        },
-        {
-          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时35分]"
-        },
-        {
-          "title": "伊朗军方拒绝特朗普“48小时”通牒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时35分]"
         },
         {
           "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
@@ -276,8 +277,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 17时32分]"
         },
         {
           "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
@@ -484,8 +485,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 16时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 17时32分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -497,8 +498,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 16时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 17时32分]"
         },
         {
           "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
@@ -506,11 +507,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 17时32分]"
         },
         {
           "title": "一夜十家被罚 A股严查这些雷区",
