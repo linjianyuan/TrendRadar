@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T21:02:41.871025+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-04-07T23:02:23.783591+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 158,
+      "match_count": 168,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时47分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[03时47分 ~ 23时02分]"
         },
         {
           "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
@@ -106,6 +106,19 @@
           "time_info": "[00时38分 ~ 07时29分]"
         },
         {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时07分 ~ 23时02分]"
+        },
+        {
           "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
           "url": "https://www.cls.cn/detail/2335649",
           "source": "财联社热门",
@@ -117,6 +130,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 23时02分]"
         },
         {
           "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
@@ -133,32 +160,6 @@
           "time_info": "[00时38分 ~ 09时31分]"
         },
         {
-          "title": "特朗普威胁伊朗“最后期限”，中方表态",
-          "url": "https://www.cls.cn/detail/2336527",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 21时02分]"
-        },
-        {
           "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
           "source": "澎湃新闻",
@@ -170,8 +171,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 23时02分]"
+        },
+        {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时07分 ~ 23时02分]"
         },
         {
           "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
@@ -200,6 +214,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时31分 ~ 21时02分]"
+        },
+        {
+          "title": "联合国警告特朗普：或涉战争罪",
+          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时02分]"
         },
         {
           "title": "伊朗回应特朗普最新威胁：绝不退缩",
@@ -248,17 +274,26 @@
           "time_info": "[09时31分 ~ 14时15分]"
         },
         {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
-          "source": "华尔街见闻",
+          "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
+          "url": "https://www.cls.cn/detail/2336994",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 21时02分]"
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：整个文明将消亡",
+          "url": "https://news.ifeng.com/c/8s8XYUTRSiV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "特朗普设下最后期限之际，美军“末日飞机”升空",
@@ -271,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时02分 ~ 19时46分]"
+        },
+        {
+          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛哈尔克岛传出爆炸，特朗普称“整个文明将消亡”",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "美以伊战争丨特朗普：被迫炸毁2架深陷沙地运输机",
@@ -323,7 +369,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -339,17 +385,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时15分 ~ 21时02分]"
-        },
-        {
-          "title": "联合国警告特朗普：或涉战争罪",
-          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "特朗普自曝威胁退出北约真相：“想要格陵兰岛 但他们不给 那就说‘拜拜’”",
@@ -374,6 +409,19 @@
           "time_info": "09时31分"
         },
         {
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 23时02分]"
+        },
+        {
           "title": "谁的“最后期限”？外媒称特朗普政府陷入进退维谷困境",
           "url": "https://wallstreetcn.com/livenews/3083452",
           "source": "华尔街见闻-快讯",
@@ -396,6 +444,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 06时28分]"
+        },
+        {
+          "title": "中方就特朗普威胁伊朗表态",
+          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 23时02分]"
         },
         {
           "title": "中方回应特朗普威胁一夜击毁伊朗",
@@ -605,6 +666,31 @@
           "time_info": "[12时28分 ~ 16时08分]"
         },
         {
+          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
+          "url": "https://www.cls.cn/detail/2336608",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 23时02分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 23时02分]"
+        },
+        {
           "title": "内塔尼亚胡警告特朗普",
           "url": "https://news.ifeng.com/c/8s7IfSXTh6S",
           "source": "凤凰网",
@@ -614,19 +700,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
-          "url": "https://wallstreetcn.com/articles/3769340",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 21时02分]"
         },
         {
           "title": "美国总统特朗普谈及攫取伊朗石油，称：“胜利者”享有“战利品”。",
@@ -677,19 +750,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 14时15分]"
-        },
-        {
-          "title": "中方就特朗普威胁伊朗表态",
-          "url": "https://www.toutiao.com/trending/7624686886321393188/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 21时02分]"
         },
         {
           "title": "特朗普自曝威胁退出北约真相",
@@ -834,18 +894,6 @@
           "time_info": "[02时46分 ~ 03时47分]"
         },
         {
-          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
-          "url": "https://www.cls.cn/detail/2336608",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时02分]"
-        },
-        {
           "title": "美媒：特朗普正酝酿内阁大调整",
           "url": "https://news.ifeng.com/c/8s7fanWP0Rp",
           "source": "凤凰网",
@@ -893,6 +941,17 @@
           "time_info": "[00时39分 ~ 01时39分]"
         },
         {
+          "title": "联合国警告特朗普政府",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "标普500指数涨幅重新收窄至不足0.1%。 美国总统特朗普继续宣称，无法让伊朗拥有核武器。 伊朗人“想要我们继续轰炸”。 美军飞行员被手持肩扛式导弹击中。 不希望库尔德武装参与（伊朗战争）。 希望“我不必袭击伊朗发电站和基础设施”。 被问及是否会缩减战争规模，称“我无法告诉你们”。 被问及战争结束问题，称“取决于伊朗的行动”。 伊朗正在真诚地谈判。",
           "url": "https://wallstreetcn.com/livenews/3082923",
           "source": "华尔街见闻-快讯",
@@ -917,6 +976,17 @@
           "time_info": "[09时31分 ~ 12时28分]"
         },
         {
+          "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
+          "url": "https://www.zhihu.com/question/2024942392235614830",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普：美军营救行动出动155架飞机，炸毁两架运输机",
           "url": "https://wallstreetcn.com/livenews/3082919",
           "source": "华尔街见闻-快讯",
@@ -929,16 +999,49 @@
           "time_info": "[02时46分 ~ 03时47分]"
         },
         {
-          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "title": "联合国警告特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：“整个文明将消亡”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918291",
           "source": "澎湃新闻",
           "ranks": [
-            20,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时02分]"
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915193",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普威胁称伊朗整个文明将消亡",
+          "url": "https://www.douyin.com/hot/2458671",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "伊朗最大产油岛哈尔克岛传出多次爆炸，特朗普称“整个文明将消亡”",
@@ -947,7 +1050,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1057,7 +1160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1249,6 +1352,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "韩国回应特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美国总统特朗普：我们派了200人去营救那名空军人员。",
           "url": "https://flash.jin10.com/detail/20260407000015613800",
           "source": "金十数据",
@@ -1315,6 +1429,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "中方表态特朗普威胁伊朗最后期限",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美国总统特朗普：我们在伊朗执行了超过1万次战斗飞行任务，打击了1.3万多个目标。F-15是首架被伊朗击中的有人驾驶战机。",
           "url": "https://flash.jin10.com/detail/20260407012611544800",
           "source": "金十数据",
@@ -1354,7 +1479,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1618,7 +1743,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1676,17 +1801,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
-        },
-        {
-          "title": "联合国警告特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗最后期限）不会再改了。尚未签署任何停火协议。",
@@ -1834,6 +1948,230 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时08分]"
+        },
+        {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 23时02分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时08分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3083507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003239064800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "博通美股盘前涨2.6%，公司将为谷歌供应TPU芯片、为Anthropic提供算力。",
+          "url": "https://wallstreetcn.com/livenews/3083288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003200754800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "全球首款纯内存芯片ETF近日在美股上市",
+          "url": "https://wallstreetcn.com/livenews/3083181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "美伊谈判“最后期限”逼近，美股跌幅扩大，油价攀升，黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040534288800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040513015800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
+        },
+        {
+          "title": "布油基金收涨1%，和新兴市场ETF领涨美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3082967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时28分]"
+        },
+        {
+          "title": "银行业ETF收涨1%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3082965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时28分]"
+        },
+        {
+          "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
+          "url": "https://wallstreetcn.com/livenews/3082970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美伊谈判“最后期限”逼近，美股期货转跌，油价攀升，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
+          "url": "https://flash.jin10.com/detail/20260407040042993800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，纳指期货跌幅扩大至0.85%，标普500指数期货跌0.68%，道指期货跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3083482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "伊朗关闭对美沟通渠道，油价涨、美股黄金跌",
+          "url": "https://flash.jin10.com/detail/20260407220904342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "联合健康美股盘后涨11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
+          "url": "https://wallstreetcn.com/livenews/3082970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 18,
       "titles": [
@@ -1883,6 +2221,20 @@
           "time_info": "[01时39分 ~ 14时15分]"
         },
         {
+          "title": "A股新规正式实施",
+          "url": "https://www.douyin.com/hot/2457860",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时07分 ~ 23时02分]"
+        },
+        {
           "title": "A股开盘，上证指数涨0.1%，深证成指涨0.3%，创业板指涨0.42%。",
           "url": "https://flash.jin10.com/detail/20260407092522259800",
           "source": "金十数据",
@@ -1903,20 +2255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
-        },
-        {
-          "title": "A股新规正式实施",
-          "url": "https://www.douyin.com/hot/2457860",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 21时02分]"
         },
         {
           "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
@@ -2056,210 +2394,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
-          "url": "https://wallstreetcn.com/articles/3769300",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 16时08分]"
-        },
-        {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 21时02分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
-          "url": "https://www.cls.cn/detail/2335967",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 16时08分]"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3083507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260407003239064800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "博通美股盘前涨2.6%，公司将为谷歌供应TPU芯片、为Anthropic提供算力。",
-          "url": "https://wallstreetcn.com/livenews/3083288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
-          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260407003200754800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "全球首款纯内存芯片ETF近日在美股上市",
-          "url": "https://wallstreetcn.com/livenews/3083181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260407040534288800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时32分]"
-        },
-        {
-          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260407040513015800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时32分]"
-        },
-        {
-          "title": "布油基金收涨1%，和新兴市场ETF领涨美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3082967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时28分]"
-        },
-        {
-          "title": "银行业ETF收涨1%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3082965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时28分]"
-        },
-        {
-          "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
-          "url": "https://wallstreetcn.com/livenews/3082970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美伊谈判“最后期限”逼近，美股期货转跌，油价攀升，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
-          "url": "https://flash.jin10.com/detail/20260407040042993800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "美股三大股指期货跌幅扩大，纳指期货跌幅扩大至0.85%，标普500指数期货跌0.68%，道指期货跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3083482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "联合健康美股盘后涨11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
-          "url": "https://wallstreetcn.com/livenews/3082970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
@@ -2284,6 +2420,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "现货白银日内大跌4.00%，现报69.87美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260407221831175800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 4月7日（周二）早盘盘初下跌0.51%报1026.88元/克；<br/>上海黄金交易所白银T+D 4月7日（周二）早盘盘初下跌1.2%报17692.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260407090126233800",
           "source": "金十数据",
@@ -2304,6 +2451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.00%，现报70.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260407220621533800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
@@ -2311,6 +2469,17 @@
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "央行抛售引发金价地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 23时02分]"
+        },
         {
           "title": "瑞银：将6月底黄金价格预期下调至5,200美元/盎司，原因是市场波动加剧之际，投资者需求降温。",
           "url": "https://flash.jin10.com/detail/20260407155438385800",
@@ -2323,24 +2492,13 @@
           "time_info": "16时08分"
         },
         {
-          "title": "央行抛售引发金价地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "DRAM价格超越黄金价格",
           "url": "https://wallstreetcn.com/livenews/3083473",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -2359,8 +2517,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "恒天然：4月7日全球乳品贸易（GDT）拍卖价格指数下降3.4%，奶粉各合同期FAS拍卖均价4,228美元/吨。 批发奶粉价格指数跌0.7%，报3,687美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
         {
           "title": "周一（4月6日）纽约尾盘，ICE美元指数跌0.03%，报99.997点，日内交投区间为100.273-99.757点，北京时间15:28-15:56出现一波显著的下挫行情，22:35刷新日低之后曾迅速反弹。 彭博美元指数跌0.11%，报1214.54点，日内交投区间为1217.98-1212.37点。 美元兑日元涨0.03%，报159.72日元，日内交投区间为159.31-159.83日元。 欧元兑日元涨0.25%，英镑兑日元涨0.25%。",
           "url": "https://wallstreetcn.com/livenews/3082951",
