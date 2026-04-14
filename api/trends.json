@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T12:41:08.677309+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-04-14T14:28:13.070055+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时45分 ~ 12时41分]"
+          "appearance_count": 10,
+          "time_info": "[04时45分 ~ 14时28分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 12时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 14时28分]"
         },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
@@ -68,6 +68,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 09时51分]"
+        },
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时28分]"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -92,6 +104,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时56分 ~ 12时41分]"
+        },
+        {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时36分 ~ 14时28分]"
         },
         {
           "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
@@ -120,17 +144,6 @@
           "time_info": "[00时56分 ~ 07时36分]"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时41分]"
-        },
-        {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
           "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
           "source": "凤凰网",
@@ -157,18 +170,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 12时41分]"
         },
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -206,6 +207,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普：昨日有34艘船只通过霍尔木兹海峡。",
@@ -254,17 +278,6 @@
           "time_info": "[03时05分 ~ 07时36分]"
         },
         {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时41分]"
-        },
-        {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普表示，教皇利奥应该远离政治。",
           "url": "https://flash.jin10.com/detail/20260414060651219800",
           "source": "金十数据",
@@ -275,18 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 06时38分]"
-        },
-        {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时41分]"
         },
         {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
@@ -337,6 +338,18 @@
           "time_info": "[06时23分 ~ 06时38分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
           "source": "澎湃新闻",
@@ -382,17 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时55分]"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -454,6 +456,17 @@
           "time_info": "[01时55分 ~ 03时05分]"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普：前一天有34艘船只通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3087098",
           "source": "华尔街见闻-快讯",
@@ -464,6 +477,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普：许多船只正驶往美国，从而装载石油。",
@@ -540,7 +564,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -701,20 +725,196 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 14,
+      "keyword_group": "A股",
+      "match_count": 16,
       "titles": [
         {
-          "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
+          "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
+          "url": "https://www.cls.cn/detail/2342669",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 09时51分]"
+        },
+        {
+          "title": "A股拟全面适用盘后固定价交易",
+          "url": "https://www.toutiao.com/trending/7628223480814636586/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5,
+            26,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时36分]"
+        },
+        {
+          "title": "A股房地产板块短线拉升，盈新发展直线涨停，黑牡丹、大龙地产、新黄浦、津投城开、合肥城建跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414094704341800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
+          "url": "https://wallstreetcn.com/livenews/3087187",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时45分]"
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
+        {
+          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3087302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "机构研判二季度：A股存在结构性机会，聚焦三大核心投资方向",
+          "url": "https://wallstreetcn.com/livenews/3087185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "宁德时代(03750.HK)H股跌5.5%，现报645港元/股；宁德时代A股跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260414093858458800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股电池产业链反复活跃，石大胜华触及涨停，圣阳股份涨超5%，海科新源、丰元股份、恩捷股份纷纷上扬。",
+          "url": "https://flash.jin10.com/detail/20260414093634485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股房地产板块走高，南山控股涨停，世联行、香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
+          "url": "https://flash.jin10.com/detail/20260414135547364800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "中东地缘冲突反复，“基金买手”增配A股",
+          "url": "https://wallstreetcn.com/livenews/3087181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "A股云计算板块盘初拉升，鸿博股份、盈峰环境涨停，协创数据、金山办公、证通电子、滴普科技、宏景科技涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260414093321458800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股房地产板块午后走高，南山控股、北辰实业涨停，香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3087443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股商业航天概念午后再度拉升，西部材料封涨停，春晖智控、信科移动、震有科技、爱乐达均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3087430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股有色金属板块高开，腾远钴业开涨近14%，寒锐钴业、中色股份、洛阳钼业、紫金矿业纷纷跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414092754849800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股半导体设备股震荡拉升，金海通封涨停，京仪装备、富创精密涨超10%，中科飞测、强一股份、华峰测控涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3087381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "A股培育钻石板块高开，博云新材涨停，惠丰钻石涨超10%，沃尔德、*ST亚振、黄河旋风纷纷高开。",
+          "url": "https://flash.jin10.com/detail/20260414092613177800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
         {
           "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
           "url": "https://www.cls.cn/detail/2342867",
@@ -725,8 +925,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时36分 ~ 14时28分]"
+        },
+        {
+          "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时36分 ~ 12时41分]"
+          "time_info": "[00时56分 ~ 04时45分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股盘中）",
@@ -869,162 +1080,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
-          "url": "https://www.cls.cn/detail/2342669",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 09时51分]"
-        },
-        {
-          "title": "A股拟全面适用盘后固定价交易",
-          "url": "https://www.toutiao.com/trending/7628223480814636586/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            26,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "A股房地产板块短线拉升，盈新发展直线涨停，黑牡丹、大龙地产、新黄浦、津投城开、合肥城建跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414094704341800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
-          "url": "https://wallstreetcn.com/livenews/3087187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3087302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "机构研判二季度：A股存在结构性机会，聚焦三大核心投资方向",
-          "url": "https://wallstreetcn.com/livenews/3087185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "宁德时代(03750.HK)H股跌5.5%，现报645港元/股；宁德时代A股跌近3%。",
-          "url": "https://flash.jin10.com/detail/20260414093858458800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "A股电池产业链反复活跃，石大胜华触及涨停，圣阳股份涨超5%，海科新源、丰元股份、恩捷股份纷纷上扬。",
-          "url": "https://flash.jin10.com/detail/20260414093634485800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "中东地缘冲突反复，“基金买手”增配A股",
-          "url": "https://wallstreetcn.com/livenews/3087181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "A股云计算板块盘初拉升，鸿博股份、盈峰环境涨停，协创数据、金山办公、证通电子、滴普科技、宏景科技涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260414093321458800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "A股有色金属板块高开，腾远钴业开涨近14%，寒锐钴业、中色股份、洛阳钼业、紫金矿业纷纷跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414092754849800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "A股半导体设备股震荡拉升，金海通封涨停，京仪装备、富创精密涨超10%，中科飞测、强一股份、华峰测控涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3087381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "A股培育钻石板块高开，博云新材涨停，惠丰钻石涨超10%，沃尔德、*ST亚振、黄河旋风纷纷高开。",
-          "url": "https://flash.jin10.com/detail/20260414092613177800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 4月13日（周一）晚盘收盘下跌0.11%报1040.05元/克；<br/>上海黄金交易所白银T+D 4月13日（周一）晚盘收盘上涨0.99%报18630.0元/千克。",
@@ -1068,9 +1125,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至2%，现报77.1美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3087423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -1096,7 +1164,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
