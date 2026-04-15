@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T21:05:37.374889+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-04-15T23:02:09.397712+08:00",
+  "total_titles_processed": 1862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 23时02分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -31,11 +31,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 23时02分]"
         },
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -121,6 +122,31 @@
           "time_info": "[00时58分 ~ 04时01分]"
         },
         {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时10分 ~ 23时02分]"
+        },
+        {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时02分]"
+        },
+        {
           "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
           "url": "https://www.cls.cn/detail/2344222",
           "source": "财联社热门",
@@ -144,17 +170,17 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6,
-            5
+            12,
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时10分 ~ 21时05分]"
+          "appearance_count": 7,
+          "time_info": "[18时10分 ~ 23时02分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -166,6 +192,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时24分 ~ 21时05分]"
+        },
+        {
+          "title": "特朗普再次威胁袭击伊朗",
+          "url": "https://news.ifeng.com/c/8sLjLSMNHZq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普拒向教宗道歉，美国民众：很失望",
+          "url": "https://news.ifeng.com/c/8sLg84i0YpG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "关税退款将启动 特朗普一年白忙了吗",
@@ -255,7 +303,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -277,7 +325,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -288,7 +336,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -327,17 +375,6 @@
           "time_info": "19时52分"
         },
         {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
           "title": "美国总统特朗普表示，在英国国王本月晚些时候访问美国之前，美国与伊朗达成协议“是很有可能的”。",
           "url": "https://flash.jin10.com/detail/20260415142243237800",
           "source": "金十数据",
@@ -362,18 +399,6 @@
           "time_info": "[09时46分 ~ 16时24分]"
         },
         {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时10分 ~ 21时05分]"
-        },
-        {
           "title": "英媒：特朗普次子将以个人身份陪同访华",
           "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
           "source": "凤凰网",
@@ -386,6 +411,18 @@
           "time_info": "[12时41分 ~ 16时24分]"
         },
         {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时02分]"
+        },
+        {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
           "url": "https://www.cls.cn/detail/2343501",
           "source": "财联社热门",
@@ -395,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 02时03分]"
+        },
+        {
+          "title": "耶伦：美联储今年仍可能降息，掌门候选人未必会“听特朗普的话”！",
+          "url": "https://www.cls.cn/detail/2344775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
@@ -475,15 +523,15 @@
           "time_info": "19时52分"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
+          "title": "特朗普以金斯伯格为例，暗示高龄大法官应考虑提前退休",
+          "url": "https://wallstreetcn.com/livenews/3088614",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：Anthropic的威胁并非系统性的。 希望沃什能得到确认成为美联储主席。 不打算放弃对鲍威尔的调查。 如果鲍威尔不按时离职，他将被解雇。",
@@ -591,7 +639,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -646,16 +694,39 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "特朗普暗示对伊朗的打击行动将持续",
+          "url": "https://wallstreetcn.com/livenews/3088593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 23时02分]"
+        },
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
           "url": "https://wallstreetcn.com/articles/3769897",
@@ -667,18 +738,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 05时01分]"
-        },
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时41分 ~ 21时05分]"
         },
         {
           "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
@@ -701,6 +760,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时39分]"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -727,6 +797,17 @@
           "time_info": "[19时51分 ~ 21时05分]"
         },
         {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
           "url": "https://wallstreetcn.com/livenews/3087965",
           "source": "华尔街见闻-快讯",
@@ -749,6 +830,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时55分]"
+        },
+        {
+          "title": "美股三大指数小幅高开 耐克涨近2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E6%B6%A8%E8%BF%912%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "美股收盘：中概股集体大涨",
@@ -1191,7 +1283,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
