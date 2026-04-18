@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T16:40:56.258292+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-04-18T17:41:09.484128+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时37分 ~ 16时40分]"
+          "appearance_count": 13,
+          "time_info": "[04时37分 ~ 17时41分]"
         },
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 16时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 17时41分]"
         },
         {
           "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
@@ -57,6 +57,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时32分]"
+        },
+        {
+          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
+          "url": "https://wallstreetcn.com/articles/3770301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时41分]"
         },
         {
           "title": "特朗普最兴奋的一天：三个细节，信息量很大",
@@ -108,16 +120,40 @@
           "time_info": "[00时45分 ~ 05时35分]"
         },
         {
-          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
-          "url": "https://wallstreetcn.com/articles/3770301",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "source": "凤凰网",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时40分]"
+          "time_info": "[14时09分 ~ 17时41分]"
+        },
+        {
+          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
+          "url": "https://wallstreetcn.com/articles/3770302",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时41分]"
+        },
+        {
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 17时41分]"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -137,15 +173,16 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
-          "source": "凤凰网",
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
           "ranks": [
+            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 17时41分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -160,29 +197,18 @@
           "time_info": "[00时45分 ~ 02时46分]"
         },
         {
-          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
-          "url": "https://wallstreetcn.com/articles/3770302",
-          "source": "华尔街见闻",
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            6,
-            5
+            11,
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时40分]"
-        },
-        {
-          "title": "特朗普：以色列，适可而止",
-          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时41分]"
         },
         {
           "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
@@ -192,11 +218,23 @@
             1,
             4,
             14,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 17时41分]"
+        },
+        {
+          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
+          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -235,18 +273,6 @@
           "time_info": "[07时32分 ~ 14时09分]"
         },
         {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 16时40分]"
-        },
-        {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普称，伊朗已同意停止支持真主党和哈马斯等代理组织。",
           "url": "https://flash.jin10.com/detail/20260418023422931800",
           "source": "金十数据",
@@ -270,19 +296,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时27分 ~ 16时40分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时40分]"
         },
         {
           "title": "美媒：特朗普称以色列“禁止”轰炸黎巴嫩 以色列寻求澄清",
@@ -457,6 +470,17 @@
           "time_info": "[12时27分 ~ 16时40分]"
         },
         {
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时41分]"
+        },
+        {
           "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3090284",
           "source": "华尔街见闻-快讯",
@@ -595,17 +619,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 00时46分]"
-        },
-        {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时40分]"
         },
         {
           "title": "伊朗官员否认美国总统特朗普有关浓缩铀问题的论调。（CNN）",
@@ -1026,6 +1039,21 @@
           "time_info": "[00时45分 ~ 06时31分]"
         },
         {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时32分 ~ 17时41分]"
+        },
+        {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
           "url": "https://www.cls.cn/detail/2347815",
           "source": "财联社热门",
@@ -1038,21 +1066,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时45分 ~ 16时40分]"
-        },
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 16时40分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -1257,6 +1270,19 @@
           "time_info": "02时46分"
         },
         {
+          "title": "国际黄金白银价格大涨",
+          "url": "https://www.toutiao.com/trending/7629288526889353242/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 17时41分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：4月14日当周，投机者所持COMEX黄金净多头头寸增加6,737手合约，至98,850手合约，创四周新高。 措施COMEX白银净多头头寸增至11,046手合约，创12周新高。 所持COMEX铜净多头头寸增至52,137手合约，创八周新高。 所持NYMEX铂金净多头头寸增至16,260手合约，创六个月新高。 所持NYMEX钯金净空头头寸降低至1,720手合约，创三周新低。",
           "url": "https://wallstreetcn.com/livenews/3090306",
           "source": "华尔街见闻-快讯",
@@ -1281,18 +1307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时32分]"
-        },
-        {
-          "title": "国际黄金白银价格大涨",
-          "url": "https://www.toutiao.com/trending/7629288526889353242/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 16时40分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月14日当周，COMEX黄金投机者将净多头头寸增加6,739手，至98,850手。COMEX白银投机者将净多头头寸增加1,007手，至11,046手。COMEX铜投机者将净多头头寸增加13,333手，至52,137手。",
@@ -1330,11 +1344,12 @@
           "ranks": [
             3,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时41分]"
         },
         {
           "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
@@ -1380,8 +1395,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时41分]"
         }
       ]
     },
