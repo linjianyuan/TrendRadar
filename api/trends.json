@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T17:53:06.099904+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-04-20T19:15:22.818258+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 17时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 19时15分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 19时15分]"
         },
         {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
@@ -96,15 +107,18 @@
           "time_info": "[09时56分 ~ 17时53分]"
         },
         {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
+          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
+          "url": "https://www.cls.cn/detail/2348969",
+          "source": "财联社热门",
           "ranks": [
-            3
+            12,
+            5,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时56分 ~ 17时53分]"
+          "time_info": "[12时53分 ~ 19时15分]"
         },
         {
           "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
@@ -144,6 +158,17 @@
           "time_info": "[15时13分 ~ 17时53分]"
         },
         {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 19时15分]"
+        },
+        {
           "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -153,30 +178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 15时13分]"
-        },
-        {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 17时53分]"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
@@ -293,6 +294,18 @@
           "time_info": "[00时31分 ~ 03时37分]"
         },
         {
+          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
+          "url": "https://www.cls.cn/detail/2349003",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 19时15分]"
+        },
+        {
           "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
           "url": "https://flash.jin10.com/detail/20260419233905048800",
           "source": "金十数据",
@@ -366,17 +379,6 @@
           "time_info": "[04时29分 ~ 05时28分]"
         },
         {
-          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
-          "url": "https://www.cls.cn/detail/2349003",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
           "title": "特朗普边称要谈判边威胁伊朗，伊朗称「已为战火重燃做好准备」，特朗普目的何在？目前局势如何？",
           "url": "https://www.zhihu.com/question/2029496732459778569",
           "source": "知乎",
@@ -417,7 +419,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -428,9 +430,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普称就对伊朗封锁一事考虑巴基斯坦方面建议",
+          "url": "https://wallstreetcn.com/livenews/3091043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普碰上硬茬了：这个参议员说“不”，白宫也没辙",
@@ -447,7 +460,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
@@ -485,6 +498,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 09时56分]"
+        },
+        {
+          "title": "今天A股利好突袭 市场积极信号明显",
+          "url": "https://www.toutiao.com/trending/7630399576822218815/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "宁德时代A股盘中一度跌超4%，上周五公告称，股东联合创新拟询价转让5800万股，占总股本1.27%。",
@@ -766,8 +790,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 19时15分]"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
