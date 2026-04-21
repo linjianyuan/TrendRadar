@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T14:54:41.041999+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-04-21T16:29:38.756208+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 16时29分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -42,6 +42,19 @@
           "time_info": "[00时58分 ~ 07时37分]"
         },
         {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
           "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
           "source": "凤凰网",
@@ -53,18 +66,6 @@
           "time_info": "[00时58分 ~ 02时55分]"
         },
         {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 14时54分]"
-        },
-        {
           "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
           "url": "https://wallstreetcn.com/articles/3770427",
           "source": "华尔街见闻",
@@ -73,8 +74,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "美国国务院发言人：特朗普总统明确表示，我们不会允许敌对势力威胁我们在美洲的利益。我们正与地区伙伴采取切实措施，打击如贩毒集团等恐怖组织，并撤销那些可能危害我们公民安全的人的签证。",
@@ -99,27 +135,17 @@
           "time_info": "09时51分"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            8
+            12,
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时51分 ~ 14时54分]"
-        },
-        {
-          "title": "特朗普撇清：以色列可说不动我",
-          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "[12时44分 ~ 16时29分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
@@ -285,18 +311,6 @@
           "time_info": "[04时42分 ~ 05时40分]"
         },
         {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时54分]"
-        },
-        {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://flash.jin10.com/detail/20260421021704429800",
           "source": "金十数据",
@@ -364,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国从未如此接近与伊朗达成一项好的协议。 如果与伊朗没有达成协议，特朗普仍然有其他选择。",
@@ -449,7 +474,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -490,8 +515,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时36分 ~ 16时29分]"
+        },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
           "url": "https://wallstreetcn.com/articles/3770361",
@@ -502,17 +538,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 05时40分]"
-        },
-        {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时36分 ~ 14时54分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -648,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "美股收盘：纳指13连涨终结 英特尔跌4%",
