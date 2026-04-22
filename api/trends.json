@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T21:07:45.953596+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-04-22T23:06:39.896130+08:00",
+  "total_titles_processed": 1816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 75,
       "titles": [
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 23时06分]"
         },
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时01分 ~ 21时07分]"
+          "appearance_count": 15,
+          "time_info": "[03时01分 ~ 23时06分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
@@ -57,6 +57,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 09时51分]"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            11,
+            9,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 23时06分]"
         },
         {
           "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
@@ -99,6 +116,20 @@
           "time_info": "[03时01分 ~ 21时07分]"
         },
         {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 23时06分]"
+        },
+        {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
           "url": "https://www.cls.cn/detail/2351404",
           "source": "财联社热门",
@@ -111,22 +142,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时33分 ~ 14时54分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            11,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 21时07分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -151,20 +166,6 @@
           "time_info": "[12时41分 ~ 16时27分]"
         },
         {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 21时07分]"
-        },
-        {
           "title": "特朗普称美伊停火到期将继续轰炸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BD%B0%E7%82%B8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -180,6 +181,18 @@
           "time_info": "[00时52分 ~ 07时31分]"
         },
         {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 23时06分]"
+        },
+        {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -189,18 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 21时07分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -267,6 +268,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 03时01分]"
+        },
+        {
+          "title": "据称特朗普将再给伊朗3至5天停火时间",
+          "url": "https://www.cls.cn/detail/2352682",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "美媒：特朗普再给伊朗3至5天停火时间",
+          "url": "https://news.ifeng.com/c/8sXS8jC94HP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "特朗普宣布延长同伊朗的停火",
@@ -401,6 +424,18 @@
           "time_info": "[19时55分 ~ 21时07分]"
         },
         {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 23时06分]"
+        },
+        {
           "title": "美媒：万斯赴巴之行不明 特朗普私下讨论完全取消行程",
           "url": "https://flash.jin10.com/detail/20260422033033824800",
           "source": "金十数据",
@@ -522,6 +557,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "达美航空、美国航空公司、美联航股价跌幅扩大，华尔街日报报道称，特朗普政府接近达成对Spirit Airlines的救助协议——金额大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "伊朗最高联合军事指挥部警告称，鉴于特朗普的反复威胁，将对预定目标进行“强有力的攻击”。",
           "url": "https://flash.jin10.com/detail/20260422052719298800",
           "source": "金十数据",
@@ -608,17 +654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        },
-        {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "据英国金融时报：美国总统特朗普的贸易负责人呼吁美国盟友为关键矿产支付更多费用。",
@@ -726,7 +761,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -764,6 +799,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "贝森特：特朗普很擅长降低能源成本",
+          "url": "https://wallstreetcn.com/livenews/3092691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特朗普考虑延长对《琼斯法案》的豁免令，以简化美国石油运输。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3092185",
           "source": "华尔街见闻-快讯",
@@ -773,6 +819,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "精神航空（Spirit Aviation）场外交易股价上涨36.7%至0.82美元，此前有报道称特朗普政府接近达成对精神航空的救助。",
+          "url": "https://flash.jin10.com/detail/20260422223809289800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "美国知情人士称：总统特朗普愿意额外给予伊朗3-5天停火时间。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3092689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "特朗普：伊朗财政正在崩溃",
@@ -811,7 +879,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "A股石墨电极板块初盘走强，翔丰华涨停，宁新新材涨超20%，东方碳素涨超10%，贝特瑞、杉杉股份、国民技术、中科电气、中国宝安跟涨。",
@@ -847,6 +915,20 @@
           "time_info": "09时51分"
         },
         {
+          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
+          "url": "https://www.cls.cn/detail/2352288",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 23时06分]"
+        },
+        {
           "title": "媒体：A股市场已进入结构性牛市周期",
           "url": "https://www.toutiao.com/trending/7631029558866935844/",
           "source": "今日头条",
@@ -859,17 +941,16 @@
           "time_info": "[19时55分 ~ 21时07分]"
         },
         {
-          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
-          "url": "https://www.cls.cn/detail/2352288",
-          "source": "财联社热门",
+          "title": "A股主要股指强势上扬",
+          "url": "https://www.toutiao.com/trending/7631507170502115366/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            10,
-            5
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 21时07分]"
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 23时06分]"
         },
         {
           "title": "A股钠离子电池概念上扬，同兴科技2连板，翔丰华涨超15%，传艺科技涨超8%，振华新材、维科技术、贝特瑞、容百科技高开。",
@@ -914,6 +995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
+          "url": "https://www.cls.cn/detail/2352729",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "A股工业气体概念股盘初走高，华特气体涨超10%，金宏气体、中船特气、昊华科技、广钢气体冲高。",
@@ -982,17 +1074,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "A股主要股指强势上扬",
-          "url": "https://www.toutiao.com/trending/7631507170502115366/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
           "title": "A股券商股异动拉升，哈投股份触及涨停，第一创业、广发证券、华泰证券、天风证券、国海证券等纷纷走高。",
           "url": "https://wallstreetcn.com/livenews/3092264",
           "source": "华尔街见闻-快讯",
@@ -1040,7 +1121,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1051,8 +1132,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 23时06分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -1127,6 +1208,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
+          "url": "https://wallstreetcn.com/articles/3770587",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "阿里巴巴美股盘前抹去早前跌幅，现上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3092583",
           "source": "华尔街见闻-快讯",
@@ -1150,6 +1242,17 @@
           "time_info": "[19时55分 ~ 21时07分]"
         },
         {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 23时06分]"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超2.8%，布油基金涨超5.5%",
           "url": "https://wallstreetcn.com/livenews/3092097",
           "source": "华尔街见闻-快讯",
@@ -1171,17 +1274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         },
         {
           "title": "美股盘前，半导体股普涨，阿斯麦涨约1%，ARM涨约2.5%，美光科技涨约1.5%。",
@@ -1212,7 +1304,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -1449,7 +1541,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -1488,7 +1580,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         }
