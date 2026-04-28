@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T20:23:27.362286+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-04-28T23:20:53.914936+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -54,6 +54,17 @@
           "time_info": "[10时07分 ~ 13时52分]"
         },
         {
+          "title": "美国总统特朗普：美国人没有比英国人更亲密的朋友了。",
+          "url": "https://flash.jin10.com/detail/20260428231128764800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "白宫遭枪击,特朗普紧急撤离",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
           "source": "贴吧",
@@ -97,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国总统特朗普：今天真是个美丽的英国日。",
+          "url": "https://flash.jin10.com/detail/20260428230959747800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
@@ -202,6 +224,19 @@
           "time_info": "[05时49分 ~ 06时44分]"
         },
         {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普取消更多风能租赁项目以刺激油气投资",
           "url": "https://flash.jin10.com/detail/20260428052935112800",
           "source": "金十数据",
@@ -212,6 +247,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时45分]"
+        },
+        {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时20分]"
         },
         {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
@@ -236,18 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时44分]"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 20时23分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
@@ -328,17 +363,6 @@
           "time_info": "18时57分"
         },
         {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
           "url": "https://flash.jin10.com/detail/20260428012706873800",
           "source": "金十数据",
@@ -383,6 +407,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国白宫：特朗普的红线已经明确。",
           "url": "https://flash.jin10.com/detail/20260428012403221800",
           "source": "金十数据",
@@ -392,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "英国查尔斯国王会见了特朗普内阁成员，包括美国副总统万斯、美国国务卿鲁比奥和美国财长贝森特。",
+          "url": "https://flash.jin10.com/detail/20260428225630277800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "白宫：美国总统特朗普今早已与国家安全团队会面。",
@@ -438,6 +484,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国总统特朗普走出白宫迎接英国国王查尔斯。",
+          "url": "https://flash.jin10.com/detail/20260428225258398800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "特朗普舞厅诉讼案原告拒绝美国司法部在“刺杀企图”后撤诉的要求。",
           "url": "https://wallstreetcn.com/livenews/3095149",
           "source": "华尔街见闻-快讯",
@@ -480,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "特朗普渲染伊朗困境，分析师却称伊朗仍能扛住美方封锁",
+          "url": "https://flash.jin10.com/detail/20260428225034033800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "特朗普政府解散美国国家科学委员会",
@@ -551,7 +619,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "一季度业绩大爆发！7家A股上市公司净利同比增超10倍",
@@ -818,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "A股今日共77只个股涨停",
+          "url": "https://www.toutiao.com/trending/7633335513469943854/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -948,7 +1027,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -998,7 +1077,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1032,7 +1111,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
