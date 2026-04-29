@@ -1,34 +1,24 @@
 {
-  "generated_at": "2026-04-29T07:47:04.952269+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-04-29T10:08:43.921005+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
-          "url": "https://flash.jin10.com/detail/20260429072129903800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 07时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 10时08分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -37,11 +27,23 @@
           "ranks": [
             18,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 07时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 10时08分]"
+        },
+        {
+          "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
+          "url": "https://flash.jin10.com/detail/20260429072129903800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "美参议院否决限制特朗普对古巴动武决议",
@@ -50,9 +52,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "民调：特朗普支持率跌至任内新低",
+          "url": "https://www.toutiao.com/trending/7633688125021634602/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -61,7 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -112,6 +125,17 @@
           "time_info": "[07时46分 ~ 07时47分]"
         },
         {
+          "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美国多个情报部门正在评估伊朗会对总统特朗普宣布胜利作何反应。（路透）",
           "url": "https://wallstreetcn.com/livenews/3095962",
           "source": "华尔街见闻-快讯",
@@ -123,6 +147,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
+          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
           "url": "https://wallstreetcn.com/livenews/3096010",
           "source": "华尔街见闻-快讯",
@@ -132,6 +167,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
+          "url": "https://www.cls.cn/detail/2358925",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
+          "url": "https://www.cls.cn/detail/2358895",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "路透社/益普索调查：22%的美国人认可美国总统特朗普对生活成本问题的处理，较此前调查中的25%下降。",
@@ -173,7 +230,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -206,7 +263,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -220,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "特朗普再次无视英国王室规矩",
+          "url": "https://www.douyin.com/hot/2482526",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
@@ -264,6 +332,232 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "查尔斯与特朗普上演“握手较量”",
+          "url": "https://www.toutiao.com/trending/7633040828707291172/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3096093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "美国总统特朗普表示，英国国王查尔斯三世同意他有关需确保伊朗永不拥有核武器的观点。",
+          "url": "https://wallstreetcn.com/livenews/3096087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "美国将发行印有特朗普肖像的护照",
+          "url": "https://www.toutiao.com/trending/7633903451563507739/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "A股猪肉概念震荡走高，金新农涨停，正邦科技涨超9%，巨星农牧、天邦食品、神农集团、傲农生物、牧原股份等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429095830430800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股白酒板块震荡走高，今世缘涨超7%，来伊份、酒鬼酒、迎驾贡酒、古井贡酒、山西汾酒等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429095604254800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股体育概念股震荡拉升，舒华体育、共创草坪、三人行涨停，三夫户外、中体产业、双象股份、金陵体育纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3096121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股食品等消费股盘初走强，安井食品、天味食品、百润股份、西麦食品涨停，良品铺子、盐津铺子、黑芝麻、万辰集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3096118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股地产股早盘走强，绿地控股、金融街涨停，荣盛发展、金地集团、福星股份、华夏幸福跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3096113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股煤炭开采板块短线拉升，兖矿能源涨超5%，晋控煤业、山西焦煤、甘肃能化、中煤能源、潞安环能等个股跟涨。消息面上，兖矿能源第一季度净利润为39.55亿元，同比增长42.14%。",
+          "url": "https://flash.jin10.com/detail/20260429095027532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股稀土永磁板块盘初上扬，西磁科技涨超10%，北方稀土、中稀有色、科隆股份、立中集团、中国稀土跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429094632720800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股PCB板块震荡走高，光莆股份、日联科技双双20cm涨停，铜冠铜箔涨超9%，瑞华泰、迅捷兴、中富电路、奕东电子等个股跟涨。日前，覆铜板行业龙头建滔集团旗下广东建滔积层板销售有限公司发布正式涨价通知，从即日起上调FR-4覆铜板及PP半固化片价格，调整幅度为10%。",
+          "url": "https://flash.jin10.com/detail/20260429094536196800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股体育概念走高，比音勒芬、共创草坪涨停，亚泰集团、舒华体育、三夫户外等涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260429094319599800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股锂矿概念低开高走，德方纳米涨超8%，天华新能、西部矿业、永兴材料、国城矿业、雅化集团等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429094314465800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "癌症药物研发公司Erasca股价暴跌55% 一名患者因药物副作用去世",
+          "url": "https://flash.jin10.com/detail/20260429021301478800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "A股光伏设备板块盘初上扬，苏州固锝涨停，同享科技涨超15%，艾罗能源、锦浪科技、固德威、高测股份、酉立智能跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093959959800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股地产股盘初走强，金融街、绿地控股双双涨停，荣盛发展涨超7%，金地集团、福星股份、华发股份、信达地产等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093947819800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股旅游酒店板块盘初冲高，大连圣亚涨超6%，首旅酒店、长白山、三峡旅游、锦江酒店、丽江股份等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093813875800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股电池板块反复活跃，丰元股份涨停，德方纳米、宏工科技、鹏辉能源、铜冠铜箔、中伟新材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093632724800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股低迷原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BD%8E%E8%BF%B7%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     },
@@ -271,6 +565,19 @@
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 10时08分]"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -281,18 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
-        },
-        {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 07时47分]"
         },
         {
           "title": "Silicon Motion Technology Corp.（SIMO）美股盘后涨14%，二季度销售指引超过分析师预期。",
@@ -402,30 +697,30 @@
       ]
     },
     {
-      "keyword_group": "A股",
+      "keyword_group": "上证",
       "match_count": 2,
       "titles": [
         {
-          "title": "癌症药物研发公司Erasca股价暴跌55% 一名患者因药物副作用去世",
-          "url": "https://flash.jin10.com/detail/20260429021301478800",
-          "source": "金十数据",
+          "title": "上证指数开盘报4061.82点，跌0.41%。 深证成指开盘报14751.42点，跌0.53%。 创业板指开盘报3578.42点，跌0.51%。 沪深300开盘报4737.58点，跌0.43%。 科创50开盘报1474.12点，跌0.98%。 中证500开盘报8157.35点，跌0.57%。 中证1000开盘报8163.35点，跌0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3096100",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "A股低迷原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BD%8E%E8%BF%B7%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "10时08分"
+        },
+        {
+          "title": "上证指数转涨，深证成指、创业板指此前转涨；航天装备、游戏、白色家电、传媒等板块涨幅居前；全市近3400股上涨。",
+          "url": "https://flash.jin10.com/detail/20260429094040387800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
@@ -459,8 +754,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 10时08分]"
         }
       ]
     },
