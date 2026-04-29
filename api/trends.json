@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-29T18:49:15.988574+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-04-29T20:13:22.958955+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 20时13分]"
+        },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
@@ -21,19 +34,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时41分 ~ 16时04分]"
-        },
-        {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时47分 ~ 18时49分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -58,8 +58,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 20时13分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 20时13分]"
         },
         {
           "title": "英国国王给特朗普送了一口钟",
@@ -84,17 +95,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时08分 ~ 16时04分]"
-        },
-        {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
@@ -405,6 +405,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "查尔斯国王给特朗普送了口钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
           "url": "https://flash.jin10.com/detail/20260429023026738800",
           "source": "金十数据",
@@ -499,7 +510,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
@@ -778,7 +789,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -869,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
@@ -1020,8 +1042,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时46分 ~ 18时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时46分 ~ 20时13分]"
         }
       ]
     },
