@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T18:59:20.540818+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-05-04T20:21:22.375001+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 18时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 20时21分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -138,6 +138,18 @@
           "time_info": "[00时40分 ~ 07时37分]"
         },
         {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 20时21分]"
+        },
+        {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
           "url": "https://www.cls.cn/detail/2362213",
           "source": "财联社热门",
@@ -149,17 +161,6 @@
           "time_info": "[00时40分 ~ 05时35分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 18时59分]"
-        },
-        {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
           "url": "https://wallstreetcn.com/articles/3771515",
           "source": "华尔街见闻",
@@ -169,8 +170,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 20时21分]"
+        },
+        {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 20时21分]"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -185,16 +198,15 @@
           "time_info": "[10时04分 ~ 18时59分]"
         },
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "title": "特朗普又有新绰号：NACHO",
+          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
           "source": "凤凰网",
           "ranks": [
-            1,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 18时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
@@ -245,6 +257,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时35分 ~ 07时37分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 20时21分]"
         },
         {
           "title": "特朗普称伊朗的“新提议”不可接受",
@@ -347,19 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时37分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 18时59分]"
         },
         {
           "title": "美国总统特朗普：我完全留意到，我的代表们正在与伊朗进行非常积极的磋商，这些磋商有望为各方带来积极成果。",
@@ -514,7 +526,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -539,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "美媒：特朗普对伊朗问题僵局感到“厌倦”，他想要达成协议",
+          "url": "https://wallstreetcn.com/livenews/3098472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
@@ -572,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-04）",
+          "url": "https://flash.jin10.com/detail/20260504193101661800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗最高领袖外事顾问：特朗普近期言行难掩“白宫幻想破灭”",
@@ -610,7 +644,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -633,9 +667,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 20时21分]"
         },
         {
           "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
@@ -649,15 +683,15 @@
           "time_info": "16时22分"
         },
         {
-          "title": "美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。",
-          "url": "https://wallstreetcn.com/livenews/3098470",
-          "source": "华尔街见闻-快讯",
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "20时21分"
         },
         {
           "title": "特朗普启动\"引导行动\"后，伊朗发射两枚导弹逼退美军，油价应声大涨，美股期货跳水",
@@ -666,9 +700,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。",
+          "url": "https://wallstreetcn.com/livenews/3098470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 20时21分]"
         },
         {
           "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
@@ -683,6 +729,18 @@
           "time_info": "[06时33分 ~ 07时37分]"
         },
         {
+          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
+          "url": "https://wallstreetcn.com/livenews/3098462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 20时21分]"
+        },
+        {
           "title": "巴菲特谈美股投机风气",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
           "source": "bilibili 热搜",
@@ -692,17 +750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
-          "url": "https://wallstreetcn.com/livenews/3098462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         },
         {
           "title": "美股中概股盘前普涨，蔚来汽车(NIO.N)涨3%，阿里巴巴(BABA.N)涨2%，理想汽车(LI.O)涨1%。",
@@ -734,6 +781,18 @@
           "time_info": "[06时33分 ~ 07时37分]"
         },
         {
+          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3098460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 20时21分]"
+        },
+        {
           "title": "金十图示：2026年05月04日（周一）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260504065657319800",
           "source": "金十数据",
@@ -745,24 +804,13 @@
           "time_info": "07时37分"
         },
         {
-          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3098460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
           "title": "布伦特原油向上触及112美元/桶，日内涨4.14%。现货白银日内大跌4.00%，现报72.71美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260504181410485800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -795,7 +843,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
@@ -850,8 +898,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 18时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 20时21分]"
         }
       ]
     },
@@ -883,11 +931,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 18时59分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时21分]"
         }
       ]
     }
