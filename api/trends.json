@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T07:43:12.527364+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-05-06T10:03:48.240694+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -20,18 +20,6 @@
           "time_info": "[00时14分 ~ 07时43分]"
         },
         {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时43分]"
-        },
-        {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
           "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
           "source": "凤凰网",
@@ -39,8 +27,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时03分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时03分]"
         },
         {
           "title": "特朗普关税退款引质疑，“简直令人抓狂”",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时03分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时03分]"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -87,6 +88,17 @@
           "time_info": "[00时14分 ~ 03时42分]"
         },
         {
+          "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 10时03分]"
+        },
+        {
           "title": "特朗普准备“抛弃”台湾了吗",
           "url": "https://www.toutiao.com/trending/7636182005881356307/",
           "source": "今日头条",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国特使威特科夫和特朗普女婿库什纳正在努力推动外交进程。",
@@ -131,7 +132,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -153,7 +154,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -220,7 +221,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -258,6 +259,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "美国总统特朗普：“自由计划”将对汽油价格产生重大影响。",
           "url": "https://flash.jin10.com/detail/20260505235041558800",
           "source": "金十数据",
@@ -275,7 +287,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -308,7 +320,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -401,6 +413,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普放话让伊朗二选一",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%AF%9D%E8%AE%A9%E4%BC%8A%E6%9C%97%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "特朗普：伊朗“知道什么不该做”",
           "url": "https://flash.jin10.com/detail/20260506001604342800",
           "source": "金十数据",
@@ -426,7 +449,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -498,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
@@ -578,7 +612,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -589,7 +623,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -619,7 +653,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股4月决断后是Sell in May？",
@@ -627,11 +661,45 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时04分 ~ 07时43分]"
+          "appearance_count": 6,
+          "time_info": "[06时04分 ~ 10时03分]"
+        },
+        {
+          "title": "A股商业航天板块盘初冲高，西部材料触及涨停，润贝航科、航宇微、广合科技、上海沪工跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506094018223800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股云游戏板块震荡上升，优刻得涨超7%，顺网科技、完美世界、均涨超6%，协创数据涨超5%，首都在线、蜂助手等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506093924934800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股PCB概念板块盘初拉升，博敏电子封板涨停，广合科技、合力泰、国际复材、强瑞技术、瑞华泰跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506093712529800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "高景气驱动全球科技股共振，机构：5月A股科技主线有望延续",
@@ -640,7 +708,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -667,6 +735,206 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时43分]"
+        },
+        {
+          "title": "A股ST百利盘中涨停，上演“地天板”，现报4.78元，成交额1.81亿元。",
+          "url": "https://flash.jin10.com/detail/20260506093506077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股油气开采及服务板块盘初走低，中曼石油跌超6%，科力股份、蓝焰控股、博迈科、中国海油等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260506093424810800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股绿电概念表现活跃，大唐发电一字涨停，银星能源、甘肃能源、金开新能、华电辽能、广安爱众跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506093406027800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股算力租赁板块盘初拉升，东阳光封板涨停，平治信息、东方国信涨超10%，合力泰、朗科科技、行云科技、安诺其、大位科技跟涨。消息面上，东阳光控股子公司签署算力服务采购框架合同，预计总额160亿元至190亿元。",
+          "url": "https://flash.jin10.com/detail/20260506093346208800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股科创50指数盘初大涨4%，海光信息涨近10%，寒武纪涨超5%再创新高。",
+          "url": "https://flash.jin10.com/detail/20260506093309479800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股半导体产业链开盘强势，存储芯片方向领涨，通富微电、盈新发展、中国长城竞价涨停，大普微涨超10%，澜起科技、海光信息、德明利、佰维存储涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3099040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股存储芯片板块竞价大幅高开，通富微电、盈新发展高开涨停，大普微涨超10%，澜起科技、海光信息、德明利、佰维存储涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260506092944821800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股五粮液开盘跌6.49%，消息面上，公司2025年净利润下滑超七成，拟以80亿元—100亿元回购股份。",
+          "url": "https://flash.jin10.com/detail/20260506092734909800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.57%，深证成指涨1.43%，创业板指涨2.27%。",
+          "url": "https://flash.jin10.com/detail/20260506092518865800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货白银站上74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260506071906620800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "现货白银上涨近3%，至每盎司75.01美元。",
+          "url": "https://wallstreetcn.com/livenews/3099047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "现货白银短线走高0.7美元，日内涨幅扩大至3%，现报74.97美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260506092929253800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "现货白银日内涨2美元，现报74.79美元/盎司，涨幅2.75%。",
+          "url": "https://flash.jin10.com/detail/20260506092417410800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上证50股指期货（IH）主力合约突破3000点，日内涨1.17%。",
+          "url": "https://flash.jin10.com/detail/20260506094145414800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "上证报评论：既要芯之光，又要茅台香，理性看待“股王之变”",
+          "url": "https://wallstreetcn.com/livenews/3098965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时43分]"
+        },
+        {
+          "title": "上证指数开盘报4135.45点，涨0.57%。 深证成指开盘报15323.19点，涨1.43%。 创业板指开盘报3760.67点，涨2.27%。 沪深300开盘报4857.65点，涨1.05%。 科创50开盘报1634.31点，涨4.03%。 中证500开盘报8441.34点，涨1.10%。 中证1000开盘报8462.02点，涨0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3099032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "中国上证综指5月6日（周三）开盘上涨23.29点，涨幅：0.57%，报4135.45点；<br/>中国深证成指5月6日（周三）开盘上涨215.64点，涨幅：1.43%，报15323.19点；<br/>中国沪深300指数5月6日（周三）开盘上涨50.35点，涨幅：1.05%，报4857.65点；<br/>中国创业板指数5月6日（周三）开盘上涨83.52点，涨幅：2.27%，报3760.67点；<br/>中国科创50指数5月6日（周三）开盘上涨63.24点，涨幅：4.03%，报1634.31点。",
+          "url": "https://flash.jin10.com/detail/20260506092716641800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -697,11 +965,12 @@
             9,
             8,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时42分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[03时42分 ~ 10时03分]"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
@@ -774,41 +1043,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货白银站上74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260506071906620800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证报评论：既要芯之光，又要茅台香，理性看待“股王之变”",
-          "url": "https://wallstreetcn.com/livenews/3098965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时43分]"
         }
       ]
     }
