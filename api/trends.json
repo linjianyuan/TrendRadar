@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:06:08.898052+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-05-07T13:54:38.439684+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -58,6 +58,29 @@
           "time_info": "[06时42分 ~ 07时42分]"
         },
         {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 13时54分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
           "url": "https://flash.jin10.com/detail/20260507031148642800",
           "source": "金十数据",
@@ -83,18 +106,6 @@
           "time_info": "[01时25分 ~ 07时42分]"
         },
         {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时06分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
           "url": "https://flash.jin10.com/detail/20260507030743676800",
           "source": "金十数据",
@@ -115,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
@@ -215,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
@@ -415,6 +448,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "颜面之争难破局！特朗普拒给伊朗体面，或是停战最大拦路虎",
+          "url": "https://flash.jin10.com/detail/20260507125646930800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "特朗普再称对美伊达成协议表示乐观",
           "url": "https://wallstreetcn.com/livenews/3099545",
           "source": "华尔街见闻-快讯",
@@ -429,7 +473,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 14,
+      "match_count": 25,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -452,8 +496,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时54分]"
+        },
+        {
+          "title": "A股油气股持续下挫，潜能恒信跌超10%，首华燃气、广汇能源、中曼石油、中国石油、中国海油均跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3099773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "A股油气板块午后继续下挫，中国石油、荣盛石化跌超5%，中国海油、中国石化、海油发展等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507133728588800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "A股房地产板块反复活跃，衢州发展封板涨停，万通发展、合肥城建、黑牡丹、招商蛇口、首开股份跟涨。",
@@ -462,7 +528,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -473,9 +539,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
@@ -490,13 +567,24 @@
           "time_info": "[06时42分 ~ 07时42分]"
         },
         {
+          "title": "A股AI应用板块短线拉升，易点天下涨超10%，引力传媒涨超7%，蓝色光标、浙文互联、天龙集团跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507133047188800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "A股PEEK材料板块异动拉升，中欣氟材直线涨停，百合花、中研股份、新瀚新材、华密新材、横河精密跟涨。",
           "url": "https://flash.jin10.com/detail/20260507095300001800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -507,9 +595,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股存储芯片板块午后再度拉升，科翔股份涨超13%，华虹公司、盛和晶微、飞凯材料等均涨超11%，迈为科技等跟涨",
+          "url": "https://flash.jin10.com/detail/20260507131932192800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "A股工业金属板块盘初上扬，丽岛新材触及涨停，株冶集团涨超7%，盛达资源、盛屯矿业、中金岭南跟涨。",
@@ -518,9 +617,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股立讯精密成交额达100亿元，现涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260507131505885800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "A股商业航天概念板块反复活跃，金螳螂走出12天10板，宇环数控4天3板，炼石航空涨停，上海港湾、德恩精工、春晖智控、理工导航等跟涨。",
@@ -529,9 +639,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股创新药板块午后局部活跃，众生药业午后涨停，康芝药业、上海谊众、通化金马、以岭药业、华兰股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507131341676800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "A股新易盛成交额达200亿元，现涨7.5%。",
+          "url": "https://flash.jin10.com/detail/20260507131107676800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "A股工业气体概念板块盘初震荡走弱，水发燃气封跌停，蜀道装备、诚志股份、华特气体、广钢气体、金宏气体跟跌。",
@@ -540,9 +672,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股CRO概念板块午后走低，美诺华跳水触及跌停，美好医疗、昊帆生物、昭衍新药、美迪西跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507131043216800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "A股存储芯片板块直线拉升，朗科科技涨超13%，续创历史新高，怡亚通封板涨停，德明利涨超9%，江波龙、香农芯创、开普云、时空科技跟涨。",
@@ -551,9 +694,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股禽流感板块午后拉升，众生药业涨停，东方生物、之江生物、华兰疫苗、以岭药业、天康生物跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507130600902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "A股光伏设备板块盘初拉升，安彩高科直线涨停，连城数控、钧达股份、迈为股份、拉普拉斯等多股涨超5%。",
@@ -562,7 +716,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -573,9 +727,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股创业板指午后涨超1%，深证成指涨0.67%，上证指数涨0.21%，光纤概念、CPO概念、工业母机等概念板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260507130158963800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "A股煤化工概念板块盘初下跌，诚志股份、宝丰能源跌超5%，*ST瑞茂一字跌停，华鲁恒升、卫星化学、泸天化等跟跌。",
@@ -584,7 +749,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -602,8 +767,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 13时54分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -623,11 +788,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 13时54分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -736,6 +902,45 @@
       ]
     },
     {
+      "keyword_group": "上证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "创业板指涨幅扩大至1%，上证指数涨0.27%，深证成指涨0.74%。算力硬件、光伏、机器人等方向涨幅居前，沪深京三市上涨个股近3300只。",
+          "url": "https://wallstreetcn.com/livenews/3099761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "上证指数开盘报4168.45点，涨0.20%。 深证成指开盘报15541.30点，涨0.53%。 创业板指开盘报3807.99点，涨0.79%。 沪深300开盘报4895.80点，涨0.38%。 科创50开盘报1663.16点，涨0.37%。 中证500开盘报8637.84点，涨0.58%。 中证1000开盘报8602.15点，涨0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3099661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "上证指数早盘收报4170.75点，涨0.25%。 深证成指早盘收报15569.46点，涨0.71%。 创业板指早盘收报3815.24点，涨0.98%。 沪深300早盘收报4886.24点，涨0.19%。 科创50早盘收报1663.93点，涨0.42%。 中证500早盘收报8648.94点，涨0.70%。 中证1000早盘收报8671.07点，涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3099737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 2,
       "titles": [
@@ -746,7 +951,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -845,23 +1050,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数开盘报4168.45点，涨0.20%。 深证成指开盘报15541.30点，涨0.53%。 创业板指开盘报3807.99点，涨0.79%。 沪深300开盘报4895.80点，涨0.38%。 科创50开盘报1663.16点，涨0.37%。 中证500开盘报8637.84点，涨0.58%。 中证1000开盘报8602.15点，涨0.32%。",
-          "url": "https://wallstreetcn.com/livenews/3099661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         }
       ]
     }
