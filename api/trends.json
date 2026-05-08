@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:08:07.097808+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-05-08T19:08:20.511828+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时08分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -76,6 +76,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时08分]"
         },
         {
           "title": "市场消息：美国财长贝森特与美国商务部长卢特尼克与特朗普一同在白宫会见巴西总统卢拉。",
@@ -111,6 +123,18 @@
           "time_info": "04时09分"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 19时08分]"
+        },
+        {
           "title": "特朗普：给予欧盟至7月4日履行贸易协议，否则将提高关税",
           "url": "https://wallstreetcn.com/livenews/3100166",
           "source": "华尔街见闻-快讯",
@@ -120,6 +144,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 19时08分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
@@ -158,18 +196,6 @@
           "time_info": "[00时02分 ~ 02时18分]"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 17时08分]"
-        },
-        {
           "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
           "url": "https://flash.jin10.com/detail/20260508063514510800",
           "source": "金十数据",
@@ -206,28 +232,16 @@
           "time_info": "[13时25分 ~ 17时08分]"
         },
         {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            9,
-            10
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 17时08分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时08分]"
         },
         {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
@@ -275,17 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时45分]"
-        },
-        {
-          "title": "中美双方就特朗普访华保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
@@ -563,6 +566,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508181456677800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "特朗普的10%全球关税遭遇法律挫折 但裁决不具普遍性",
           "url": "https://flash.jin10.com/detail/20260508061022135800",
           "source": "金十数据",
@@ -580,7 +594,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
@@ -588,7 +602,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
@@ -706,6 +720,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "4月A股新增开户数怎么比3月降了46%？数据背后有何玄妙？",
+          "url": "https://www.cls.cn/detail/2365715",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "A股三大指数低开，创业板跌超1%",
           "url": "https://wallstreetcn.com/livenews/3100305",
           "source": "华尔街见闻-快讯",
@@ -803,6 +828,140 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 19时08分]"
+        },
+        {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时54分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 13时25分]"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 07时45分]"
+        },
+        {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 10时13分]"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股收跌，油价走V，黄金冲高转跌",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "巴菲特为何说美股正赌场化",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%B8%BA%E4%BD%95%E8%AF%B4%E7%BE%8E%E8%82%A1%E6%AD%A3%E8%B5%8C%E5%9C%BA%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "周四（5月7日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8078元，较周三纽约尾盘涨54点，日内整体交投于6.8135-6.7957元区间，亚太尾盘至美股早盘曾涨穿6.8元。",
+          "url": "https://wallstreetcn.com/livenews/3100216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时54分]"
+        },
+        {
+          "title": "如何看待美股金融板块背离",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E9%87%91%E8%9E%8D%E6%9D%BF%E5%9D%97%E8%83%8C%E7%A6%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美国银行策略师称 美股近年涨势之强为历史罕见",
+          "url": "https://wallstreetcn.com/livenews/3100625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
@@ -916,113 +1075,67 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 9,
+      "keyword_group": "金价",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
           "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 17时08分]"
-        },
-        {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 06时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 13时25分]"
-        },
-        {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2365305",
-          "source": "财联社热门",
           "ranks": [
             10,
-            11,
-            12
+            7,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 10时13分]"
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 19时08分]"
         },
         {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年05月08日（周五）上海金午盘价为1036.11元/克，较国际金价(1033.24元/克)高2.87元/克",
+          "url": "https://flash.jin10.com/detail/20260508150601013800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "15时19分"
         },
         {
-          "title": "美伊和谈疑云压制风险情绪，美股收跌，油价走V，黄金冲高转跌",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
+          "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
+          "url": "https://wallstreetcn.com/livenews/3100231",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时45分]"
+        },
+        {
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "金价破4700追不追",
+          "url": "https://www.toutiao.com/trending/7637144466515578431/",
+          "source": "今日头条",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "巴菲特为何说美股正赌场化",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%B8%BA%E4%BD%95%E8%AF%B4%E7%BE%8E%E8%82%A1%E6%AD%A3%E8%B5%8C%E5%9C%BA%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
-          "title": "周四（5月7日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8078元，较周三纽约尾盘涨54点，日内整体交投于6.8135-6.7957元区间，亚太尾盘至美股早盘曾涨穿6.8元。",
-          "url": "https://wallstreetcn.com/livenews/3100216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时54分]"
+          "time_info": "00时02分"
         }
       ]
     },
@@ -1077,56 +1190,41 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
+      "keyword_group": "美债",
+      "match_count": 3,
       "titles": [
         {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时45分 ~ 17时08分]"
-        },
-        {
-          "title": "金十图示：2026年05月08日（周五）上海金午盘价为1036.11元/克，较国际金价(1033.24元/克)高2.87元/克",
-          "url": "https://flash.jin10.com/detail/20260508150601013800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
-          "url": "https://wallstreetcn.com/livenews/3100231",
+          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
+          "url": "https://wallstreetcn.com/livenews/3100167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时45分]"
-        },
-        {
-          "title": "金价破4700追不追",
-          "url": "https://www.toutiao.com/trending/7637144466515578431/",
-          "source": "今日头条",
-          "ranks": [
-            14
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美联储“三把手”：美债需求依然巨大，确保将通胀拉回2%",
+          "url": "https://flash.jin10.com/detail/20260508093731503800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "分析师：中东局势缓和预期打压美元与美债收益率",
+          "url": "https://flash.jin10.com/detail/20260508181748199800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
@@ -1152,7 +1250,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1163,37 +1261,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
-          "url": "https://wallstreetcn.com/livenews/3100167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美联储“三把手”：美债需求依然巨大，确保将通胀拉回2%",
-          "url": "https://flash.jin10.com/detail/20260508093731503800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
         }
       ]
     }
