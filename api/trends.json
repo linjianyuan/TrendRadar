@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-08T07:45:46.663524+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-05-08T10:13:10.775539+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
           "url": "https://news.ifeng.com/c/8swPaRUXu6L",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时13分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -37,8 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 10时13分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         },
         {
           "title": "市场消息：美国财长贝森特与美国商务部长卢特尼克与特朗普一同在白宫会见巴西总统卢拉。",
@@ -192,6 +194,17 @@
           "time_info": "[06时54分 ~ 07时45分]"
         },
         {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
           "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
           "url": "https://wallstreetcn.com/livenews/3100233",
           "source": "华尔街见闻-快讯",
@@ -243,7 +256,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -265,7 +278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -287,7 +300,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -298,7 +311,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -320,7 +333,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -408,15 +421,188 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         }
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
+          "url": "https://www.cls.cn/detail/2365550",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
+          "url": "https://wallstreetcn.com/articles/3771709",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 07时45分]"
+        },
+        {
+          "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
+          "url": "https://wallstreetcn.com/livenews/3100244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时45分]"
+        },
+        {
+          "title": "A股创业板指拉升翻红，开盘一度跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260508094438891800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股港口航运板块盘初拉升，海通发展盘中创新高，北部湾港涨停，唐山港、中谷物流、辽港股份、秦港股份、厦门港务跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508094009367800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股光纤概念板块走势分化，杭电股份盘中创新高，通鼎互联封板涨停，新能泰山、云南锗业、大族激光跟涨；法尔胜跌超7.5%，致尚科技跌超5%，福晶科技、光库科技、长飞光纤等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260508093834548800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股房地产板块盘初活跃，京投发展盘中创新高，华联控股涨停，三湘印象、西藏城投、宁波富达、滨江集团、津投城开跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508093708268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股三大指数低开，创业板跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3100305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股盐湖提锂板块盘初走强，金圆股份、华联控股均封板涨停，西藏矿业、西藏城投均涨超6%，兆新股份、富淼科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508093528603800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股电力板块盘初拉升，大唐发电三连板，甘肃能源、华电辽能、粤电力A、赣能股份、深南电A等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508093417620800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股算力租赁板块震荡上升，润建股份、南威软件一字涨停走出两连板，中青宝涨超10%，深信服、中国能建、航锦科技扥跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508093309567800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股辅导备案引关注，昆仑芯港股上市进程正常推进",
+          "url": "https://wallstreetcn.com/livenews/3100296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股半导体板块盘初调整，金螳螂开盘跌停，长光华芯、深圳华强、江丰电子、微导纳米等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260508093034305800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股AI应用概念板块竞价高开，南威软件两连板，国安股份竞价涨停，博睿数据、引力传媒、完美世界等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508092857845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股开盘，上证指数跌0.39%，深证成指跌0.78%，创业板指跌1.07%。",
+          "url": "https://flash.jin10.com/detail/20260508092529856800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -443,13 +629,49 @@
           "time_info": "[00时02分 ~ 07时45分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 10时13分]"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 10时13分]"
+        },
+        {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -463,30 +685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2365305",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 06时54分]"
         },
         {
           "title": "周四（5月7日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8078元，较周三纽约尾盘涨54点，日内整体交投于6.8135-6.7957元区间，亚太尾盘至美股早盘曾涨穿6.8元。",
@@ -504,7 +702,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
@@ -518,17 +716,29 @@
           "time_info": "[00时02分 ~ 05时48分]"
         },
         {
+          "title": "现货黄金突破4720美元/盎司，日内涨0.67%。现货白银日内涨幅达2%，现报80.20美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260508095006491800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
           "url": "https://www.cls.cn/detail/2365388",
           "source": "财联社热门",
           "ranks": [
             12,
             11,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时48分 ~ 07时45分]"
+          "appearance_count": 5,
+          "time_info": "[05时48分 ~ 10时13分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加21.11吨，当前持仓量为15079.26吨。欢迎点击查看数据中心...",
@@ -582,6 +792,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 10时13分]"
+        },
+        {
           "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
           "url": "https://wallstreetcn.com/livenews/3100231",
           "source": "华尔街见闻-快讯",
@@ -592,17 +814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时45分]"
-        },
-        {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         },
         {
           "title": "金价破4700追不追",
@@ -618,38 +829,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
-          "url": "https://wallstreetcn.com/articles/3771709",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
-          "url": "https://wallstreetcn.com/livenews/3100244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时45分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
@@ -661,6 +842,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "美联储“三把手”：美债需求依然巨大，确保将通胀拉回2%",
+          "url": "https://flash.jin10.com/detail/20260508093731503800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国上证综指5月8日（周五）开盘下跌16.24点，跌幅：0.39%，报4163.85点；<br/>中国深证成指5月8日（周五）开盘下跌121.5点，跌幅：0.78%，报15520.38点；<br/>中国沪深300指数5月8日（周五）开盘下跌29.39点，跌幅：0.6%，报4871.12点；<br/>中国创业板指数5月8日（周五）开盘下跌41.02点，跌幅：1.07%，报3792.04点；<br/>中国科创50指数5月8日（周五）开盘下跌25.58点，跌幅：1.52%，报1653.31点。",
+          "url": "https://flash.jin10.com/detail/20260508092711014800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
