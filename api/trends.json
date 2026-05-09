@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T20:58:13.167935+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-05-09T22:16:55.617011+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 20时58分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 22时16分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -97,6 +97,19 @@
           "time_info": "[13时42分 ~ 20时58分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时11分 ~ 22时16分]"
+        },
+        {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
           "url": "https://wallstreetcn.com/livenews/3100879",
           "source": "华尔街见闻-快讯",
@@ -119,16 +132,17 @@
           "time_info": "03时07分"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时11分 ~ 20时58分]"
+          "time_info": "[15时46分 ~ 22时16分]"
         },
         {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
@@ -156,18 +170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时48分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 18时50分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -597,8 +599,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 20时58分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 22时16分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -610,8 +612,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时49分 ~ 20时58分]"
+          "appearance_count": 12,
+          "time_info": "[07时49分 ~ 22时16分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -762,8 +764,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 20时58分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 22时16分]"
         },
         {
           "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
