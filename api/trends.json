@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T07:40:04.109849+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-10T10:07:32.797595+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 10时07分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -44,11 +44,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时40分]"
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 10时07分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -108,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 10时07分]"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
@@ -146,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时53分]"
+        },
+        {
+          "title": "媒体：特朗普还有一场“硬仗”",
+          "url": "https://www.toutiao.com/trending/7637911197945315370/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
@@ -208,7 +220,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -233,6 +245,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 05时36分]"
+        },
+        {
+          "title": "如何看待美股芯片交易热潮",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E4%BA%A4%E6%98%93%E7%83%AD%E6%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     }
