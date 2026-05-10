@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:21:11.782052+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-05-10T23:45:02.763650+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -187,6 +187,17 @@
           "time_info": "[02时48分 ~ 03时53分]"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉现在是一个非常幸福的国家。他们曾经痛苦，现在却很快乐。现在的石油产量巨大。",
+          "url": "https://flash.jin10.com/detail/20260510231829313800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "媒体：特朗普还有一场“硬仗”",
           "url": "https://www.toutiao.com/trending/7637911197945315370/",
           "source": "今日头条",
@@ -207,12 +218,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260510222748266800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
+          "url": "https://flash.jin10.com/detail/20260510221423480800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
+          "url": "https://flash.jin10.com/detail/20260510221333169800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -242,6 +297,19 @@
           "time_info": "[00时43分 ~ 07时40分]"
         },
         {
+          "title": "申万宏源：A股赚钱效应累积正在质变",
+          "url": "https://www.toutiao.com/trending/7638180405157822506/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时45分]"
+        },
+        {
           "title": "谁是A股核心主线",
           "url": "https://www.toutiao.com/trending/7637892314240650790/",
           "source": "今日头条",
@@ -255,18 +323,6 @@
           "time_info": "[00时43分 ~ 02时48分]"
         },
         {
-          "title": "申万宏源：A股赚钱效应累积正在质变",
-          "url": "https://www.toutiao.com/trending/7638180405157822506/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时21分]"
-        },
-        {
           "title": "下周A股追还是撤",
           "url": "https://www.toutiao.com/trending/7637841347948318249/",
           "source": "今日头条",
@@ -276,6 +332,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 04时37分]"
+        },
+        {
+          "title": "A股900亿红包来了！工行、农行下周同日派息",
+          "url": "https://www.cls.cn/detail/2367236",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
         }
       ]
     },
@@ -318,8 +385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时57分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[13时57分 ~ 23时45分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
