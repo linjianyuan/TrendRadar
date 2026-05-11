@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T06:01:44.929796+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-05-12T06:56:57.676311+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -74,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -85,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "美国总统特朗普：伊朗是一个美丽的国家，只是目前管理它的人不称职。",
@@ -98,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
-          "url": "https://flash.jin10.com/detail/20260512054116878800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "美国总统特朗普：伊朗谈判代表不断改变看法，他们真的完全缺乏诚信。",
@@ -144,6 +133,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://wallstreetcn.com/livenews/3101894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "美国总统特朗普：现在没人想当伊朗总统。",
           "url": "https://flash.jin10.com/detail/20260512000601966800",
           "source": "金十数据",
@@ -170,11 +170,24 @@
           "url": "https://wallstreetcn.com/articles/3771976",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
+          "url": "https://flash.jin10.com/detail/20260512054116878800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时56分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -185,8 +198,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 06时56分]"
         },
         {
           "title": "美国总统特朗普：伊朗战争通过外交解决仍然可能。",
@@ -288,6 +301,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "分析：特朗普暂停征收燃油税或每月损失数十亿美元税收",
+          "url": "https://flash.jin10.com/detail/20260512062007324800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "美国总统特朗普：正在努力降低牛肉价格。",
           "url": "https://wallstreetcn.com/livenews/3101768",
           "source": "华尔街见闻-快讯",
@@ -349,7 +373,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -396,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "媒体频频泄密如列席战情室 特朗普要求展开调查",
+          "url": "https://flash.jin10.com/detail/20260512060026125800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美国总统特朗普：正在努力降低牛肉价格。",
@@ -525,7 +560,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -555,7 +590,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -566,8 +601,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -592,6 +627,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 06时01分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
+          "url": "https://www.cls.cn/detail/2368457",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时56分]"
+        },
+        {
+          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3101858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时56分]"
         },
         {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
@@ -627,26 +686,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3101858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "06时56分"
         },
         {
           "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
@@ -655,7 +703,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -666,7 +714,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -677,7 +725,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -699,7 +747,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -707,7 +755,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -719,6 +767,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时01分]"
+        },
+        {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
@@ -743,6 +802,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加36.59吨，当前持仓量为15084.89吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260512061744279800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "现货白银站上86美元关口 日内大涨7%",
           "url": "https://flash.jin10.com/detail/20260511235931987800",
           "source": "金十数据",
@@ -757,7 +827,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
@@ -768,8 +838,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "A股史诗级爆发原因",
@@ -778,11 +848,12 @@
           "ranks": [
             18,
             20,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时56分]"
         },
         {
           "title": "学者：A股涨说明经济真的在复苏",
@@ -795,6 +866,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 02时53分]"
+        },
+        {
+          "title": "A股资产备受基金青睐，“专业买手”连续加仓6个月",
+          "url": "https://wallstreetcn.com/livenews/3101887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "A股连续4天百股涨停",
