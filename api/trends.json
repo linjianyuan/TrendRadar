@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:39:12.805225+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-05-17T07:44:05.891380+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
+        },
+        {
+          "title": "特朗普警告台独",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -40,19 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
-        },
-        {
-          "title": "特朗普警告台独",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -83,11 +83,12 @@
           "ranks": [
             14,
             12,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -97,8 +98,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -108,8 +109,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -123,8 +124,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时53分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[02时53分 ~ 07时44分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -136,8 +137,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时44分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -201,8 +202,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 06时39分]"
+          "appearance_count": 5,
+          "time_info": "[03时59分 ~ 07时44分]"
         },
         {
           "title": "印度外贸总局：修改白银进口政策，将白银条的进口政策修改为“限制”类。",
@@ -224,8 +225,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 06时39分]"
+          "appearance_count": 5,
+          "time_info": "[03时59分 ~ 07时44分]"
         }
       ]
     },
@@ -239,11 +240,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -255,8 +257,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "A股正在告别“讲故事时代”",
@@ -300,8 +302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时49分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[01时49分 ~ 07时44分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -309,11 +311,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         }
       ]
     },
@@ -327,11 +330,12 @@
           "source": "微博",
           "ranks": [
             30,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 07时44分]"
         }
       ]
     },
@@ -347,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时44分]"
         }
       ]
     }
