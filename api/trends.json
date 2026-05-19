@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:58:47.455713+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-05-19T10:59:44.037397+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -78,6 +78,20 @@
           "time_info": "03时28分"
         },
         {
+          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
+          "url": "https://www.cls.cn/detail/2374617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 10时59分]"
+        },
+        {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
           "url": "https://flash.jin10.com/detail/20260519030449861800",
           "source": "金十数据",
@@ -100,6 +114,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
           "url": "https://flash.jin10.com/detail/20260519030250439800",
           "source": "金十数据",
@@ -120,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "特朗普儿媳谈随团访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AA%B3%E8%B0%88%E9%9A%8F%E5%9B%A2%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "特朗普涉台“四不”示警“台独”",
@@ -150,17 +186,17 @@
           "time_info": "[01时27分 ~ 06时53分]"
         },
         {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
           "ranks": [
             13,
-            11,
-            12
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时58分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 10时59分]"
         },
         {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
@@ -187,18 +223,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时27分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时58分]"
         },
         {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
@@ -237,15 +261,37 @@
           "time_info": "[06时53分 ~ 07时58分]"
         },
         {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "特朗普将在白宫为沃什主持就职，市场紧盯：他会听总统的话降息吗？",
           "url": "https://flash.jin10.com/detail/20260519072301836800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美再延长俄海运石油制裁豁免30天；应海湾盟友请求，特朗普取消原定19日的对伊军事打击，国际油价应声跳水。当前美油空头仍占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260519103859683800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
@@ -254,7 +300,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -268,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -342,7 +399,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -507,7 +564,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -635,8 +692,47 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 10时59分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时58分]"
+          "time_info": "[07时58分 ~ 10时59分]"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 10时59分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 10时59分]"
         },
         {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
@@ -650,17 +746,6 @@
           "time_info": "05时04分"
         },
         {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周一（5月18日），美国科技股七巨头（Magnificent 7）指数跌0.57%，报225.86点。 “超大”市值科技股指数跌0.54%，报447.23点。",
           "url": "https://wallstreetcn.com/livenews/3105598",
           "source": "华尔街见闻-快讯",
@@ -670,31 +755,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2374572",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时58分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时58分]"
         },
         {
           "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
@@ -765,8 +825,115 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股新“股王”联讯仪器，提示4大风险",
+          "url": "https://www.cls.cn/detail/2374594",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 10时59分]"
+        },
+        {
+          "title": "A股CPO概念股集体下挫，联特科技跌超10%，炬光科技、联讯仪器、德科立、天孚通信、长芯博创、太辰光均跌逾7%。",
+          "url": "https://wallstreetcn.com/livenews/3105740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股商业航天板块震荡下探，中国卫星触及跌停，巨力索具此前跌停，理工导航、上海港湾、神剑股份跟跌。",
+          "url": "https://flash.jin10.com/detail/20260519102429420800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股光伏、储能板块震荡走强，正泰电源涨停，双良节能冲击涨停，金博股份、阳光电源、国晟科技、锦浪科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3105720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股绿电概念反复活跃，华能蒙电直线涨停，华光环能、京能电力、大唐发电、拓日新能、建投能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3105713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股电力板块短线拉升，涪陵电力、上海电力涨停，华能蒙电此前封板，京能电力、华电辽能涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260519100828993800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股算力龙头一字涨停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AE%97%E5%8A%9B%E9%BE%99%E5%A4%B4%E4%B8%80%E5%AD%97%E6%B6%A8%E5%81%9C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "A股零售板块短线拉升，合百集团涨停，华致酒行、新华百货等股上涨。",
+          "url": "https://flash.jin10.com/detail/20260519095931195800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股锂矿板块走弱，盛新锂能跌超5%，中矿资源、赣锋锂业跌超4%，永杉锂业、融捷股份等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260519095912248800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美债收益率破5%有何影响",
@@ -803,6 +970,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
           "url": "https://flash.jin10.com/detail/20260519055948313800",
           "source": "金十数据",
@@ -837,7 +1015,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -855,32 +1033,36 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
+      "keyword_group": "上证",
+      "match_count": 1,
       "titles": [
         {
-          "title": "A股新“股王”联讯仪器，提示4大风险",
-          "url": "https://www.cls.cn/detail/2374594",
-          "source": "财联社热门",
+          "title": "上证指数开盘报4122.96点，跌0.21%。 深证成指开盘报15469.36点，跌0.39%。 创业板指开盘报3894.00点，跌0.53%。 沪深300开盘报4818.71点，跌0.31%。 科创50开盘报1697.40点，跌0.73%。 中证500开盘报8524.15点，跌0.35%。 中证1000开盘报8691.38点，跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3105703",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5,
-            8
+            24
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时58分]"
-        },
-        {
-          "title": "A股算力龙头一字涨停",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AE%97%E5%8A%9B%E9%BE%99%E5%A4%B4%E4%B8%80%E5%AD%97%E6%B6%A8%E5%81%9C%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
