@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T10:34:55.786363+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-05-21T14:45:43.701438+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -47,20 +47,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤：我觉得很好",
-          "url": "https://www.toutiao.com/trending/7641482501025808434/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时45分]"
         },
         {
           "title": "特朗普，“退了一万亿”",
@@ -69,18 +58,29 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时45分]"
         },
         {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
+          "title": "特朗普声称将会与赖清德通电话",
+          "url": "https://news.ifeng.com/c/8tIqnPf6rAB",
+          "source": "凤凰网",
           "ranks": [
-            6
+            2
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤：我觉得很好",
+          "url": "https://www.toutiao.com/trending/7641482501025808434/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -89,9 +89,44 @@
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
           "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -107,24 +142,13 @@
           "time_info": "00时50分"
         },
         {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
           "title": "特朗普回应中俄元首会晤",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -215,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2377369",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
         },
         {
           "title": "特朗普重申结束陆路毒品贩运的承诺。",
@@ -322,9 +335,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "特朗普：伊朗非常渴望达成协议。",
@@ -437,6 +461,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "报道称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://wallstreetcn.com/livenews/3107164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "布伦特原油日内跌幅达7.0%，报103.44美元/桶；WTI原油日内跌幅达6.5%，报97.31美元/桶。 美国10年期国债收益率跌10个基点，至4.56%。 上期所原油期货夜盘跌幅扩大至6.11%，现报641元人民币/桶。 据Pool Report报道，美国总统特朗普声称，与伊朗的对话处于“最终阶段”。",
           "url": "https://wallstreetcn.com/livenews/3106827",
           "source": "华尔街见闻-快讯",
@@ -461,8 +496,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 14时45分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -477,6 +512,17 @@
           "time_info": "[00时50分 ~ 07时07分]"
         },
         {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -488,17 +534,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 05时45分]"
-        },
-        {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
         },
         {
           "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股盘中）",
@@ -653,8 +688,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "A股三大指数均跌超1%，油气、算力硬件、半导体芯片、房地产等方向跌幅居前，沪深京三市下跌个股超4400只。",
+          "url": "https://wallstreetcn.com/livenews/3107209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
         {
           "title": "A股光刻机板块短线走强，美迪凯涨超10%，波长光电、洪田股份、富乐德、百傲化学、茂莱光学等跟涨。",
           "url": "https://flash.jin10.com/detail/20260521103017086800",
@@ -662,9 +708,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "A股三大股指午后集体翻绿，沪指现跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260521140504136800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股三大指数午后集体翻绿，创业板指早盘一度涨超2%，算力硬件、半导体产业链领跌。",
+          "url": "https://wallstreetcn.com/livenews/3107193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "A股机器人概念股反复活跃，北投科技反包涨停，昊志机电涨超10%，科森科技、信邦智能、福莱新材、浙江荣泰涨幅居前。",
@@ -673,7 +741,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -684,7 +752,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -695,7 +763,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -706,7 +774,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -717,9 +785,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "A股银行板块震荡走强，建设银行涨超2%，股价创历史新高，重庆银行、青岛银行、中国银行、江苏银行跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "A股三大指数高开 半导体产业链走强",
@@ -728,9 +807,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "A股房地产板块午后下跌，合肥城建跌停，大龙地产、京投发展、华远控股等股跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3107175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股慧博云通午后快速下挫，日内跌超19%。",
+          "url": "https://wallstreetcn.com/livenews/3107173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股机器人概念股再度走强，模塑科技午后涨停，北特科技、埃斯顿、美湖股份此前封板，昊志机电、三协电机、上纬新材、奥比中光均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3107168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
@@ -751,6 +863,17 @@
           "time_info": "[00时50分 ~ 07时07分]"
         },
         {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -760,17 +883,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时06分 ~ 07时07分]"
-        },
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
         },
         {
           "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
@@ -824,7 +936,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
