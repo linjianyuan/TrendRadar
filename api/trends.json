@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T15:38:02.156536+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-05-26T22:48:47.282957+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时58分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[07时58分 ~ 22时48分]"
         },
         {
           "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
@@ -215,6 +215,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "法庭命令显示，前FBI局长詹姆斯·科米因涉嫌威胁特朗普一案的审判被推迟至10月21日。",
+          "url": "https://flash.jin10.com/detail/20260526222342283800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3109042",
           "source": "华尔街见闻-快讯",
@@ -224,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "特朗普周三将在戴维营召开内阁会议。特朗普与内阁将讨论经济及外交政策最新进展。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3109517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普提出伊朗浓缩铀两种处理方法",
@@ -273,7 +295,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -288,6 +310,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 11时29分]"
+        },
+        {
+          "title": "多家A股公司称PPO树脂“满产满销” 算力基建带火高频高速覆铜板主流基材",
+          "url": "https://www.cls.cn/detail/2381678",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "A股出现三大异象",
@@ -316,13 +349,24 @@
           "time_info": "[15时37分 ~ 15时38分]"
         },
         {
+          "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
+          "url": "https://wallstreetcn.com/articles/3773113",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-05-26）",
           "url": "https://flash.jin10.com/detail/20260526151406944800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -344,7 +388,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -355,7 +399,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -377,7 +421,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
@@ -385,8 +429,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2382097",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
         {
           "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
           "url": "https://flash.jin10.com/detail/20260526072611689800",
@@ -435,15 +490,48 @@
           "time_info": "[01时02分 ~ 03时17分]"
         },
         {
+          "title": "美股亚洲有敞口的芯片股上扬，联华电子ADR涨16%，ACM研究涨14%，Power Integrations涨18%，Wolfspeed涨9.1%，纳微半导体公司涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3109525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "财报红利落幕，美股迎来中期选举魔咒",
           "url": "https://flash.jin10.com/detail/20260526150531000800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨近4%，半导体ETF、全球科技股指数ETF涨超2%，能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3109506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.95%，费城半导体指数涨超3%，美光科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3109503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
@@ -522,7 +610,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
@@ -550,7 +638,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
@@ -600,6 +688,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     }
