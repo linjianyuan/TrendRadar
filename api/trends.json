@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T17:44:37.055924+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-05-31T19:29:57.996189+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时07分 ~ 10时40分]"
+        },
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 19时29分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时07分 ~ 07时55分]"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 17时44分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -172,7 +173,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -249,7 +250,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -312,7 +313,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -320,11 +321,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 17时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 19时29分]"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -349,8 +351,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 19时29分]"
+        },
+        {
+          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
+          "url": "https://www.cls.cn/detail/2386314",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时29分]"
         },
         {
           "title": "“A+H”两地上市加速！MiniMax已正式启动A股辅导",
@@ -364,17 +378,6 @@
           "time_info": "10时40分"
         },
         {
-          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
-          "url": "https://www.cls.cn/detail/2386314",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "MiniMax启动A股IPO进程",
           "url": "https://www.douyin.com/hot/2517287",
           "source": "抖音",
@@ -384,6 +387,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "A股成交“一九分化”加剧",
+          "url": "https://www.toutiao.com/trending/7645199697984962570/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "媒体：下周A股风向已定",
+          "url": "https://www.toutiao.com/trending/7645233043721748531/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
@@ -432,11 +457,12 @@
             5,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 17时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 19时29分]"
         }
       ]
     }
