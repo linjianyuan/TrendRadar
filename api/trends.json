@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T15:18:59.873415+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-06-04T18:57:03.186248+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 18时57分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -25,11 +25,24 @@
           "source": "凤凰网",
           "ranks": [
             1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 18时57分]"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时28分 ~ 15时18分]"
+          "time_info": "[15时18分 ~ 18时57分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -88,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "特朗普团队内斗再被翻出，美财长这回承认了",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时51分 ~ 15时18分]"
+        },
+        {
+          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
+          "url": "https://www.cls.cn/detail/2390381",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
@@ -268,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美媒：内塔尼亚胡在特朗普和国内大选之间左右为难",
+          "url": "https://flash.jin10.com/detail/20260604183057599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
@@ -394,7 +418,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "《新闻联播》披露A股重要数据",
@@ -406,6 +430,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 07时28分]"
+        },
+        {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 18时57分]"
         },
         {
           "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
@@ -432,29 +470,39 @@
           "time_info": "[02时19分 ~ 07时28分]"
         },
         {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 15时18分]"
-        },
-        {
           "title": "A股再登新闻联播释放何种信息",
           "url": "https://www.toutiao.com/trending/7647311695521549870/",
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 18时57分]"
+        },
+        {
+          "title": "牛市早报｜A股再登新闻联播，富时中国A50指数调整",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303917",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "A股上《新闻联播》1分49秒有何特别",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%8A%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B1%E5%88%8649%E7%A7%92%E6%9C%89%E4%BD%95%E7%89%B9%E5%88%AB",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
@@ -507,7 +555,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -559,7 +607,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -570,8 +618,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 18时57分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -611,6 +659,18 @@
           "time_info": "[02时19分 ~ 05时44分]"
         },
         {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 18时57分]"
+        },
+        {
           "title": "博通美股盘后跌幅扩大至12%。",
           "url": "https://wallstreetcn.com/livenews/3114029",
           "source": "华尔街见闻-快讯",
@@ -623,6 +683,29 @@
           "time_info": "[05时44分 ~ 07时28分]"
         },
         {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 18时57分]"
+        },
+        {
+          "title": "如何看待美股窄牛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
           "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
           "url": "https://www.cls.cn/detail/2389478",
           "source": "财联社热门",
@@ -632,17 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
@@ -676,17 +748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        },
-        {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         }
       ]
     },
@@ -763,7 +824,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -806,6 +867,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         }
       ]
     },
