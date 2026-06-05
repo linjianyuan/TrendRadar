@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T02:56:20.009250+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-06T04:47:41.436233+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "据华尔街日报：美国总统特朗普表示，我要求情报主管普尔特解雇该部门的员工，国家情报总监办公室应“大幅缩减规模”，甚至可能予以撤销。",
@@ -46,11 +46,12 @@
           "url": "https://wallstreetcn.com/livenews/3115298",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 04时47分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -58,11 +59,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -70,11 +72,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
@@ -83,7 +86,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -94,7 +97,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -105,7 +108,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -116,7 +119,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -127,7 +130,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -138,9 +141,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
+          "url": "https://wallstreetcn.com/livenews/3115313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国总统特朗普：对于汽油价格，我们有很多替代方案。 人们认为，油桶会变得更昂贵。 在美国的介入下，大量石油流出霍尔木兹海峡。",
@@ -149,9 +163,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普重申非农就业数据不错。",
+          "url": "https://wallstreetcn.com/livenews/3115312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国总统特朗普：如果情报主管Pulte裁员，我并不会介意。",
@@ -160,7 +185,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -171,7 +196,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -190,7 +215,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "现货白银向下触及68美元/盎司，日内跌7.96%。",
@@ -199,7 +224,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -221,44 +246,121 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
         {
-          "title": "美国如何一次性解决 36 万亿美债问题？",
-          "url": "https://www.zhihu.com/question/6607165102",
-          "source": "知乎",
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。 所持COMEX白银净多头头寸降低至10,433手合约。 所持COMEX铜净多头头寸增至77,131手合约，创逾五年新高。 所持NYMEX铂金净多头头寸减少至11,974手合约，创10周新低。 所持NYMEX钯金净空头头寸降低至3,476手合约。",
+          "url": "https://wallstreetcn.com/livenews/3115316",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            5
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "现货白银日内跌幅达8.0%，报67.93美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，COMEX白银期货投机性净多头头寸增加188手至10,433手。",
+          "url": "https://flash.jin10.com/detail/20260606033854834800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3115331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 04时47分]"
+        },
+        {
+          "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3115328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040853818800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040847799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260606040542544800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数DXY突破100，日内涨0.56%。",
@@ -281,6 +383,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
+          "url": "https://wallstreetcn.com/livenews/3115309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 04时47分]"
+        },
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 04时47分]"
         }
       ]
     },
@@ -314,8 +457,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 04时47分]"
         }
       ]
     },
@@ -328,29 +471,12 @@
           "url": "https://wallstreetcn.com/livenews/3115302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
+            1,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "time_info": "[02时56分 ~ 04时47分]"
         }
       ]
     }
