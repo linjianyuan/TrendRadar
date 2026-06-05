@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T15:02:20.020417+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-06-05T18:51:34.757043+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 18时51分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -244,6 +244,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "俄外长说拜登战争已变为特朗普战争",
+          "url": "https://wallstreetcn.com/livenews/3115044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
           "url": "https://wallstreetcn.com/livenews/3114626",
           "source": "华尔街见闻-快讯",
@@ -253,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "巴驻联合国官员喊话特朗普：管住以色列",
+          "url": "https://wallstreetcn.com/livenews/3115043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
@@ -387,6 +409,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "特朗普“老冤家”博尔顿被曝同意认罪",
+          "url": "https://wallstreetcn.com/livenews/3115037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国总统特朗普：我们将与印度达成贸易协议。",
           "url": "https://flash.jin10.com/detail/20260605043111038800",
           "source": "金十数据",
@@ -407,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普开会睡觉视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
@@ -467,7 +511,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "A股光刻胶板块拉升，江化微盘中创新高，莱伯泰科、百合花涨停，南大光电、胜科纳米、安达智能、高盟新材、阿拉丁跟涨。",
@@ -487,7 +531,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -565,9 +609,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "A股小金属板块短线拉升，宜安科技涨超18%，华阳新材、国城矿业、金天钛业、中国稀土、盛和资源等跟涨。",
@@ -587,7 +642,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -631,7 +686,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -664,7 +719,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -686,7 +741,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -847,7 +902,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -869,7 +924,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
@@ -877,7 +932,7 @@
     },
     {
       "keyword_group": "比特币",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
@@ -891,6 +946,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 05时26分]"
+        },
+        {
+          "title": "加密货币跌跌不休 比特币“金库”公司市值蒸发620亿美元",
+          "url": "https://wallstreetcn.com/livenews/3115042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
