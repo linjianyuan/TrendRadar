@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T07:03:22.322596+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-05T10:38:35.126024+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -19,6 +19,39 @@
           "time_info": "00时47分"
         },
         {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普最新支持率曝光，压力骤增",
+          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
           "url": "https://wallstreetcn.com/livenews/3114582",
           "source": "华尔街见闻-快讯",
@@ -28,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普相信美国和印度将达成期待已久的贸易协议",
+          "url": "https://wallstreetcn.com/livenews/3114755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
@@ -76,6 +120,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时03分]"
+        },
+        {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
+          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
@@ -128,7 +194,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -205,7 +271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -227,7 +293,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -260,7 +326,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -304,7 +370,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -399,8 +465,191 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "A股光刻胶板块拉升，江化微盘中创新高，莱伯泰科、百合花涨停，南大光电、胜科纳米、安达智能、高盟新材、阿拉丁跟涨。",
+          "url": "https://flash.jin10.com/detail/20260605100705336800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "多路增量资金加码A股，主动权益类基金加仓科技成长",
+          "url": "https://wallstreetcn.com/livenews/3114663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "Meta股价涨幅扩大至3.1%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3114545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "韩国资金押注A股科技股",
+          "url": "https://www.toutiao.com/trending/7647424442825572395/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 07时03分]"
+        },
+        {
+          "title": "A股三大指数全线翻红，保险、游戏、光纤、零售等方向涨幅居前，沪深京三市上涨个股近2500只。",
+          "url": "https://wallstreetcn.com/livenews/3114752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股商业航天概念探底回升，神剑股份冲击涨停，中超控股此前封板，盛路通信、星图测控、信科移动、电科蓝天涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3114750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股小金属板块短线拉升，宜安科技涨超18%，华阳新材、国城矿业、金天钛业、中国稀土、盛和资源等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260605095858820800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股液冷服务器概念局部活跃，淳中科技2连板，腾龙股份、强瑞技术、宁波精达、冠龙节能跟涨。",
+          "url": "https://flash.jin10.com/detail/20260605095849585800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股光纤概念震荡拉升，烽火通信、三孚股份、特发信息涨停，吴通控股涨超10%，远东股份、永鼎股份、长飞光纤涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3114742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股光纤概念震荡拉升，烽火通信、三孚股份、特发信息涨停，吴通控股涨超10%，远东股份、永鼎股份、长飞光纤涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260605095616509800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股三大股指持续回升，沪指率先翻红，深证成指跌幅收窄至0.7%。",
+          "url": "https://flash.jin10.com/detail/20260605095334664800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股玻璃基板概念反复活跃，沃格光电逼近涨停，再创历史新高，戈碧迦、凯盛科技、三峡新材、五方光电、彩虹股份涨幅靠前。",
+          "url": "https://flash.jin10.com/detail/20260605095304313800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股保险板块走高，中国人寿涨超5%，新华保险涨超4%，中国人保、中国平安、中国太保跟涨。",
+          "url": "https://flash.jin10.com/detail/20260605095010020800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股光纤概念板块短线拉升，鼎通科技涨超13%，球冠电缆涨超12%，长光华芯、理工光科、长飞光纤、久之洋、亨通光电等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260605094352890800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股煤炭板块局部走强，大有能源5连板，安泰集团2连板，广汇能源、宝泰隆、平煤股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260605094345891800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "瑞银：A股科技股拥挤程度远未到峰值",
+          "url": "https://www.toutiao.com/trending/7646379761480089636/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -418,11 +667,12 @@
           "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 10时38分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -431,11 +681,23 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 07时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 10时38分]"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -470,57 +732,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多路增量资金加码A股，主动权益类基金加仓科技成长",
-          "url": "https://wallstreetcn.com/livenews/3114663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "Meta股价涨幅扩大至3.1%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3114545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "韩国资金押注A股科技股",
-          "url": "https://www.toutiao.com/trending/7647424442825572395/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 07时03分]"
-        },
-        {
-          "title": "瑞银：A股科技股拥挤程度远未到峰值",
-          "url": "https://www.toutiao.com/trending/7646379761480089636/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
         }
       ]
     },
@@ -573,6 +784,23 @@
       ]
     },
     {
+      "keyword_group": "上证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报4044.83点，跌0.32%。 深证成指开盘报15595.70点，跌0.42%。 创业板指开盘报4079.95点，跌0.22%。 沪深300开盘报4886.96点，跌0.36%。 科创50开盘报1706.53点，跌1.81%。 中证500开盘报8317.64点，跌0.47%。 中证1000开盘报8380.85点，跌0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3114723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -583,7 +811,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
