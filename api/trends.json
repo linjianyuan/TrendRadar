@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-06-05T10:38:35.126024+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-06-05T15:02:20.020417+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 41,
       "titles": [
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普最新支持率曝光，压力骤增",
+          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 15时02分]"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 15时02分]"
+        },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
@@ -17,39 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "特朗普最新支持率曝光，压力骤增",
-          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
-          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
         },
         {
           "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
@@ -69,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -84,6 +84,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时03分]"
+        },
+        {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 15时02分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -122,24 +134,13 @@
           "time_info": "[05时26分 ~ 07时03分]"
         },
         {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
           "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
           "url": "https://news.ifeng.com/c/8thTYMLvvqY",
           "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -466,7 +467,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "A股光刻胶板块拉升，江化微盘中创新高，莱伯泰科、百合花涨停，南大光电、胜科纳米、安达智能、高盟新材、阿拉丁跟涨。",
@@ -475,9 +476,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "A股MLCC概念震荡下跌，洁美科技跌逾8%，鸿远电子跌近8%，博杰股份、昀冢科技、宏明电子等大跌。",
+          "url": "https://flash.jin10.com/detail/20260605144947006800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "多路增量资金加码A股，主动权益类基金加仓科技成长",
@@ -502,6 +514,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "A股三大指数集体下跌，芯片半导体逆势拉升，京东方涨停，恒指、恒科指双双跌超1%",
+          "url": "https://wallstreetcn.com/articles/3773833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "韩国资金押注A股科技股",
           "url": "https://www.toutiao.com/trending/7647424442825572395/",
           "source": "今日头条",
@@ -520,7 +543,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -531,9 +554,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "A股电力板块震荡回落，豫能控股、广西能源、华电能源逼近跌停，大唐发电、粤电力A、江苏国信、华银电力等多股跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3114845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "A股小金属板块短线拉升，宜安科技涨超18%，华阳新材、国城矿业、金天钛业、中国稀土、盛和资源等跟涨。",
@@ -542,9 +576,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "A股商业航天板块震荡上扬，中天火箭触及涨停，信维通信、航天电子、电科蓝天、通宇通讯跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "A股液冷服务器概念局部活跃，淳中科技2连板，腾龙股份、强瑞技术、宁波精达、冠龙节能跟涨。",
@@ -553,7 +598,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -564,7 +609,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -575,9 +620,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "A股存储芯片板块震荡下挫，盛合晶微跌超8%，江波龙、佰维存储、德明利、香农芯创、协创数据纷纷下挫。",
+          "url": "https://wallstreetcn.com/livenews/3114838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "A股三大股指持续回升，沪指率先翻红，深证成指跌幅收窄至0.7%。",
@@ -586,7 +642,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -597,9 +653,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "A股保险板块走高，中国人寿涨超5%，新华保险涨超4%，中国人保、中国平安、中国太保跟涨。",
@@ -608,9 +675,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "A股机器人板块走高，绿的谐波涨超17%，亿嘉和、埃夫特、三丰智能、派斯林、凯尔达等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "A股光纤概念板块短线拉升，鼎通科技涨超13%，球冠电缆涨超12%，长光华芯、理工光科、长飞光纤、久之洋、亨通光电等跟涨。",
@@ -619,7 +697,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -630,7 +708,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -649,7 +727,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -671,8 +749,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 10时38分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 15时02分]"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 15时02分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -689,17 +778,6 @@
           "time_info": "[00时47分 ~ 10时38分]"
         },
         {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
           "title": "李大霄谈美股风险释放",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
           "source": "bilibili 热搜",
@@ -710,6 +788,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 07时03分]"
+        },
+        {
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -737,7 +826,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "现货黄金涨0.9%，白银涨1.6%",
@@ -752,6 +841,17 @@
           "time_info": "[05时26分 ~ 07时03分]"
         },
         {
+          "title": "现货白银失守72美元/盎司，日内跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3114847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 6月4日（周四）晚盘收盘上涨0.22%报976.65元/克；<br/>上海黄金交易所白银T+D 6月4日（周四）晚盘收盘上涨1.08%报17933.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260605023208957800",
           "source": "金十数据",
@@ -761,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "非农前黄金空退多进，白银加仓动作已趋谨慎",
+          "url": "https://flash.jin10.com/detail/20260605143542846800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -794,7 +905,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
