@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T07:00:24.176718+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-06-21T08:09:28.415719+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         },
         {
           "title": "特朗普：若不能达成协议，美或收取海峡通行费",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时00分]"
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 08时09分]"
         },
         {
           "title": "特朗普高市早苗当众吵起来了",
@@ -83,11 +83,36 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260621035019632800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
+          "url": "https://flash.jin10.com/detail/20260621031735328800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 08时09分]"
         },
         {
           "title": "特朗普的“空中行宫”谁买单",
@@ -114,28 +139,26 @@
           "time_info": "[01时18分 ~ 03时12分]"
         },
         {
-          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
-          "url": "https://flash.jin10.com/detail/20260621035019632800",
-          "source": "金十数据",
+          "title": "意大利总理回击特朗普批评：应关注自身支持率",
+          "url": "https://news.ifeng.com/c/8u6beESPjqF",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
-          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
-          "url": "https://flash.jin10.com/detail/20260621031735328800",
-          "source": "金十数据",
+          "title": "梅洛尼回应特朗普“乞求合影”言论",
+          "url": "https://www.douyin.com/hot/2541105",
+          "source": "抖音",
           "ranks": [
-            13,
-            23
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
@@ -196,8 +219,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -208,8 +231,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -219,8 +242,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         }
       ]
     },
@@ -236,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -248,8 +271,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         }
       ]
     },
@@ -267,8 +290,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 08时09分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
