@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T13:55:16.896564+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-06-21T17:38:56.383587+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,18 @@
           "time_info": "[01时18分 ~ 08时09分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 17时38分]"
+        },
+        {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
           "url": "https://news.ifeng.com/c/8u6beESPjqF",
           "source": "凤凰网",
@@ -149,17 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时12分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
         },
         {
           "title": "梅洛尼回应特朗普“乞求合影”言论",
@@ -223,7 +224,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
@@ -241,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 13时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 17时38分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -281,11 +282,12 @@
             16,
             18,
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 13时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 17时38分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -305,7 +307,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
@@ -337,8 +339,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 13时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 17时38分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
