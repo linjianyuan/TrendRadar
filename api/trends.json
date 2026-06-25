@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T15:38:13.712276+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-06-25T18:37:08.237631+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -40,8 +40,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 18时37分]"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "time_info": "[18时36分 ~ 18时37分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉发生的两次重大地震造成了惨重的死亡人数。",
@@ -165,6 +176,18 @@
           "time_info": "06时10分"
         },
         {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 18时37分]"
+        },
+        {
           "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
           "url": "https://news.ifeng.com/c/8uEoIOrELpr",
           "source": "凤凰网",
@@ -176,15 +199,16 @@
           "time_info": "[11时57分 ~ 15时38分]"
         },
         {
-          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
-          "source": "澎湃新闻",
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
           "ranks": [
-            9
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 18时37分]"
         },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -286,17 +310,6 @@
           "time_info": "06时10分"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
           "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
           "url": "https://wallstreetcn.com/livenews/3124209",
           "source": "华尔街见闻-快讯",
@@ -376,6 +389,195 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时09分 ~ 15时38分]"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 08时02分]"
+        },
+        {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时29分]"
+        },
+        {
+          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
+          "url": "https://wallstreetcn.com/livenews/3124140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "SpaceX美股盘前扩大涨势，现上涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 11时57分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨幅扩大至7.5%。",
+          "url": "https://flash.jin10.com/detail/20260625040832491800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3124226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 06时10分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/3124250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "IBM美股盘前涨超6%，公司推出全球首款亚1纳米芯片技术",
+          "url": "https://wallstreetcn.com/livenews/3124593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3124222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260625040228241800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 金龙指数跌1.7%",
+          "url": "https://flash.jin10.com/detail/20260625040106828800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘前涨势扩大，最新上涨2.4%。",
+          "url": "https://flash.jin10.com/detail/20260625182304353800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3124233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "高通(QCOM.O)美股盘后涨超14%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625044531459800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 13,
       "titles": [
@@ -400,7 +602,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -528,165 +730,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时09分 ~ 15时38分]"
-        },
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 08时02分]"
-        },
-        {
-          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时29分]"
-        },
-        {
-          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
-          "url": "https://wallstreetcn.com/livenews/3124140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 11时57分]"
-        },
-        {
-          "title": "美光科技(MU.O)美股盘后涨幅扩大至7.5%。",
-          "url": "https://flash.jin10.com/detail/20260625040832491800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
-          "url": "https://wallstreetcn.com/livenews/3124226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 06时10分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/3124250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3124222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美光科技(MU.O)美股盘后涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260625040228241800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 金龙指数跌1.7%",
-          "url": "https://flash.jin10.com/detail/20260625040106828800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异",
-          "url": "https://wallstreetcn.com/livenews/3124233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "高通(QCOM.O)美股盘后涨超14%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
-          "url": "https://flash.jin10.com/detail/20260625044531459800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "华荣股份：A股每股派发现金红利1元",
+          "url": "https://flash.jin10.com/detail/20260625183238346800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
         {
           "title": "A股收盘：创业板指涨近3%再创新高，MLCC概念集体爆发",
           "url": "https://wallstreetcn.com/livenews/3124506",
@@ -694,7 +751,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -716,7 +773,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -743,6 +800,17 @@
           "time_info": "11时57分"
         },
         {
+          "title": "A股半日4300股下跌",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A54300%E8%82%A1%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "安永：上半年A股IPO首日平均涨233%，位居近五年首位",
           "url": "https://wallstreetcn.com/livenews/3124116",
           "source": "华尔街见闻-快讯",
@@ -760,7 +828,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -782,56 +850,27 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
       ]
     },
     {
-      "keyword_group": "比特币",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 5,
       "titles": [
         {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 15时38分]"
-        },
-        {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 15时38分]"
-        },
-        {
-          "title": "比特币跌向5.9万美元，散户大军撤退，暴露市场新脆弱性",
-          "url": "https://wallstreetcn.com/livenews/3124180",
+          "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
+          "url": "https://wallstreetcn.com/livenews/3124603",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
+          "time_info": "18时37分"
+        },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
           "url": "https://www.cls.cn/detail/2408544",
@@ -847,6 +886,18 @@
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 18时37分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
           "url": "https://www.douyin.com/hot/2546511",
           "source": "抖音",
           "ranks": [
@@ -858,16 +909,56 @@
           "time_info": "[00时10分 ~ 02时29分]"
         },
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
+          "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
+          "url": "https://flash.jin10.com/detail/20260625181541512800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            18
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 18时37分]"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 15时38分]"
+        },
+        {
+          "title": "比特币跌向5.9万美元，散户大军撤退，暴露市场新脆弱性",
+          "url": "https://wallstreetcn.com/livenews/3124180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     },
@@ -921,7 +1012,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
