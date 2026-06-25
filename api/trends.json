@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-25T18:37:08.237631+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-06-25T21:13:20.279068+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 34,
       "titles": [
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时37分 ~ 21时13分]"
+        },
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
@@ -31,28 +42,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 18时37分]"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉发生的两次重大地震造成了惨重的死亡人数。",
@@ -143,6 +132,18 @@
           "time_info": "11时57分"
         },
         {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时13分]"
+        },
+        {
           "title": "特朗普回应拒签住房法案：比任何人都懂房地产 降息才是关键",
           "url": "https://flash.jin10.com/detail/20260625051323883800",
           "source": "金十数据",
@@ -188,6 +189,19 @@
           "time_info": "[15时37分 ~ 18时37分]"
         },
         {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 21时13分]"
+        },
+        {
           "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
           "url": "https://news.ifeng.com/c/8uEoIOrELpr",
           "source": "凤凰网",
@@ -197,18 +211,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时57分 ~ 15时38分]"
-        },
-        {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 18时37分]"
         },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -390,7 +392,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -448,7 +450,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -488,6 +490,17 @@
           "time_info": "[04时29分 ~ 06时10分]"
         },
         {
+          "title": "美元指数短线走低逾10点，现报101.62。美股期货短线小幅拉升，纳斯达克100指数期货涨2.4%。美国10年期国债收益率短线走低，现报4.413%。现货黄金短线拉升逾20美元，现报3998.13美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
           "url": "https://wallstreetcn.com/livenews/3124250",
           "source": "华尔街见闻-快讯",
@@ -505,7 +518,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -549,7 +562,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -579,7 +592,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -605,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.00%，现报58.62美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260625210303401800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "现货白银跌破56美元/盎司，为去年11月以来首次，日内跌约9%。",
@@ -649,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "经济数据提振，美股盘前止跌反弹、存储板块走高，美光绩后大涨17%，黄金跌破4000，白银再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "现货白银日内重挫8.00%，现报56.58美元/盎司。",
@@ -731,7 +766,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "华荣股份：A股每股派发现金红利1元",
@@ -740,7 +775,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -765,6 +800,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "A股这轮牛市你赚钱了吗",
+          "url": "https://www.toutiao.com/trending/7655278728469024299/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-06-25）",
@@ -806,7 +852,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -858,8 +904,21 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 21时13分]"
+        },
         {
           "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
           "url": "https://wallstreetcn.com/livenews/3124603",
@@ -867,7 +926,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -886,18 +945,6 @@
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 18时37分]"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
           "url": "https://www.douyin.com/hot/2546511",
           "source": "抖音",
           "ranks": [
@@ -909,13 +956,24 @@
           "time_info": "[00时10分 ~ 02时29分]"
         },
         {
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
           "url": "https://flash.jin10.com/detail/20260625181541512800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -934,8 +992,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 18时37分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 21时13分]"
         },
         {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
