@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-06-29T00:04:30.536248+08:00",
-  "total_titles_processed": 314,
-  "failed_sources": [],
+  "generated_at": "2026-06-29T02:01:02.793962+08:00",
+  "total_titles_processed": 394,
+  "failed_sources": [
+    "wallstreetcn-quick",
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
@@ -15,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -26,19 +29,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
           "url": "https://www.zhihu.com/question/2054471851032539301",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -48,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -59,8 +63,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -79,17 +94,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,8 +124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -131,8 +135,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -142,8 +146,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         }
       ]
     }
