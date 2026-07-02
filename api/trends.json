@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T07:05:11.252358+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-07-02T10:32:00.903789+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 07时05分]"
+        },
+        {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
@@ -255,9 +277,216 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
+          "url": "https://www.cls.cn/detail/2414140",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时05分]"
+        },
+        {
+          "title": "A股交易新规下周一正式施行",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%BA%A4%E6%98%93%E6%96%B0%E8%A7%84%E4%B8%8B%E5%91%A8%E4%B8%80%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时05分]"
+        },
+        {
+          "title": "A股电机板块震荡反弹，方正电机直线涨停，瑜欣电子、三协电机、华阳智能、微光股份、江苏雷利、中电电机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702101923373800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股交易规则下周一起重大调整",
+          "url": "https://www.toutiao.com/trending/7657522598550716422/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时05分]"
+        },
+        {
+          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
+          "url": "https://www.cls.cn/detail/2414312",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时05分]"
+        },
+        {
+          "title": "A股将取消5%涨跌停板",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%86%E5%8F%96%E6%B6%885%25%E6%B6%A8%E8%B7%8C%E5%81%9C%E6%9D%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 07时05分]"
+        },
+        {
+          "title": "A股多氟多成交额达100亿元，现跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260702100402353800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股减速器板块短线拉升，韶能股份涨停, 宏昌科技、盛德鑫泰涨超10%，瑞迪智驱、瑜欣电子、光洋股份、丰光精密、易实精密等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702100004427800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股光刻胶概念盘中震荡回升，兴业股份上演“准地天板”，走出5天4板，百合花3天2板，天龙集团、南大光电、彤程新材、格林达、西陇科学冲高。",
+          "url": "https://flash.jin10.com/detail/20260702095841181800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股IPO保荐半年盘点：三大券商领跑，中小投行借北交所突围",
+          "url": "https://wallstreetcn.com/livenews/3127635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "A股氟化工板块逆市走强，和远气体2连板，天域生物、滨化股份、联化科技涨停，永太科技、金石资源、联创股份、中船特气、昊华科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702095708478800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股科技股真的过热了吗",
+          "url": "https://www.toutiao.com/trending/7657519502266994230/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "A股化纤概念异动拉升，尤夫股份、优彩资源双双涨停，ST海龙、宝丽迪、新乡化纤、同益中、蒙泰高新、恒逸石化等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702094837869800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股地产股震荡拉升，金科股份、津投城开涨停，华丽家族、荣丰控股、电子城、滨江集团、绿地控股涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260702094417511800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股人形机器人概念逆势活跃，日盈电子涨停，五洲新春、锋龙股份、奥比中光、斯菱智驱、力星股份、步科股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702094240717800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股海南板块短线走强，海南海药4连板，海马汽车涨停，神农种业、欣龙控股、康芝药业、海峡股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702094213060800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股养殖业板块再度走高，益生股份涨停，天域生物、新五丰、国联水产、华英农业、民和股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702094208719800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时04分 ~ 10时32分]"
+        },
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
           "url": "https://wallstreetcn.com/articles/3775932",
@@ -268,17 +497,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 05时20分]"
-        },
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
         },
         {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
@@ -386,91 +604,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
-          "url": "https://www.cls.cn/detail/2414140",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 07时05分]"
-        },
-        {
-          "title": "A股交易新规下周一正式施行",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%BA%A4%E6%98%93%E6%96%B0%E8%A7%84%E4%B8%8B%E5%91%A8%E4%B8%80%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 07时05分]"
-        },
-        {
-          "title": "A股交易规则下周一起重大调整",
-          "url": "https://www.toutiao.com/trending/7657522598550716422/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时05分]"
-        },
-        {
-          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
-          "url": "https://www.cls.cn/detail/2414312",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 07时05分]"
-        },
-        {
-          "title": "A股将取消5%涨跌停板",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%86%E5%8F%96%E6%B6%885%25%E6%B6%A8%E8%B7%8C%E5%81%9C%E6%9D%BF%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 07时05分]"
-        },
-        {
-          "title": "A股IPO保荐半年盘点：三大券商领跑，中小投行借北交所突围",
-          "url": "https://wallstreetcn.com/livenews/3127635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "A股科技股真的过热了吗",
-          "url": "https://www.toutiao.com/trending/7657519502266994230/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "白银",
       "match_count": 3,
       "titles": [
@@ -483,8 +616,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 10时32分]"
         },
         {
           "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
@@ -569,6 +702,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报4054.09点，跌1.42%。 深证成指开盘报15729.92点，跌2.41%。 创业板指开盘报4135.34点，跌2.94%。 沪深300开盘报4865.17点，跌1.89%。 科创50开盘报2059.90点，跌4.33%。 中证500开盘报8829.62点，跌2.21%。 中证1000开盘报8688.29点，跌2.12%。",
+          "url": "https://wallstreetcn.com/livenews/3127711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
