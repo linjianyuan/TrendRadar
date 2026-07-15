@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T01:09:02.080361+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-16T02:58:06.133580+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "特朗普为何频频感谢中俄？",
@@ -48,19 +48,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
-          "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3134530",
+          "title": "美国总统特朗普：我不喜欢设定最后期限。",
+          "url": "https://wallstreetcn.com/livenews/3134556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "02时58分"
         },
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -70,8 +70,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
+        },
+        {
+          "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3134530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -81,19 +93,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -103,19 +116,42 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
           "url": "https://wallstreetcn.com/livenews/3134527",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普答轰炸伊朗：不喜欢设定最后期限",
+          "url": "https://flash.jin10.com/detail/20260716023558998800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "02时58分"
         },
         {
           "title": "特朗普：纽约州应立即改变数据中心政策",
@@ -124,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
@@ -135,7 +171,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
@@ -146,7 +182,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
@@ -157,9 +193,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）他们最好老实点。",
+          "url": "https://flash.jin10.com/detail/20260716022948918800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：美国总统特朗普今天将宣布合计超过100亿美元的若干协议。",
+          "url": "https://wallstreetcn.com/livenews/3134544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）不喜欢设定最后期限。",
+          "url": "https://flash.jin10.com/detail/20260716022930853800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "英国新首相人选放话与特朗普打交道将“直来直往”",
+          "url": "https://flash.jin10.com/detail/20260716022753480800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "美联储主席沃什：（特朗普政府的）移民决定影响到美国潜在的GDP。",
@@ -168,7 +248,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         }
@@ -186,19 +266,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -208,30 +289,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2427604",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
           "url": "https://www.zhihu.com/question/2060658036918719165",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "美股三大股指均转跌，纳指盘初曾涨约0.7%。",
@@ -240,7 +323,35 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 7月15日（周三）晚盘收盘上涨0.28%报886.0元/克；<br/>上海黄金交易所白银T+D 7月15日（周三）晚盘收盘下跌0.99%报14138.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260716023055915800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "现货白银失守57美元/盎司，日内跌幅2.90%。",
+          "url": "https://flash.jin10.com/detail/20260716003019539800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         }
@@ -258,19 +369,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "A股被“猴子”刷屏",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%A2%AB%E2%80%9C%E7%8C%B4%E5%AD%90%E2%80%9D%E5%88%B7%E5%B1%8F",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 02时58分]"
         }
       ]
     },
@@ -283,28 +395,29 @@
           "url": "https://wallstreetcn.com/livenews/3134531",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         }
       ]
     },
     {
-      "keyword_group": "白银",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货白银失守57美元/盎司，日内跌幅2.90%。",
-          "url": "https://flash.jin10.com/detail/20260716003019539800",
-          "source": "金十数据",
+          "title": "日本为何抛售大量美债",
+          "url": "https://www.toutiao.com/trending/7662700915773672996/",
+          "source": "今日头条",
           "ranks": [
-            16
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
         }
       ]
     }
