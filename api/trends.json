@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:54:29.839189+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-16T15:18:23.296506+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -76,11 +76,12 @@
             15,
             14,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 12时54分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 15时18分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -90,11 +91,12 @@
             19,
             16,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时57分 ~ 12时54分]"
+          "appearance_count": 12,
+          "time_info": "[02时57分 ~ 15时18分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -109,6 +111,20 @@
           "time_info": "[01时07分 ~ 09时51分]"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 15时18分]"
+        },
+        {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -120,17 +136,15 @@
           "time_info": "[01时07分 ~ 02时58分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 12时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -242,8 +256,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
@@ -608,7 +622,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -740,7 +754,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -781,7 +795,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -824,6 +838,19 @@
           "time_info": "[01时07分 ~ 04时06分]"
         },
         {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 15时18分]"
+        },
+        {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2427604",
           "source": "财联社热门",
@@ -837,17 +864,15 @@
           "time_info": "[01时07分 ~ 09时51分]"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            3,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 15时18分]"
         },
         {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
@@ -859,17 +884,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 06时52分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 12时54分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -998,6 +1012,17 @@
           "time_info": "05时51分"
         },
         {
+          "title": "台积电美股夜盘跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3134862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "农产品基金收涨约1.3%，领涨美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3134598",
           "source": "华尔街见闻-快讯",
@@ -1045,7 +1070,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -1073,6 +1098,18 @@
           "time_info": "[01时07分 ~ 04时06分]"
         },
         {
+          "title": "今年A股最大IPO！长鑫科技启动申购",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时18分]"
+        },
+        {
           "title": "A股存储芯片板块开盘领跌，德明利、华天科技2连跌停，精测电子、江丰电子跌超10%，通富微电、香农芯创等均大幅低开。",
           "url": "https://wallstreetcn.com/livenews/3134714",
           "source": "华尔街见闻-快讯",
@@ -1082,6 +1119,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "A股中际旭创成交额达300亿元，现跌5.58%。",
+          "url": "https://wallstreetcn.com/livenews/3134879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股收评：创业板指回落收跌2.95% 半导体、CPO等算力硬件股领跌",
+          "url": "https://flash.jin10.com/detail/20260716150426340800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股证券板块午后震荡走弱，华安证券触及跌停，中金公司、招商证券、长江证券、中信建投均跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3134876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "A股光纤概念板块低开，长飞光纤跌超8%，正帆科技、长光华芯、长江通信、天孚通信跟跌。",
@@ -1106,15 +1187,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "今年A股最大IPO！长鑫科技启动申购",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
-          "source": "百度热搜",
+          "title": "A股存储芯片板块持续回落，兆易创新、太极实业、华天科技、长电科技、德明利等多股封跌停板，澜起科技跌超18%，江丰电子、恒烁股份、国科微等跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3134873",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "15时18分"
         },
         {
           "title": "A股氟化工概念低开，ST天际竞价跌停，金宏气体跌近8%，华特气体、中船特气、多氟多等跟跌。",
@@ -1148,12 +1229,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "A股兆易创新午后跌停，日内成交额超270亿元。",
+          "url": "https://wallstreetcn.com/livenews/3134856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股锂金属板块拉升，天齐锂业涨超7%，融捷股份、赣锋锂业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3134852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 7月15日（周三）晚盘收盘上涨0.28%报886.0元/克；<br/>上海黄金交易所白银T+D 7月15日（周三）晚盘收盘下跌0.99%报14138.0元/千克。",
@@ -1178,13 +1281,24 @@
           "time_info": "01时09分"
         },
         {
+          "title": "挂单报告：国际现货黄金关注下行押注 国际现货白银横盘整理",
+          "url": "https://flash.jin10.com/detail/20260716150330031800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "金十图示：2026年07月16日（周四）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260716121432236800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1203,7 +1317,7 @@
     },
     {
       "keyword_group": "上证",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "上证指数开盘报3912.38点，跌1.09%。 深证成指开盘报14497.43点，跌1.91%。 创业板指开盘报3710.51点，跌2.48%。 沪深300开盘报4711.53点，跌1.57%。 科创50开盘报1869.94点，跌2.82%。 中证500开盘报8006.45点，跌1.73%。 中证1000开盘报7713.14点，跌1.34%。",
@@ -1223,7 +1337,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1237,6 +1351,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "中国上证综指7月16日（周四）收盘下跌73.17点，跌幅：1.85%，报3882.41点；<br/>中国深证成指7月16日（周四）收盘下跌290.74点，跌幅：1.97%，报14488.65点；<br/>中国沪深300指数7月16日（周四）收盘下跌88.35点，跌幅：1.85%，报4698.43点；<br/>中国创业板指数7月16日（周四）收盘下跌112.25点，跌幅：2.95%，报3692.46点；<br/>中国科创50指数7月16日（周四）收盘下跌77.39点，跌幅：4.02%，报1846.88点。",
+          "url": "https://flash.jin10.com/detail/20260716150226205800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "上证50指数午后跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3134860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -1283,6 +1419,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月16日（周四）上海金午盘价为878.07元/克，较国际金价（约为876.59元/克），高1.48元/克。",
+          "url": "https://flash.jin10.com/detail/20260716150205331800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
