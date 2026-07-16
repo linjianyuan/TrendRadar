@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T17:59:38.327106+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-07-16T19:39:54.598873+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -56,18 +56,6 @@
           "time_info": "[01时07分 ~ 12时54分]"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 07时52分]"
-        },
-        {
           "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
           "url": "https://wallstreetcn.com/articles/3777042",
           "source": "华尔街见闻",
@@ -78,8 +66,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时51分 ~ 17时59分]"
+          "appearance_count": 9,
+          "time_info": "[06时51分 ~ 19时39分]"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 07时52分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
@@ -107,11 +107,12 @@
             14,
             15,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时57分 ~ 17时59分]"
+          "appearance_count": 14,
+          "time_info": "[02时57分 ~ 19时39分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -146,6 +147,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 19时39分]"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -214,18 +228,6 @@
           "time_info": "04时06分"
         },
         {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 17时59分]"
-        },
-        {
           "title": "特朗普敦促国防企业增加武器产量",
           "url": "https://flash.jin10.com/detail/20260716054732872800",
           "source": "金十数据",
@@ -286,6 +288,17 @@
           "time_info": "[06时52分 ~ 07时52分]"
         },
         {
+          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
+          "url": "https://www.cls.cn/detail/2428113",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时39分]"
+        },
+        {
           "title": "美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。",
           "url": "https://wallstreetcn.com/livenews/3134602",
           "source": "华尔街见闻-快讯",
@@ -327,7 +340,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -506,17 +519,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
-          "url": "https://www.cls.cn/detail/2428113",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）他们最好老实点。",
@@ -772,6 +774,17 @@
           "time_info": "05时51分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-16）",
+          "url": "https://flash.jin10.com/detail/20260716184022118800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "特朗普发文感谢伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -819,7 +832,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -847,6 +860,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时07分 ~ 12时54分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 19时39分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -886,18 +911,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时07分 ~ 09时51分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 17时59分]"
         },
         {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
@@ -1004,6 +1017,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3135023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "美股中概股集体走强 SK海力士跌9%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B7%8C9%25",
           "source": "百度热搜",
@@ -1098,7 +1122,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -1106,7 +1130,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -1142,8 +1166,32 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 19时39分]"
+        },
+        {
+          "title": "A股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2573459",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时18分 ~ 17时59分]"
+          "time_info": "[17时59分 ~ 19时39分]"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时39分]"
         },
         {
           "title": "今年A股最大IPO！长鑫科技启动申购",
@@ -1169,15 +1217,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "A股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2573459",
-          "source": "抖音",
+          "title": "A股跳水原因是什么",
+          "url": "https://www.toutiao.com/trending/7662226207446532138/",
+          "source": "今日头条",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时59分"
+          "time_info": "19时39分"
         },
         {
           "title": "A股中际旭创成交额达300亿元，现跌5.58%。",
@@ -1244,17 +1292,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "A股氟化工概念低开，ST天际竞价跌停，金宏气体跌近8%，华特气体、中船特气、多氟多等跟跌。",
@@ -1495,6 +1532,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "兴业银锡：兴业黄金（香港）以每股0.053澳元的价格分两批认购TAT在澳大利亚证券交易所定向增发的普通股，认购股份总数占认购完成日其已发行股份的20%，合计交易金额约518.27万澳元。",
+          "url": "https://wallstreetcn.com/livenews/3135031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
