@@ -1,11 +1,230 @@
 {
-  "generated_at": "2026-07-17T12:57:24.987793+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-07-17T15:14:07.099039+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "A股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 07时52分]"
+        },
+        {
+          "title": "A股突然放量释放何信号",
+          "url": "https://www.toutiao.com/trending/7663326159165197865/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "A股零售板块拉升，中百集团、中央商场涨停，宁波中百、新华百货、三江购物跟涨。",
+          "url": "https://flash.jin10.com/detail/20260717093912580800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股哪些板块在逆势吸筹",
+          "url": "https://www.toutiao.com/trending/7663116917388873259/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
+        },
+        {
+          "title": "A股收盘：创业板指跌超7%，全市场近200股跌停",
+          "url": "https://wallstreetcn.com/livenews/3135544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2574308",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 15时14分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "A股跌至3790点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E8%87%B33790%E7%82%B9%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "A股中际旭创盘中跌10.06%，现报1001.00元。",
+          "url": "https://flash.jin10.com/detail/20260717093523746800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股存储芯片板块延续跌势，德明利连续第三日跌停，华天科技、江波龙、香农芯创、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260717093300121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股澜起科技再度低开超6%，港股澜起科技(06809.HK)跌6.1%。",
+          "url": "https://flash.jin10.com/detail/20260717093211195800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "业内人士：当前A股市场调整更多是慢牛中的高波动，市场当前位置具备较强支撑",
+          "url": "https://wallstreetcn.com/livenews/3135526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "A股长期来看还要创新高",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%95%BF%E6%9C%9F%E6%9D%A5%E7%9C%8B%E8%BF%98%E8%A6%81%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "A股半日放量1219亿调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1219%E4%BA%BF%E8%B0%83%E6%95%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "A股开盘，上证指数开跌0.44%，深证成指开跌0.97%，创业板指开跌1.36%；存储芯片、CRO概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260717092516834800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "刘纪鹏谈A股长慢牛的底层逻辑",
+          "url": "https://www.toutiao.com/trending/7663297022048341547/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "近1700家A股公司披露上半年业绩预告，三大高景气赛道上市公司描绘增长新曲线",
+          "url": "https://wallstreetcn.com/livenews/3135304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "峰哥称不再点评A股",
+          "url": "https://s.weibo.com/weibo?q=%E5%B3%B0%E5%93%A5%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%82%B9%E8%AF%84A%E8%82%A1&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -20,6 +239,18 @@
           "time_info": "[01时06分 ~ 07时52分]"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 15时14分]"
+        },
+        {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
           "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
           "source": "凤凰网",
@@ -31,15 +262,15 @@
           "time_info": "[07时52分 ~ 09时54分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
+          "title": "特朗普说别人都在笑话美国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%88%AB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时57分]"
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
@@ -81,11 +312,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普：国会必须通过选民身份识别法案。",
@@ -105,7 +337,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -237,6 +469,17 @@
           "time_info": "[01时06分 ~ 05时58分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 15时14分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -249,17 +492,6 @@
           "time_info": "[01时06分 ~ 09时54分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 12时57分]"
-        },
-        {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
           "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
@@ -269,8 +501,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 15时14分]"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -303,8 +535,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 15时14分]"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -380,7 +612,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -409,151 +641,31 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 12,
+      "keyword_group": "上证",
+      "match_count": 8,
       "titles": [
         {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
+          "title": "中国上证综指7月17日（周五）收盘下跌118.26点，跌幅：3.05%，报3764.15点；<br/>中国深证成指7月17日（周五）收盘下跌781.77点，跌幅：5.4%，报13706.88点；<br/>中国沪深300指数7月17日（周五）收盘下跌169.34点，跌幅：3.6%，报4529.1点；<br/>中国创业板指数7月17日（周五）收盘下跌263.83点，跌幅：7.15%，报3428.63点；<br/>中国科创50指数7月17日（周五）收盘下跌131.48点，跌幅：7.12%，报1715.40点。",
+          "url": "https://flash.jin10.com/detail/20260717150225983800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时52分]"
-        },
-        {
-          "title": "A股突然放量释放何信号",
-          "url": "https://www.toutiao.com/trending/7663326159165197865/",
-          "source": "今日头条",
-          "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "15时14分"
         },
         {
-          "title": "A股零售板块拉升，中百集团、中央商场涨停，宁波中百、新华百货、三江购物跟涨。",
-          "url": "https://flash.jin10.com/detail/20260717093912580800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股哪些板块在逆势吸筹",
-          "url": "https://www.toutiao.com/trending/7663116917388873259/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时02分]"
-        },
-        {
-          "title": "A股中际旭创盘中跌10.06%，现报1001.00元。",
-          "url": "https://flash.jin10.com/detail/20260717093523746800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2574308",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "A股存储芯片板块延续跌势，德明利连续第三日跌停，华天科技、江波龙、香农芯创、佰维存储跟跌。",
-          "url": "https://flash.jin10.com/detail/20260717093300121800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股澜起科技再度低开超6%，港股澜起科技(06809.HK)跌6.1%。",
-          "url": "https://flash.jin10.com/detail/20260717093211195800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股长期来看还要创新高",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%95%BF%E6%9C%9F%E6%9D%A5%E7%9C%8B%E8%BF%98%E8%A6%81%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "A股开盘，上证指数开跌0.44%，深证成指开跌0.97%，创业板指开跌1.36%；存储芯片、CRO概念跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260717092516834800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "刘纪鹏谈A股长慢牛的底层逻辑",
-          "url": "https://www.toutiao.com/trending/7663297022048341547/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "近1700家A股公司披露上半年业绩预告，三大高景气赛道上市公司描绘增长新曲线",
-          "url": "https://wallstreetcn.com/livenews/3135304",
+          "title": "上证指数收报3764.15点，跌3.05%。 深证成指收报13706.88点，跌5.40%。 创业板指收报3428.63点，跌7.15%。 沪深300收报4529.10点，跌3.60%。 科创50收报1715.40点，跌7.12%。 中证500收报7513.76点，跌5.55%。 中证1000收报7168.00点，跌6.08%。",
+          "url": "https://wallstreetcn.com/livenews/3135542",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 4,
-      "titles": [
+          "time_info": "15时14分"
+        },
         {
           "title": "创业板指盘初跌幅迅速扩大至3%，深证成指跌超2%，上证综指现跌0.61%。",
           "url": "https://flash.jin10.com/detail/20260717093336790800",
@@ -577,6 +689,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "上证指数",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "中国上证综指7月17日（周五）开盘下跌17.1点，跌幅：0.44%，报3865.32点；<br/>中国深证成指7月17日（周五）开盘下跌140.44点，跌幅：0.97%，报14348.21点；<br/>中国沪深300指数7月17日（周五）开盘下跌36.81点，跌幅：0.78%，报4661.62点；<br/>中国创业板指数7月17日（周五）开盘下跌50.4点，跌幅：1.36%，报3642.06点；<br/>中国科创50指数7月17日（周五）开盘下跌16.9点，跌幅：0.92%，报1829.98点。",
           "url": "https://flash.jin10.com/detail/20260717092746845800",
           "source": "金十数据",
@@ -594,9 +717,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "创业板指跌幅扩大至8%，上证指数跌3.35%，深证成指跌6.03%。新易盛盘中跌15.02%，现报461.10元。",
+          "url": "https://wallstreetcn.com/livenews/3135504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     },
@@ -641,6 +775,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 15时14分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）上海金午盘价为872.37元/克，较国际金价（约为871.26元/克），高1.11元/克。",
+          "url": "https://flash.jin10.com/detail/20260717150219408800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     },
@@ -714,24 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 12时57分]"
         }
       ]
     }
