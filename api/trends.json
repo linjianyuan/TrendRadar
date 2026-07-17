@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:08:54.380135+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-07-17T23:08:06.624403+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "A股杀跌是中期调整还是牛市结束",
+          "url": "https://www.toutiao.com/trending/7663417152111644223/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 23时08分]"
         },
         {
           "title": "A股突然放量释放何信号",
@@ -78,18 +91,6 @@
           "time_info": "15时14分"
         },
         {
-          "title": "A股杀跌是中期调整还是牛市结束",
-          "url": "https://www.toutiao.com/trending/7663417152111644223/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时49分 ~ 21时08分]"
-        },
-        {
           "title": "A股",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1",
           "source": "百度热搜",
@@ -100,6 +101,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时13分 ~ 17时50分]"
+        },
+        {
+          "title": "A股今天暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 23时08分]"
         },
         {
           "title": "A股",
@@ -113,16 +127,16 @@
           "time_info": "[12时57分 ~ 15时14分]"
         },
         {
-          "title": "A股今天暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "A股黄金买点来了吗",
+          "url": "https://www.toutiao.com/trending/7663454627538406938/",
+          "source": "今日头条",
           "ranks": [
             12,
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时50分 ~ 21时08分]"
+          "time_info": "[21时08分 ~ 23时08分]"
         },
         {
           "title": "陈果：A股正迎来年内难得黄金买点",
@@ -175,18 +189,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "A股黄金买点来了吗",
-          "url": "https://www.toutiao.com/trending/7663454627538406938/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -290,6 +293,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "A股年内最强无差别杀跌",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E5%BC%BA%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E8%B7%8C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "峰哥称不再点评A股",
           "url": "https://s.weibo.com/weibo?q=%E5%B3%B0%E5%93%A5%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%82%B9%E8%AF%84A%E8%82%A1&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -304,7 +318,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -315,8 +329,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 21时08分]"
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 23时08分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -338,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时49分 ~ 21时08分]"
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 23时08分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -362,6 +376,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
@@ -558,7 +583,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -566,11 +591,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 21时08分]"
+          "appearance_count": 11,
+          "time_info": "[07时52分 ~ 23时08分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -620,6 +646,17 @@
           "time_info": "[07时52分 ~ 15时14分]"
         },
         {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
           "url": "https://wallstreetcn.com/livenews/3135298",
           "source": "华尔街见闻-快讯",
@@ -637,7 +674,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -732,6 +769,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3135778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "SpaceX(SPCX.O)美股盘后下跌4%，星舰在得州的第13次试飞过程中，于升空前最后一刻中止发射。",
           "url": "https://flash.jin10.com/detail/20260717065032894800",
           "source": "金十数据",
@@ -741,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美股牛市还能靠谁抬轿",
@@ -905,7 +964,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -916,7 +975,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         }
