@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T09:54:30.602133+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-07-17T12:57:24.987793+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -31,24 +31,24 @@
           "time_info": "[07时52分 ~ 09时54分]"
         },
         {
-          "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
-          "url": "https://flash.jin10.com/detail/20260717094121843800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时57分]"
+        },
+        {
+          "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
+          "url": "https://flash.jin10.com/detail/20260717094121843800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -76,26 +76,38 @@
           "time_info": "[02时58分 ~ 04时02分]"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时57分]"
+        },
+        {
           "title": "美国总统特朗普：国会必须通过选民身份识别法案。",
           "url": "https://flash.jin10.com/detail/20260717093506237800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
+          "title": "白宫官宣特朗普将出席世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7663253128728657971/",
+          "source": "今日头条",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时57分"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -148,7 +160,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -192,7 +204,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -200,7 +212,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -244,8 +256,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 12时57分]"
+        },
+        {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 12时57分]"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -270,16 +295,16 @@
           "time_info": "04时02分"
         },
         {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
           "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时54分]"
+          "time_info": "[09时54分 ~ 12时57分]"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -292,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 09时54分]"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -360,6 +374,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美股牛市还能靠谁抬轿",
+          "url": "https://www.toutiao.com/trending/7663304146560224794/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
           "url": "https://wallstreetcn.com/livenews/3135268",
           "source": "华尔街见闻-快讯",
@@ -385,7 +410,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -401,13 +426,24 @@
           "time_info": "[01时06分 ~ 07时52分]"
         },
         {
+          "title": "A股突然放量释放何信号",
+          "url": "https://www.toutiao.com/trending/7663326159165197865/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "A股零售板块拉升，中百集团、中央商场涨停，宁波中百、新华百货、三江购物跟涨。",
           "url": "https://flash.jin10.com/detail/20260717093912580800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -431,9 +467,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2574308",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "A股存储芯片板块延续跌势，德明利连续第三日跌停，华天科技、江波龙、香农芯创、佰维存储跟跌。",
@@ -442,7 +489,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -453,9 +500,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股长期来看还要创新高",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%95%BF%E6%9C%9F%E6%9D%A5%E7%9C%8B%E8%BF%98%E8%A6%81%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "A股开盘，上证指数开跌0.44%，深证成指开跌0.97%，创业板指开跌1.36%；存储芯片、CRO概念跌幅居前。",
@@ -464,9 +522,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "刘纪鹏谈A股长慢牛的底层逻辑",
+          "url": "https://www.toutiao.com/trending/7663297022048341547/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "近1700家A股公司披露上半年业绩预告，三大高景气赛道上市公司描绘增长新曲线",
@@ -478,6 +547,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "创业板指盘初跌幅迅速扩大至3%，深证成指跌超2%，上证综指现跌0.61%。",
+          "url": "https://flash.jin10.com/detail/20260717093336790800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "上证指数开盘报3865.32点，跌0.44%。 深证成指开盘报14348.22点，跌0.97%。 创业板指开盘报3642.06点，跌1.36%。 沪深300开盘报4661.62点，跌0.78%。 科创50开盘报1829.98点，跌0.91%。 中证500开盘报7900.10点，跌0.70%。 中证1000开盘报7599.39点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3135363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "中国上证综指7月17日（周五）开盘下跌17.1点，跌幅：0.44%，报3865.32点；<br/>中国深证成指7月17日（周五）开盘下跌140.44点，跌幅：0.97%，报14348.21点；<br/>中国沪深300指数7月17日（周五）开盘下跌36.81点，跌幅：0.78%，报4661.62点；<br/>中国创业板指数7月17日（周五）开盘下跌50.4点，跌幅：1.36%，报3642.06点；<br/>中国科创50指数7月17日（周五）开盘下跌16.9点，跌幅：0.92%，报1829.98点。",
+          "url": "https://flash.jin10.com/detail/20260717092746845800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "上证指数早盘收报3818.59点，跌1.64%。 深证成指早盘收报13953.26点，跌3.70%。 创业板指早盘收报3518.65点，跌4.71%。 沪深300早盘收报4583.23点，跌2.45%。 科创50早盘收报1763.22点，跌4.53%。 中证500早盘收报7691.88点，跌3.32%。 中证1000早盘收报7392.22点，跌3.14%。",
+          "url": "https://wallstreetcn.com/livenews/3135449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     },
@@ -522,45 +641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "创业板指盘初跌幅迅速扩大至3%，深证成指跌超2%，上证综指现跌0.61%。",
-          "url": "https://flash.jin10.com/detail/20260717093336790800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "上证指数开盘报3865.32点，跌0.44%。 深证成指开盘报14348.22点，跌0.97%。 创业板指开盘报3642.06点，跌1.36%。 沪深300开盘报4661.62点，跌0.78%。 科创50开盘报1829.98点，跌0.91%。 中证500开盘报7900.10点，跌0.70%。 中证1000开盘报7599.39点，跌0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3135363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "中国上证综指7月17日（周五）开盘下跌17.1点，跌幅：0.44%，报3865.32点；<br/>中国深证成指7月17日（周五）开盘下跌140.44点，跌幅：0.97%，报14348.21点；<br/>中国沪深300指数7月17日（周五）开盘下跌36.81点，跌幅：0.78%，报4661.62点；<br/>中国创业板指数7月17日（周五）开盘下跌50.4点，跌幅：1.36%，报3642.06点；<br/>中国科创50指数7月17日（周五）开盘下跌16.9点，跌幅：0.92%，报1829.98点。",
-          "url": "https://flash.jin10.com/detail/20260717092746845800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         }
       ]
     },
@@ -650,8 +730,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 12时57分]"
         }
       ]
     }
