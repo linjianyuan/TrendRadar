@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T20:56:30.864280+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-07-18T22:18:11.205531+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 22时18分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -55,16 +67,18 @@
           "time_info": "[01时02分 ~ 04时01分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
+            15,
+            14,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时41分 ~ 20时56分]"
+          "time_info": "[14时55分 ~ 22时18分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -112,19 +126,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时59分 ~ 07时45分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 20时56分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -186,6 +187,18 @@
           "time_info": "[12时41分 ~ 16时44分]"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时18分]"
+        },
+        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
@@ -211,6 +224,18 @@
           "time_info": "[05时54分 ~ 07时45分]"
         },
         {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
           "url": "https://www.douyin.com/hot/2575839",
           "source": "抖音",
@@ -221,17 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 16时44分]"
-        },
-        {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 20时56分]"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -295,7 +309,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -320,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
@@ -378,11 +381,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时41分 ~ 20时56分]"
+          "appearance_count": 14,
+          "time_info": "[06时41分 ~ 22时18分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -472,6 +476,18 @@
           "time_info": "[04时59分 ~ 07时45分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时18分]"
+        },
+        {
           "title": "美股三大指数全线下挫",
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
@@ -551,17 +567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         }
       ]
     },
@@ -576,11 +581,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 20时56分]"
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 22时18分]"
         },
         {
           "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
@@ -614,11 +620,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时18分]"
         },
         {
           "title": "A股再现天价离婚案",
@@ -763,6 +770,38 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时44分 ~ 22时18分]"
+        },
+        {
+          "title": "这周金价发生了什么",
+          "url": "https://www.toutiao.com/trending/7663819778364345910/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -836,27 +875,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时44分 ~ 20时56分]"
         }
       ]
     }
