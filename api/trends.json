@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:46:54.905288+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-07-18T20:56:30.864280+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -32,6 +32,18 @@
           "time_info": "[01时02分 ~ 06时41分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 20时56分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -43,18 +55,6 @@
           "time_info": "[01时02分 ~ 04时01分]"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 19时46分]"
-        },
-        {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
           "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
           "source": "凤凰网",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 19时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 20时56分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -112,6 +112,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时59分 ~ 07时45分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 20时56分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -173,19 +186,6 @@
           "time_info": "[12时41分 ~ 16时44分]"
         },
         {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 19时46分]"
-        },
-        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
@@ -221,6 +221,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 16时44分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时56分]"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -278,6 +289,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美国总统特朗普：要求加拿大对其森林维护不当的事实承担责任。",
           "url": "https://flash.jin10.com/detail/20260718032553853800",
           "source": "金十数据",
@@ -300,15 +322,15 @@
           "time_info": "04时01分"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "20时56分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
@@ -317,7 +339,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -347,7 +369,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -359,8 +381,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时41分 ~ 19时46分]"
+          "appearance_count": 12,
+          "time_info": "[06时41分 ~ 20时56分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -529,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -546,8 +579,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 19时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 20时56分]"
         },
         {
           "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
@@ -574,6 +607,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时55分 ~ 07时45分]"
+        },
+        {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时56分]"
         },
         {
           "title": "A股再现天价离婚案",
@@ -629,17 +674,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
-        },
-        {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "A股今天暴跌原因",
@@ -821,8 +855,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时44分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[07时44分 ~ 20时56分]"
         }
       ]
     }
