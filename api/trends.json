@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T06:43:39.179945+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-07-20T07:50:57.238435+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 07时50分]"
         },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 07时50分]"
         },
         {
           "title": "大罗把大力神杯递给特朗普",
@@ -156,8 +156,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时50分]"
+        },
+        {
+          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
+          "url": "https://wallstreetcn.com/livenews/3136355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
+          "time_info": "[06时43分 ~ 07时50分]"
         },
         {
           "title": "谁将与特朗普同举大力神杯",
@@ -172,15 +184,48 @@
           "time_info": "[04时04分 ~ 06时43分]"
         },
         {
-          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
-          "url": "https://wallstreetcn.com/livenews/3136355",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普摸大力神杯",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "百度热搜",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "07时50分"
+        },
+        {
+          "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
+          "url": "https://flash.jin10.com/detail/20260720065512528800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "特朗普为西班牙颁奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "美国总统特朗普将大力神杯颁给西班牙队。",
+          "url": "https://flash.jin10.com/detail/20260720064454811800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
@@ -188,6 +233,19 @@
       "keyword_group": "A股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "又一批A股半年报预喜，“易中天”已有2家披露",
+          "url": "https://www.cls.cn/detail/2430507",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 07时50分]"
+        },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2430229",
@@ -202,40 +260,29 @@
           "time_info": "[00时47分 ~ 06时43分]"
         },
         {
-          "title": "又一批A股半年报预喜，“易中天”已有2家披露",
-          "url": "https://www.cls.cn/detail/2430507",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时43分]"
-        },
-        {
           "title": "两大央企深夜宣布：增持A股",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%A4%AE%E4%BC%81%E6%B7%B1%E5%A4%9C%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%A2%9E%E6%8C%81A%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时04分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时04分 ~ 07时50分]"
         },
         {
           "title": "A股市场震荡整理，机构称短期抛压或已集中释放",
           "url": "https://wallstreetcn.com/livenews/3136362",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时50分]"
         },
         {
           "title": "A股反弹真的不远了吗",
@@ -300,7 +347,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货白银盘初下跌0.4%，现报55.64美元/盎司。",
@@ -309,9 +356,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "金十图示：2026年07月20日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260720065031066800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
@@ -344,7 +402,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         }
