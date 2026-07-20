@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:10:26.755170+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-07-20T17:52:19.319414+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
         {
           "title": "又一批A股半年报预喜，“易中天”已有2家披露",
@@ -70,6 +70,39 @@
           "time_info": "[10时10分 ~ 14时10分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2577975",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 17时52分]"
+        },
+        {
+          "title": "证监会就近期A股波动发声",
+          "url": "https://www.toutiao.com/trending/7664095612945600019/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "一图看懂 | 一批上市公司出手，A股新一轮“增持回购潮”拉开大幕",
+          "url": "https://www.cls.cn/detail/2431271",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "A股白酒板块走强，古井贡酒涨超7%，皇台酒业、贵州茅台双双涨超4%，泸州老窖、舍得酒业、山西汾酒、五粮液等个股跟涨。贵州茅台此前宣布，自2026年7月18日零时起，将飞天53%vol500ml贵州茅台酒(2026)i茅台平台零售价由1539元/瓶调整为1639元/瓶，销售合同价由1269元/瓶调整为1369元/瓶。",
           "url": "https://flash.jin10.com/detail/20260720095340913800",
           "source": "金十数据",
@@ -87,20 +120,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2577975",
-          "source": "抖音",
+          "title": "指数跌破年线对A股意味着什么",
+          "url": "https://www.toutiao.com/trending/7663453795988537350/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时10分"
+          "time_info": "17时52分"
         },
         {
           "title": "A股培育钻石板块震荡走弱，博云新材、黄河旋风跌停，沃尔德、英诺激光、力量钻石、四方达跌超10%。",
@@ -109,7 +142,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -185,6 +218,17 @@
           "time_info": "[00时48分 ~ 01时52分]"
         },
         {
+          "title": "今日66只A股价格突破年线",
+          "url": "https://www.toutiao.com/trending/7664442992057090054/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "A股油气股集体走强，山东墨龙直线涨停，科力股份涨超10%，通源石油、中曼石油、蓝焰控股、首华燃气、潜能恒信跟涨。",
           "url": "https://wallstreetcn.com/livenews/3136453",
           "source": "华尔街见闻-快讯",
@@ -224,9 +268,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "中国建筑：控股股东中建集团拟增持公司A股股份5亿元-10亿元",
+          "url": "https://wallstreetcn.com/livenews/3136770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "分析师：A股年内二次买点或已到来",
+          "url": "https://www.toutiao.com/trending/7664079334257442879/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "A股煤炭板块震荡走高，大有能源涨停，郑州煤电涨超9%，辽宁能源、中煤能源、安泰集团、陕西黑猫等个股跟涨。信达证券表示，煤炭板块向下调整有高股息安全边际支撑，向上弹性有后续煤价上涨预期催化，继续全面看多煤炭板块。",
@@ -246,7 +312,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -257,7 +323,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -279,7 +345,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -301,9 +367,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "A股三大指数涨跌不一",
+          "url": "https://www.toutiao.com/trending/7664463165929521178/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "港交所文件显示，中国石化(SNP.N)于7月20日在其他交易所回购了65万股A股，金额为340万人民币；同日还回购了300万股H股，金额为1290万港元。",
+          "url": "https://flash.jin10.com/detail/20260720173316920800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美的集团：截至7月17日累计回购A股股份数量为8433.94万股",
@@ -315,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "京东方A：于7月20日首次回购公司A股股份 支付总金额约4990万元",
+          "url": "https://wallstreetcn.com/livenews/3136744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "A股",
@@ -334,7 +444,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
@@ -521,6 +631,18 @@
           "time_info": "[06时43分 ~ 07时50分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 17时52分]"
+        },
+        {
           "title": "谁将与特朗普同举大力神杯",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "bilibili 热搜",
@@ -553,17 +675,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
         },
         {
           "title": "特朗普为西班牙颁奖",
@@ -612,6 +723,46 @@
       ]
     },
     {
+      "keyword_group": "上证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证报：市场调整未改基本面，稳预期合力正加速集结",
+          "url": "https://wallstreetcn.com/livenews/3136352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "【焦点复盘】高股息红利股强势做多，上证50高开高走涨超3%，1万亿油气巨头时隔4个多月收获涨停",
+          "url": "https://www.cls.cn/detail/2431452",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 2,
       "titles": [
@@ -650,7 +801,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -664,24 +815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证报：市场调整未改基本面，稳预期合力正加速集结",
-          "url": "https://wallstreetcn.com/livenews/3136352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
         }
       ]
     }
