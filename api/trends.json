@@ -1,8 +1,205 @@
 {
-  "generated_at": "2026-07-23T09:59:50.992439+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-07-23T13:25:57.816987+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
+          "url": "https://www.cls.cn/detail/2434298",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 09时59分]"
+        },
+        {
+          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
+          "url": "https://www.cls.cn/detail/2433968",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 07时03分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时25分]"
+        },
+        {
+          "title": "A股CRO板块低开高走，昭衍新药、成都先导双双涨超6%，百奥赛图涨超5%，昊帆生物、阳光诺和、美迪西、凯莱英等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260723094703422800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股军工板块异动拉升，长城军工直线涨停，北方长龙涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3138624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "A股光纤概念股早盘拉升，杭电股份直线涨停，三旺通信涨超15%，长光华芯、通鼎互联、光韵达、长盈通涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3138541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股算力租赁概念反复活跃，证通电子3连板，鸿博股份涨停，利通电子、浪潮信息、铜牛信息、行云科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3138537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股MLCC概念大幅走强，昀冢科技、风华高科、火炬电子、博迁新材涨停，利和兴涨超10%，三环集团、艾华集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3138535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股燃气板块短线拉升，水发燃气涨停，凯添燃气、升达林业、洪通燃气、蓝天燃气、佛燃能源等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260723094231803800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股油气板块再度走强，中曼石油4天3板，科力股份、潜能恒信、通源石油、蓝焰控股、凯添燃气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3138530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时25分]"
+        },
+        {
+          "title": "A股钙钛矿电池板块盘初走强，拓日新能涨停，国晟科技涨超3%，英诺激光、西子洁能、隆华科技、中来股份、聚石化学等个股跟涨。可再生能源发展十五五规划提出：加速钙钛矿叠层电池等高效光伏电池制备及产业化生产技术研究，研究面向太空的太阳能发电技术，推进关键技术验证。",
+          "url": "https://flash.jin10.com/detail/20260723094204055800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股算力概念盘初拉升，证通电子、鸿博股份双双涨停，锐捷网络涨超9%，利通电子、东易日盛、金刚光伏、群兴玩具、奥瑞德等个股跟涨。可再生能源发展十五五规划提出：引导新建数据中心与可再生能源发电协同规划布局，分类挖掘算力负荷时空调节潜力。",
+          "url": "https://flash.jin10.com/detail/20260723093829849800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "多家外资机构发声看好A股市场看多中国股票",
+          "url": "https://wallstreetcn.com/livenews/3138445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "A股电力板块盘初走强，拓日新能、新中港、立新能源等多股涨停，世茂能源涨超8%，华电辽能、华电能源、山高环能、川能动力、国电电力等个股跟涨。可再生能源发展十五五规划提出：2030年，可再生能源发电总装机达到35亿千瓦左右，年发电量达到6万亿千瓦时左右；风电和太阳能发电总装机达到28亿千瓦以上、装机占比超过50%。",
+          "url": "https://flash.jin10.com/detail/20260723093441408800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
+          "url": "https://flash.jin10.com/detail/20260723093244752800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股体育概念活跃，交运股份涨超5%，中体产业涨超4%，力盛体育涨超3%。消息面上，《体育强国建设“十五五”规划》提出：到2030年，体育产业总规模突破7万亿元。",
+          "url": "https://flash.jin10.com/detail/20260723093109622800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 17,
@@ -50,8 +247,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时59分 ~ 09时59分]"
+          "appearance_count": 5,
+          "time_info": "[05时59分 ~ 13时25分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -61,8 +258,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 13时25分]"
         },
         {
           "title": "谷歌母公司Alphabet二季度营收1198亿美元，预期1170.2亿美元。 谷歌云营收247.7亿美元，预期224.6亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
@@ -203,193 +400,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
-          "url": "https://www.cls.cn/detail/2434298",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 09时59分]"
-        },
-        {
-          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
-          "url": "https://www.cls.cn/detail/2433968",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时03分]"
-        },
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股CRO板块低开高走，昭衍新药、成都先导双双涨超6%，百奥赛图涨超5%，昊帆生物、阳光诺和、美迪西、凯莱英等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260723094703422800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股光纤概念股早盘拉升，杭电股份直线涨停，三旺通信涨超15%，长光华芯、通鼎互联、光韵达、长盈通涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3138541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股算力租赁概念反复活跃，证通电子3连板，鸿博股份涨停，利通电子、浪潮信息、铜牛信息、行云科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3138537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股MLCC概念大幅走强，昀冢科技、风华高科、火炬电子、博迁新材涨停，利和兴涨超10%，三环集团、艾华集团跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3138535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股燃气板块短线拉升，水发燃气涨停，凯添燃气、升达林业、洪通燃气、蓝天燃气、佛燃能源等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260723094231803800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股油气板块再度走强，中曼石油4天3板，科力股份、潜能恒信、通源石油、蓝焰控股、凯添燃气跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3138530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股钙钛矿电池板块盘初走强，拓日新能涨停，国晟科技涨超3%，英诺激光、西子洁能、隆华科技、中来股份、聚石化学等个股跟涨。可再生能源发展十五五规划提出：加速钙钛矿叠层电池等高效光伏电池制备及产业化生产技术研究，研究面向太空的太阳能发电技术，推进关键技术验证。",
-          "url": "https://flash.jin10.com/detail/20260723094204055800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股算力概念盘初拉升，证通电子、鸿博股份双双涨停，锐捷网络涨超9%，利通电子、东易日盛、金刚光伏、群兴玩具、奥瑞德等个股跟涨。可再生能源发展十五五规划提出：引导新建数据中心与可再生能源发电协同规划布局，分类挖掘算力负荷时空调节潜力。",
-          "url": "https://flash.jin10.com/detail/20260723093829849800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "多家外资机构发声看好A股市场看多中国股票",
-          "url": "https://wallstreetcn.com/livenews/3138445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "A股电力板块盘初走强，拓日新能、新中港、立新能源等多股涨停，世茂能源涨超8%，华电辽能、华电能源、山高环能、川能动力、国电电力等个股跟涨。可再生能源发展十五五规划提出：2030年，可再生能源发电总装机达到35亿千瓦左右，年发电量达到6万亿千瓦时左右；风电和太阳能发电总装机达到28亿千瓦以上、装机占比超过50%。",
-          "url": "https://flash.jin10.com/detail/20260723093441408800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
-          "url": "https://flash.jin10.com/detail/20260723093244752800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股体育概念活跃，交运股份涨超5%，中体产业涨超4%，力盛体育涨超3%。消息面上，《体育强国建设“十五五”规划》提出：到2030年，体育产业总规模突破7万亿元。",
-          "url": "https://flash.jin10.com/detail/20260723093109622800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -403,15 +415,40 @@
           "time_info": "[00时18分 ~ 07时03分]"
         },
         {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时59分 ~ 13时25分]"
+        },
+        {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
           "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时25分"
         },
         {
           "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
@@ -425,26 +462,13 @@
           "time_info": "04时08分"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时59分 ~ 09时59分]"
-        },
-        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://news.ifeng.com/c/8uyvegEdrQo",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -483,6 +507,29 @@
           "time_info": "[00时18分 ~ 04时08分]"
         },
         {
+          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2063183942509754265",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
           "url": "https://flash.jin10.com/detail/20260723061154517800",
           "source": "金十数据",
@@ -516,17 +563,6 @@
           "time_info": "04时08分"
         },
         {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://wallstreetcn.com/livenews/3138407",
           "source": "华尔街见闻-快讯",
@@ -547,6 +583,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数开盘报3868.09点，涨0.03%。 深证成指开盘报14116.02点，涨0.39%。 创业板指开盘报3596.73点，涨0.84%。 沪深300开盘报4735.17点，涨0.38%。 科创50开盘报1876.61点，涨0.89%。 中证500开盘报7750.85点，跌0.01%。 中证1000开盘报7169.54点，涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3138515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "上证指数早盘收报3859.69点，跌0.19%。 深证成指早盘收报14035.01点，跌0.19%。 创业板指早盘收报3555.09点，跌0.33%。 沪深300早盘收报4707.96点，跌0.20%。 科创50早盘收报1783.94点，跌4.09%。 中证500早盘收报7690.90点，跌0.78%。 中证1000早盘收报7142.04点，跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3138590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
@@ -609,23 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数开盘报3868.09点，涨0.03%。 深证成指开盘报14116.02点，涨0.39%。 创业板指开盘报3596.73点，涨0.84%。 沪深300开盘报4735.17点，涨0.38%。 科创50开盘报1876.61点，涨0.89%。 中证500开盘报7750.85点，跌0.01%。 中证1000开盘报7169.54点，涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3138515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         }
       ]
     },
