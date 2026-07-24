@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T07:54:40.760530+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-07-24T09:54:45.952479+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 09时54分]"
         },
         {
           "title": "美股",
@@ -42,6 +43,42 @@
           "time_info": "[01时22分 ~ 07时54分]"
         },
         {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 09时54分]"
+        },
+        {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 09时54分]"
+        },
+        {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
           "url": "https://wallstreetcn.com/livenews/3139066",
           "source": "华尔街见闻-快讯",
@@ -52,18 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时59分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时54分]"
         },
         {
           "title": "英特尔美股盘后涨幅扩大至12%。",
@@ -90,6 +115,18 @@
           "time_info": "[04时53分 ~ 05时59分]"
         },
         {
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 09时54分]"
+        },
+        {
           "title": "摩根大通：接下来几周是美股命运关键",
           "url": "https://www.toutiao.com/trending/7665718883323481643/",
           "source": "今日头条",
@@ -99,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时22分]"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
@@ -143,17 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "美股七巨头齐跌 特斯拉重挫14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨超9%，其三季度营收展望高于预期。",
@@ -203,7 +218,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -222,11 +237,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时54分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -236,11 +252,23 @@
             10,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "美参议院否决限制特朗普对伊战争权力的决议案",
@@ -249,7 +277,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -297,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "据悉特朗普对伊朗战争久拖不决感到沮丧",
+          "url": "https://flash.jin10.com/detail/20260724092023743800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "美国总统特朗普宣称：船只的损失将由“伊朗资金”来赔偿。 货物损失将用（美国方借制裁而扣留的）伊朗的钱来赔偿。 这些损失可能非常巨大。 这样做是公平的。",
@@ -356,6 +395,110 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 09时54分]"
+        },
+        {
+          "title": "A股人形机器人板块低开，绿的谐波跌近6%，拓普集团跌超4%，三花智控、昊志机电、国机精工、步科股份等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260724093028199800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股科技板块持续调整，机构关注资源品与红利低位股",
+          "url": "https://wallstreetcn.com/livenews/3139106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时54分]"
+        },
+        {
+          "title": "A股油服工程板块高开，中曼石油涨超8%，科力股份涨超5%，潜能恒信、通源石油、博迈科、海油工程、中油工程、中海油服等个股跟涨。据纽约时报：伊朗和伊拉克官员透露，伊朗周四拒绝了美国总统特朗普提出的停火方案，该方案由伊拉克总理转交至德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260724092720578800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股开盘，沪指开跌0.60%，深证成指开跌1.47%，创业板指开跌1.68%；油服工程、燃气板块走强，贵金属、MLCC、CPO、存储芯片、PCB等板块低开。",
+          "url": "https://flash.jin10.com/detail/20260724092540841800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价《白银之城》二测体验？",
+          "url": "https://www.zhihu.com/question/2063652031517218535",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 05时59分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260724023226644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "A股贵金属板块大幅低开，湖南白银低开超7%，山金国际、赤峰黄金、晓程科技、西部黄金等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260724092910278800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -397,66 +540,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价《白银之城》二测体验？",
-          "url": "https://www.zhihu.com/question/2063652031517218535",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 05时59分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260724023226644800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3777740",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
-        },
-        {
-          "title": "A股科技板块持续调整，机构关注资源品与红利低位股",
-          "url": "https://wallstreetcn.com/livenews/3139106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -486,6 +569,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 06时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国上证综指7月24日（周五）开盘下跌23.15点，跌幅：0.6%，报3853.63点；<br/>中国深证成指7月24日（周五）开盘下跌208.27点，跌幅：1.47%，报13915.04点；<br/>中国沪深300指数7月24日（周五）开盘下跌42.59点，跌幅：0.9%，报4685.41点；<br/>中国创业板指数7月24日（周五）开盘下跌60.02点，跌幅：1.68%，报3515.5点；<br/>中国科创50指数7月24日（周五）开盘下跌23.43点，跌幅：1.31%，报1766.26点。",
+          "url": "https://flash.jin10.com/detail/20260724092708989800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     }
