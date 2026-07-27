@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T18:34:59.547290+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-07-27T21:34:31.144678+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -106,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -154,6 +154,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 18时34分]"
+        },
+        {
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时34分]"
         },
         {
           "title": "A股这周能稳吗",
@@ -294,20 +306,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
         {
-          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
-          "source": "澎湃新闻",
+          "title": "A股全面普涨真的来了吗",
+          "url": "https://www.toutiao.com/trending/7667151774595157555/",
+          "source": "今日头条",
           "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "21时34分"
         },
         {
           "title": "A股兆易创新A股成交额超200亿元，现跌7.6%。",
@@ -376,6 +388,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "A股逾5100股上涨 MLCC概念午后拉升",
+          "url": "https://www.toutiao.com/trending/7666931776907952147/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "7月27日午间收评：创业板指半日涨1.55%，长鑫科技登顶A股总市值新“一哥”",
           "url": "https://wallstreetcn.com/livenews/3140006",
           "source": "华尔街见闻-快讯",
@@ -385,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "东方证券：拟通过发行A股股份及支付现金方式购买上海证券100%股权，交易价格251.2亿元",
+          "url": "https://wallstreetcn.com/livenews/3140315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "媒体：A股交易新规更好满足投资者",
@@ -438,6 +472,18 @@
           "time_info": "[00时59分 ~ 07时55分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 21时34分]"
+        },
+        {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
           "url": "https://www.cls.cn/detail/2437057",
           "source": "财联社热门",
@@ -449,18 +495,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 10时06分]"
-        },
-        {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 18时34分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -493,9 +527,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时34分]"
         },
         {
           "title": "英国新任首相：若有必要将公开批评特朗普",
@@ -648,7 +682,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -678,7 +712,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
@@ -706,6 +740,39 @@
           "time_info": "[01时00分 ~ 06时53分]"
         },
         {
+          "title": "通用汽车(GM.N)美股盘前涨3.4%；杰富瑞将评级从持有提升至买入。",
+          "url": "https://flash.jin10.com/detail/20260727211516512800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "阿斯麦美股盘前回吐涨幅；阿斯麦欧股短线跳水，其在阿姆斯特丹市场下跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3140352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3140351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
           "url": "https://www.cls.cn/detail/2437061",
           "source": "财联社热门",
@@ -718,13 +785,35 @@
           "time_info": "[07时55分 ~ 10时06分]"
         },
         {
+          "title": "阿斯麦(ASML.O)美股盘前回吐涨幅，现涨约0.35%。",
+          "url": "https://flash.jin10.com/detail/20260727210806963800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "美银警告：美股最弱窗口即将到来，黄金美元有望迎来机会",
           "url": "https://flash.jin10.com/detail/20260727181057363800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -735,7 +824,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -805,7 +894,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "甘肃白银警方侦破一起16年前的命案，4名嫌犯落网",
@@ -820,15 +909,60 @@
           "time_info": "[00时59分 ~ 10时06分]"
         },
         {
+          "title": "技术刘Pro：国际现货黄金仍未回补缺口，白银筹码迁移特征较明显",
+          "url": "https://flash.jin10.com/detail/20260727210205470800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "国投白银LOF提示二级市场溢价风险",
           "url": "https://flash.jin10.com/detail/20260727181453771800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Strategy在7月20日至26日期间未进行任何比特币购买。",
+          "url": "https://wallstreetcn.com/livenews/3140319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
