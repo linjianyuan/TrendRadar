@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T09:43:01.637682+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-07-30T12:51:14.140154+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -15,11 +15,12 @@
             2,
             3,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 09时43分]"
+          "appearance_count": 7,
+          "time_info": "[04时14分 ~ 12时51分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -30,8 +31,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 09时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 12时51分]"
+        },
+        {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时14分 ~ 12时51分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时14分 ~ 12时51分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -78,28 +105,16 @@
           "time_info": "06时05分"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            18,
-            14
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 09时43分]"
-        },
-        {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 12时51分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -135,15 +150,15 @@
           "time_info": "[04时14分 ~ 07时55分]"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 09时43分]"
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
@@ -273,7 +288,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -299,11 +314,12 @@
           "url": "https://www.cls.cn/detail/2440737",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 09时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 12时51分]"
         },
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -341,6 +357,18 @@
           "time_info": "[04时14分 ~ 09时43分]"
         },
         {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 12时51分]"
+        },
+        {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -350,17 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 06时05分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2590070",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 09时43分]"
         },
         {
           "title": "美股尾盘大跳水原因",
@@ -488,7 +505,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "证券时报：产业链韧性是A股市场坚固护城河",
@@ -508,9 +525,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "A股科技退潮",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "A股午评：科创50指数半日跌超6%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E8%AF%84%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%8D%8A%E6%97%A5%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "A股光刻机板块连跌三日，中船特气、捷众科技跌超8%，波长光电、东方嘉盛、茂莱光学、新莱应材等跟跌。",
@@ -519,7 +558,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -530,7 +569,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -552,7 +591,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -563,7 +602,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -574,7 +613,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -585,7 +624,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -596,7 +635,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -607,7 +646,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -629,9 +668,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "A股银行板块逆势走强，工商银行、建设银行均创历史新高，瑞丰银行、青农商行、沪农商行、无锡银行等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3142102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
@@ -648,8 +698,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 09时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 12时51分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
@@ -688,8 +738,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "加息概率骤降，金价上冲却被长债拦住！",
+          "url": "https://flash.jin10.com/detail/20260730122640008800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
         {
           "title": "金价在美联储决议声明发布日涨0.9%，沃什新闻发布会期间刷新日高",
           "url": "https://wallstreetcn.com/livenews/3141914",
@@ -716,7 +777,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15047.26吨。欢迎点击查看数据中心...",
@@ -728,12 +789,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "金十图示：2026年07月30日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260730115719723800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
     {
       "keyword_group": "上证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "上证指数开盘报3812.11点，跌0.43%。 深证成指开盘报13531.07点，跌0.93%。 创业板指开盘报3331.32点，跌1.40%。 沪深300开盘报4566.05点，跌0.74%。 科创50开盘报1653.47点，跌1.51%。 中证500开盘报7477.31点，跌0.63%。 中证1000开盘报7053.09点，跌0.59%。",
@@ -742,9 +814,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "上证指数早盘收报3784.55点，跌1.15%。 深证成指早盘收报13141.22点，跌3.79%。 创业板指早盘收报3179.58点，跌5.89%。 沪深300早盘收报4500.16点，跌2.18%。 科创50早盘收报1572.25点，跌6.34%。 中证500早盘收报7263.17点，跌3.47%。 中证1000早盘收报6893.24点，跌2.85%。",
+          "url": "https://wallstreetcn.com/livenews/3142126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
