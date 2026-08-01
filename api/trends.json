@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T22:28:47.240192+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-08-01T23:54:58.525716+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -42,8 +42,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 22时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 23时54分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 23时54分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -81,17 +94,19 @@
           "time_info": "[12时17分 ~ 17时54分]"
         },
         {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
+            16,
+            14,
             10,
-            9,
-            8
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 22时28分]"
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 23时54分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -118,20 +133,6 @@
           "time_info": "[05时59分 ~ 08时04分]"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时24分 ~ 22时28分]"
-        },
-        {
           "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
           "url": "https://flash.jin10.com/detail/20260801050537920800",
           "source": "金十数据",
@@ -142,6 +143,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时59分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 23时54分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
@@ -167,17 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时13分]"
-        },
-        {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时28分]"
         },
         {
           "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
@@ -210,11 +211,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时54分]"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -225,8 +227,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时54分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -393,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普说伊朗确实挺硬气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
@@ -406,11 +419,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时03分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[08时03分 ~ 23时54分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -448,8 +462,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时53分 ~ 22时28分]"
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 23时54分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -600,11 +614,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时53分 ~ 22时28分]"
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 23时54分]"
         },
         {
           "title": "A股科技板块全线反攻，机构称调整或接近尾声",
@@ -760,8 +775,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时59分 ~ 22时28分]"
+          "appearance_count": 14,
+          "time_info": "[06时59分 ~ 23时54分]"
         },
         {
           "title": "美联储没加息，30年期美债为何先“破防”？｜大师复盘",
