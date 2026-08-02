@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:55:39.445837+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-08-02T23:55:43.913378+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时08分 ~ 22时55分]"
+          "appearance_count": 8,
+          "time_info": "[16时08分 ~ 23时55分]"
         },
         {
           "title": "特朗普：已同意取消对伊朗的打击",
@@ -87,8 +87,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 22时55分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 23时55分]"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -101,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 22时55分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 23时55分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -115,6 +115,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 23时55分]"
         },
         {
           "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
@@ -153,16 +165,15 @@
           "time_info": "[00时52分 ~ 07时50分]"
         },
         {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
+          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
+          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 22时55分]"
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时55分]"
         },
         {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
@@ -229,17 +240,6 @@
           "time_info": "[02时57分 ~ 07时50分]"
         },
         {
-          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
-          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
           "url": "https://wallstreetcn.com/livenews/3143651",
           "source": "华尔街见闻-快讯",
@@ -252,6 +252,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时22分 ~ 19时56分]"
+        },
+        {
+          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
+          "url": "https://wallstreetcn.com/livenews/3143688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 23时55分]"
         },
         {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
@@ -290,18 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时08分 ~ 18时28分]"
-        },
-        {
-          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
-          "url": "https://wallstreetcn.com/livenews/3143688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时55分]"
         },
         {
           "title": "特朗普称同意取消军事打击伊朗",
@@ -498,8 +499,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 22时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时52分 ~ 23时55分]"
         },
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -508,9 +509,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时55分]"
         },
         {
           "title": "A股或告别科技独舞",
@@ -519,11 +520,12 @@
           "ranks": [
             18,
             19,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时56分 ~ 22时55分]"
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 23时55分]"
         },
         {
           "title": "A股“追光者”一月亏光336万",
@@ -542,11 +544,12 @@
           "url": "https://www.toutiao.com/trending/7669429334746074630/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时55分]"
         },
         {
           "title": "机构称A股8月修复可期",
@@ -589,8 +592,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 22时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时52分 ~ 23时55分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
