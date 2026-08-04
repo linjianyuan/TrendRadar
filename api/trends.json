@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T12:57:17.721030+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-08-04T15:33:13.855623+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时47分 ~ 12时57分]"
+          "appearance_count": 13,
+          "time_info": "[01时47分 ~ 15时33分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -29,8 +29,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时33分]"
+        },
+        {
+          "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
+          "url": "https://www.cls.cn/detail/2444694",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时33分]"
+        },
+        {
+          "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
+          "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时33分]"
         },
         {
           "title": "美25州联手，特朗普关税再遭阻击",
@@ -44,28 +69,16 @@
           "time_info": "[09时45分 ~ 12时57分]"
         },
         {
-          "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
-          "url": "https://www.cls.cn/detail/2444694",
+          "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
+          "url": "https://www.cls.cn/detail/2444679",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时57分]"
-        },
-        {
-          "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
-          "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时33分]"
         },
         {
           "title": "美国总统特朗普：为支持军人家庭采取新举措，签署行政命令成立首个总统军事配偶委员会。",
@@ -129,7 +142,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -158,49 +171,62 @@
           "time_info": "[01时48分 ~ 03时22分]"
         },
         {
-          "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
-          "url": "https://www.cls.cn/detail/2444679",
-          "source": "财联社热门",
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            8
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时57分]"
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "美媒：因凡蒂诺向特朗普求助",
           "url": "https://www.douyin.com/hot/2596620",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
           "url": "https://www.cls.cn/detail/2444718",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时33分]"
+        },
+        {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "time_info": "[15时32分 ~ 15时33分]"
+        },
+        {
+          "title": "美议员痛批特朗普行事反复无常",
+          "url": "https://www.toutiao.com/trending/7669578491814576137/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
@@ -470,7 +496,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
@@ -483,6 +509,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时47分 ~ 09时46分]"
+        },
+        {
+          "title": "A股又现“大肉签”，中一签最高可赚7.5万元",
+          "url": "https://www.cls.cn/detail/2444914",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
@@ -507,15 +545,15 @@
           "time_info": "[12时56分 ~ 12时57分]"
         },
         {
-          "title": "A股又现“大肉签”，中一签最高可赚7.5万元",
-          "url": "https://www.cls.cn/detail/2444914",
-          "source": "财联社热门",
+          "title": "A股“股王”涨停",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "A股半导体板块震荡走高，源杰科技涨超10%，华峰测控、国科微、伟测科技、炬光科技、芯朋微等跟涨。",
@@ -527,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "A股收盘：创业板指放量大涨5.64%，算力硬件股集体反弹",
+          "url": "https://wallstreetcn.com/livenews/3144587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "A股教育板块短线拉升，传智教育涨停，华图山鼎、创业黑马、科德教育、全通教育、博通股份等纷纷走高。",
@@ -549,6 +598,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "A股药企密集发布集采“成绩单”：有公司守擂失败 也有“光脚者”成功突围",
+          "url": "https://www.cls.cn/detail/2444832",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "长鑫科技为何能问鼎A股市值第一",
@@ -585,15 +646,15 @@
           "time_info": "[12时56分 ~ 12时57分]"
         },
         {
-          "title": "A股药企密集发布集采“成绩单”：有公司守擂失败 也有“光脚者”成功突围",
-          "url": "https://www.cls.cn/detail/2444832",
-          "source": "财联社热门",
+          "title": "A股收盘 创业板指放量大涨5.64%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98+%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%94%BE%E9%87%8F%E5%A4%A7%E6%B6%A85.64%25",
+          "source": "百度热搜",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "A股“易中天”大涨",
@@ -651,6 +712,50 @@
           "time_info": "07时08分"
         },
         {
+          "title": "A股CPO板块持续走高，A股“股王”联讯仪器涨停，协创数据、天孚通信、仕佳光子等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3144566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "A股收评：创业板指全天大涨5.64% CPO概念大爆发",
+          "url": "https://flash.jin10.com/detail/20260804150043206800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "A股股王大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%82%A1%E7%8E%8B%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "A股MLCC概念震荡拉升，博迁新材午后涨停，洁美科技、斯迪克、三环集团、商络电子、火炬电子、风华高科均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3144561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "中金公司：8月A股行情可能进入大幅回调后的修复阶段",
           "url": "https://wallstreetcn.com/livenews/3144407",
           "source": "华尔街见闻-快讯",
@@ -660,6 +765,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "A股PCB概念板块持续走强，沪电股份、兴森科技、东材科技、华正新材等20余股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3144554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "A股股王大涨超17%",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%82%A1%E7%8E%8B%E5%A4%A7%E6%B6%A8%E8%B6%8517%25%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     },
@@ -667,6 +794,28 @@
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时33分]"
+        },
+        {
+          "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
+          "url": "https://www.cls.cn/detail/2444684",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时33分]"
+        },
         {
           "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2444462",
@@ -679,28 +828,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时47分 ~ 09时46分]"
-        },
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时57分]"
-        },
-        {
-          "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
-          "url": "https://www.cls.cn/detail/2444684",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时57分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -874,6 +1001,67 @@
       ]
     },
     {
+      "keyword_group": "上证",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "上证指数收报3822.28点，涨0.33%。 深证成指收报13885.71点，涨3.25%。 创业板指收报3488.97点，涨5.64%。 沪深300收报4600.93点，涨1.27%。 科创50收报1616.36点，涨4.09%。 中证500收报7607.49点，涨2.60%。 中证1000收报7279.19点，涨2.82%。",
+          "url": "https://wallstreetcn.com/livenews/3144586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "上证指数开盘报3816.37点，涨0.18%。 深证成指开盘报13572.95点，涨0.93%。 创业板指开盘报3353.51点，涨1.54%。 沪深300开盘报4566.94点，涨0.52%。 科创50开盘报1569.62点，涨1.08%。 中证500开盘报7467.08点，涨0.71%。 中证1000开盘报7128.49点，涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3144430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "中国上证综指8月4日（周二）收盘上涨12.62点，涨幅：0.33%，报3822.28点；<br/>中国深证成指8月4日（周二）收盘上涨437.42点，涨幅：3.25%，报13885.71点；<br/>中国沪深300指数8月4日（周二）收盘上涨57.75点，涨幅：1.27%，报4600.93点；<br/>中国创业板指数8月4日（周二）收盘上涨186.41点，涨幅：5.64%，报3488.97点；<br/>中国科创50指数8月4日（周二）收盘上涨63.47点，涨幅：4.09%，报1616.36点。",
+          "url": "https://flash.jin10.com/detail/20260804150317420800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "上证指数早盘收报3815.59点，涨0.16%。 深证成指早盘收报13817.39点，涨2.74%。 创业板指早盘收报3462.05点，涨4.83%。 沪深300早盘收报4585.65点，涨0.93%。 科创50早盘收报1598.13点，涨2.91%。 中证500早盘收报7583.50点，涨2.28%。 中证1000早盘收报7261.93点，涨2.57%。",
+          "url": "https://wallstreetcn.com/livenews/3144508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "中国上证综指8月4日（周二）开盘上涨6.71点，涨幅：0.18%，报3816.37点；<br/>中国深证成指8月4日（周二）开盘上涨124.66点，涨幅：0.93%，报13572.95点；<br/>中国沪深300指数8月4日（周二）开盘上涨23.76点，涨幅：0.52%，报4566.94点；<br/>中国创业板指数8月4日（周二）开盘上涨50.96点，涨幅：1.54%，报3353.51点；<br/>中国科创50指数8月4日（周二）开盘上涨16.73点，涨幅：1.08%，报1569.62点。",
+          "url": "https://flash.jin10.com/detail/20260804092709699800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -949,7 +1137,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -963,45 +1151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上证指数开盘报3816.37点，涨0.18%。 深证成指开盘报13572.95点，涨0.93%。 创业板指开盘报3353.51点，涨1.54%。 沪深300开盘报4566.94点，涨0.52%。 科创50开盘报1569.62点，涨1.08%。 中证500开盘报7467.08点，涨0.71%。 中证1000开盘报7128.49点，涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3144430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "上证指数早盘收报3815.59点，涨0.16%。 深证成指早盘收报13817.39点，涨2.74%。 创业板指早盘收报3462.05点，涨4.83%。 沪深300早盘收报4585.65点，涨0.93%。 科创50早盘收报1598.13点，涨2.91%。 中证500早盘收报7583.50点，涨2.28%。 中证1000早盘收报7261.93点，涨2.57%。",
-          "url": "https://wallstreetcn.com/livenews/3144508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "中国上证综指8月4日（周二）开盘上涨6.71点，涨幅：0.18%，报3816.37点；<br/>中国深证成指8月4日（周二）开盘上涨124.66点，涨幅：0.93%，报13572.95点；<br/>中国沪深300指数8月4日（周二）开盘上涨23.76点，涨幅：0.52%，报4566.94点；<br/>中国创业板指数8月4日（周二）开盘上涨50.96点，涨幅：1.54%，报3353.51点；<br/>中国科创50指数8月4日（周二）开盘上涨16.73点，涨幅：1.08%，报1569.62点。",
-          "url": "https://flash.jin10.com/detail/20260804092709699800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
         }
       ]
     },
@@ -1046,11 +1195,12 @@
           "url": "https://wallstreetcn.com/articles/3778620",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
@@ -1059,7 +1209,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
@@ -1076,7 +1226,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
