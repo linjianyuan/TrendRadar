@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:33:13.855623+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-08-04T18:29:57.515522+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时47分 ~ 15时33分]"
+          "appearance_count": 14,
+          "time_info": "[01时47分 ~ 18时29分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -125,6 +125,31 @@
           "time_info": "01时48分"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时29分]"
+        },
+        {
           "title": "法院文件显示，美国25个州提起诉讼，挑战特朗普最新关税措施。",
           "url": "https://flash.jin10.com/detail/20260804031020118800",
           "source": "金十数据",
@@ -145,6 +170,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            8,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
         },
         {
           "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
@@ -171,30 +209,6 @@
           "time_info": "[01时48分 ~ 03时22分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时33分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时33分]"
-        },
-        {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
           "url": "https://www.cls.cn/detail/2444718",
           "source": "财联社热门",
@@ -205,17 +219,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时56分 ~ 15时33分]"
-        },
-        {
-          "title": "特朗普威胁对伊朗采取“斩首”行动",
-          "url": "https://www.douyin.com/hot/2596526",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "美议员痛批特朗普行事反复无常",
@@ -238,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
@@ -496,7 +510,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
@@ -516,11 +530,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
         },
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
@@ -545,17 +560,6 @@
           "time_info": "[12时56分 ~ 12时57分]"
         },
         {
-          "title": "A股“股王”涨停",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
-        },
-        {
           "title": "A股半导体板块震荡走高，源杰科技涨超10%，华峰测控、国科微、伟测科技、炬光科技、芯朋微等跟涨。",
           "url": "https://flash.jin10.com/detail/20260804094252070800",
           "source": "金十数据",
@@ -573,9 +577,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "A股“股王”涨停",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时29分]"
         },
         {
           "title": "A股教育板块短线拉升，传智教育涨停，华图山鼎、创业黑马、科德教育、全通教育、博通股份等纷纷走高。",
@@ -718,7 +734,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -729,7 +745,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -740,7 +756,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -751,7 +767,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -773,9 +789,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "A股股价前十红了9个",
+          "url": "https://www.toutiao.com/trending/7669281614337277979/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "A股股王大涨超17%",
@@ -784,7 +811,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -792,18 +819,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
           "url": "https://wallstreetcn.com/articles/3778526",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 18时29分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -977,6 +1005,17 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
+          "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3144672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美股科技巨头迎来强劲买盘",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%BF%8E%E6%9D%A5%E5%BC%BA%E5%8A%B2%E4%B9%B0%E7%9B%98%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1011,7 +1050,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -1033,7 +1072,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -1196,11 +1235,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
         },
         {
           "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
