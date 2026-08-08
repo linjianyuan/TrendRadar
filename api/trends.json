@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:31:17.438111+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-08-08T17:29:48.410554+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 17时29分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +32,23 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时46分 ~ 16时31分]"
+          "appearance_count": 18,
+          "time_info": "[03时46分 ~ 17时29分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 17时29分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -69,20 +84,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时59分 ~ 10时55分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时31分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -300,6 +301,17 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
           "url": "https://flash.jin10.com/detail/20260808031924352800",
           "source": "金十数据",
@@ -457,7 +469,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -469,8 +481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 17时29分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -490,25 +502,12 @@
           "ranks": [
             4,
             3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时26分 ~ 16时31分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
             5,
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 16时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 17时29分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -520,6 +519,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 05时31分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时46分 ~ 17时29分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -619,6 +633,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
@@ -730,11 +755,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 17时29分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
@@ -779,8 +805,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时29分]"
         }
       ]
     },
