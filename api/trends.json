@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:37:31.498400+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-08-08T15:42:31.219533+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时42分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时46分 ~ 14时37分]"
+          "appearance_count": 15,
+          "time_info": "[03时46分 ~ 15时42分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -63,11 +63,26 @@
           "source": "凤凰网",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时42分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -151,19 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时32分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时37分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -474,11 +476,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时26分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 15时42分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -491,8 +494,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时46分 ~ 14时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 15时42分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -515,8 +518,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时42分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -718,6 +721,34 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股一周牛股出炉 最牛股近乎翻倍",
+          "url": "https://www.toutiao.com/trending/7670202670728839195/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时32分]"
+        },
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比特币",
       "match_count": 1,
       "titles": [
@@ -736,23 +767,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股一周牛股出炉 最牛股近乎翻倍",
-          "url": "https://www.toutiao.com/trending/7670202670728839195/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 04时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -763,7 +777,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
