@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:20:46.942741+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-08-09T07:20:52.070096+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -126,8 +126,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -138,11 +138,12 @@
             16,
             17,
             11,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "伊拉克石油出口骤降75%将如何影响A股",
@@ -169,8 +170,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -180,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -192,8 +193,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时20分]"
         }
       ]
     },
@@ -208,11 +209,12 @@
           "ranks": [
             30,
             16,
-            11
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时20分]"
         }
       ]
     },
@@ -230,8 +232,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时20分]"
         }
       ]
     }
