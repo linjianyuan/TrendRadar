@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T16:32:56.817872+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-08-09T17:31:47.985170+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时31分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -41,11 +41,12 @@
             15,
             18,
             19,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 16时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 17时31分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -83,11 +84,23 @@
             20,
             23,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 16时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 17时31分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时56分 ~ 17时31分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -114,17 +127,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时26分 ~ 15时46分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 16时32分]"
         },
         {
           "title": "泰勒·斯威夫特下架特朗普团队音频",
@@ -189,8 +191,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时31分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -201,8 +203,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时56分 ~ 17时31分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -215,8 +217,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时31分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -236,11 +238,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 17时31分]"
         }
       ]
     },
@@ -256,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时31分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -331,8 +334,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时31分]"
         }
       ]
     },
