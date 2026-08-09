@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T20:33:11.436980+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-08-09T21:43:18.435950+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时23分 ~ 20时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 21时43分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -100,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时56分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[12时56分 ~ 21时43分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -147,11 +147,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 20时33分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 21时43分]"
         },
         {
           "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
@@ -185,11 +186,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时43分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -230,7 +232,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -240,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时23分 ~ 20时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 21时43分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -299,6 +301,17 @@
           "time_info": "[02时24分 ~ 02时25分]"
         },
         {
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "A股下周怎么走",
           "url": "https://www.toutiao.com/trending/7671194499733012489/",
           "source": "今日头条",
@@ -324,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时56分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[12时56分 ~ 21时43分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -362,11 +375,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 20时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时26分 ~ 21时43分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -385,11 +399,12 @@
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时43分]"
         }
       ]
     },
@@ -418,11 +433,12 @@
           "ranks": [
             24,
             9,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 21时43分]"
         }
       ]
     },
