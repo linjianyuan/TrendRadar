@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:57:12.544164+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-08-09T13:43:37.574674+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时43分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -42,8 +42,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 13时43分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -69,8 +69,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 13时43分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时43分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -101,11 +101,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时43分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时43分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -118,17 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时25分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -167,8 +168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时43分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -179,8 +180,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时43分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -202,8 +203,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时43分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -214,8 +215,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时43分]"
         }
       ]
     },
@@ -231,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时43分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -247,11 +248,12 @@
             12,
             20,
             25,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时43分]"
         },
         {
           "title": "周一A股真正要看什么",
