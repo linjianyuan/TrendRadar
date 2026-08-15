@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T06:15:11.931836+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-08-15T08:44:41.361489+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -15,8 +15,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 08时44分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "特朗普称将宣布霍尔木兹为“美国领土”",
+          "url": "https://www.toutiao.com/trending/7673394710149267497/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -54,6 +76,30 @@
           "time_info": "[02时24分 ~ 04时24分]"
         },
         {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/livenews/3149885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 08时44分]"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
+          "url": "https://flash.jin10.com/detail/20260815050235011800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 08时44分]"
+        },
+        {
           "title": "美国总统特朗普：对伊朗的封锁势不可挡，封锁是一道钢铁之墙。",
           "url": "https://flash.jin10.com/detail/20260815035842401800",
           "source": "金十数据",
@@ -63,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         },
         {
           "title": "美国总统特朗普：美国汽油价格会因此小幅上涨。",
@@ -87,17 +144,6 @@
           "time_info": "04时24分"
         },
         {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/livenews/3149885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "美国总统特朗普：我们不会允许伊朗继续所作所为 。",
           "url": "https://flash.jin10.com/detail/20260815035651937800",
           "source": "金十数据",
@@ -120,6 +166,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://wallstreetcn.com/livenews/3149900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
           "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
           "url": "https://wallstreetcn.com/livenews/3149861",
           "source": "华尔街见闻-快讯",
@@ -129,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我很快将宣布霍尔木兹海峡为美国领土。",
@@ -186,24 +254,13 @@
           "time_info": "04时24分"
         },
         {
-          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
-          "url": "https://flash.jin10.com/detail/20260815050235011800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
           "url": "https://wallstreetcn.com/livenews/3149874",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -244,7 +301,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -281,6 +338,17 @@
           "time_info": "[04时24分 ~ 06时15分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260815011957438800",
           "source": "金十数据",
@@ -305,19 +373,82 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 2,
+      "keyword_group": "A股",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "4家A股公司公告：终止资产重组事项",
+          "url": "https://www.cls.cn/detail/2454846",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 08时44分]"
+        },
+        {
+          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
+          "url": "https://www.cls.cn/detail/2454642",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 08时44分]"
+        },
+        {
+          "title": "A股半年报盘点",
+          "url": "https://wallstreetcn.com/livenews/3149904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "Wind数据显示，8月15日，A股共12家公司发布定增相关公告。其中，2家公司披露股票定增预案，5家定增预案获股东大会通过，2家定增预案获交易所通过，2家定增方案停止实施。新雷能、智洋创新定增募资预案金额最高，分别拟定增不超17.87亿元、9.04亿元。",
+          "url": "https://wallstreetcn.com/livenews/3149901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少23.9吨，当前持仓量为15312.13吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260815081848459800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
         {
           "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
           "url": "https://wallstreetcn.com/livenews/3149887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 08时44分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至8月11日当周，COMEX黄金投机者净多头头寸增加9,470份合约，至141,868份合约。COMEX白银投机者净多头头寸减少755份合约，至10,312份合约。COMEX铜投机者净多头头寸增加3,085份合约，至80,880份合约。",
@@ -333,59 +464,43 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "4家A股公司公告：终止资产重组事项",
-          "url": "https://www.cls.cn/detail/2454846",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时15分]"
-        },
-        {
-          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
-          "url": "https://www.cls.cn/detail/2454642",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 08时44分]"
+        },
+        {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
           "url": "https://wallstreetcn.com/livenews/3149890",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 08时44分]"
         }
       ]
     },
