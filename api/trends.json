@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-17T08:45:06.279245+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-08-17T12:34:07.844707+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 12时34分]"
+        },
+        {
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 12时34分]"
+        },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
           "url": "https://wallstreetcn.com/articles/3779521",
@@ -19,17 +41,6 @@
           "time_info": "[02时17分 ~ 08时45分]"
         },
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
           "title": "沙土巴3国签署共同防务协议，特朗普发声",
           "url": "https://news.ifeng.com/c/8veP1BeKo8D",
           "source": "凤凰网",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 08时45分]"
+        },
+        {
+          "title": "沙土巴三国签署共同防务协议，特朗普发声",
+          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
@@ -63,17 +85,6 @@
           "time_info": "[02时17分 ~ 05时13分]"
         },
         {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
           "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
           "url": "https://flash.jin10.com/detail/20260817043331858800",
           "source": "金十数据",
@@ -85,6 +96,28 @@
           "time_info": "05时13分"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
           "url": "https://wallstreetcn.com/livenews/3150053",
           "source": "华尔街见闻-快讯",
@@ -94,6 +127,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普已指示“大幅缩减”美韩军演",
+          "url": "https://www.toutiao.com/trending/7674325678535491611/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "特朗普为何要求航母改回蒸汽弹射",
@@ -201,7 +245,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
@@ -209,7 +253,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
@@ -220,8 +264,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 08时45分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 12时34分]"
+        },
+        {
+          "title": "长鑫科技大涨！A股全线飘红",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A8%EF%BC%81A%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%98%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "A股温度计",
@@ -230,9 +285,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "A股年内最贵新股要来了",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E8%B4%B5%E6%96%B0%E8%82%A1%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -257,13 +323,35 @@
           "time_info": "[08时44分 ~ 08时45分]"
         },
         {
+          "title": "A股股王长鑫科技市值重回4万亿",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%82%A1%E7%8E%8B%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E4%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "A股年内94只新股上市，首日平均涨幅279.22%",
           "url": "https://wallstreetcn.com/livenews/3150107",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -274,9 +362,93 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "药明康德A股涨超5%，H股涨超4%，齐创历史新高，A+H股总市值突破5000亿。",
+          "url": "https://wallstreetcn.com/livenews/3150191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "A股午评：科创50指数半日涨3% 粮食概念、芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260817113516745800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价大涨藏着什么信号",
+          "url": "https://www.toutiao.com/trending/7674833333351632403/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "9月按兵不动成主流，本周金价线索藏在美联储细节中",
+          "url": "https://flash.jin10.com/detail/20260817113428866800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月17日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260817115539575800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3960.19点，涨0.84%。 深证成指早盘收报14534.46点，涨1.26%。 创业板指早盘收报3674.68点，涨1.33%。 沪深300早盘收报4701.19点，涨0.76%。 科创50早盘收报1769.93点，涨3.04%。 中证500早盘收报8119.26点，涨1.61%。 中证1000早盘收报7887.92点，涨1.52%。",
+          "url": "https://wallstreetcn.com/livenews/3150199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     }
